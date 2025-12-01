@@ -1,0 +1,1384 @@
+[
+  {
+    "object_id": "mug_ceramic_1",
+    "category": "mug",
+    "super_category": "kitchenware",
+    "features": [
+      "aff_drink_from",
+      "aff_graspable",
+      "aff_heat_in",
+      "aff_store_in",
+      "color_white",
+      "geom_cavity",
+      "geom_wide",
+      "loc_tabletop",
+      "mat_ceramic",
+      "part_handle",
+      "phys_heat_resistant",
+      "phys_rigid",
+      "room_kitchen",
+      "size_small",
+      "tex_smooth"
+    ],
+    "functions": [
+      "drink",
+      "contain",
+      "heat"
+    ]
+  },
+  {
+    "object_id": "cup_glass_1",
+    "category": "cup",
+    "super_category": "kitchenware",
+    "features": [
+      "aff_drink_from",
+      "aff_graspable",
+      "aff_store_in",
+      "color_transparent",
+      "geom_cavity",
+      "loc_tabletop",
+      "mat_glass",
+      "phys_rigid",
+      "room_kitchen",
+      "size_small",
+      "tex_smooth"
+    ],
+    "functions": [
+      "drink",
+      "contain"
+    ]
+  },
+  {
+    "object_id": "cup_plastic_1",
+    "category": "cup",
+    "super_category": "kitchenware",
+    "features": [
+      "aff_drink_from",
+      "aff_graspable",
+      "aff_store_in",
+      "color_colorful",
+      "geom_cavity",
+      "loc_tabletop",
+      "mat_plastic",
+      "phys_rigid",
+      "room_kitchen",
+      "size_small",
+      "tex_smooth"
+    ],
+    "functions": [
+      "drink",
+      "contain"
+    ]
+  },
+  {
+    "object_id": "bowl_ceramic_1",
+    "category": "bowl",
+    "super_category": "kitchenware",
+    "features": [
+      "aff_cook_with",
+      "aff_eat_from",
+      "aff_graspable",
+      "aff_heat_in",
+      "aff_store_in",
+      "color_white",
+      "geom_cavity",
+      "geom_wide",
+      "loc_tabletop",
+      "mat_ceramic",
+      "phys_heat_resistant",
+      "phys_rigid",
+      "room_kitchen",
+      "size_small",
+      "tex_smooth"
+    ],
+    "functions": [
+      "eat",
+      "contain",
+      "heat"
+    ]
+  },
+  {
+    "object_id": "plate_ceramic_1",
+    "category": "plate",
+    "super_category": "kitchenware",
+    "features": [
+      "aff_eat_from",
+      "aff_graspable",
+      "color_white",
+      "geom_flat",
+      "loc_tabletop",
+      "mat_ceramic",
+      "phys_heat_resistant",
+      "phys_rigid",
+      "room_kitchen",
+      "size_medium",
+      "tex_smooth"
+    ],
+    "functions": [
+      "eat"
+    ]
+  },
+  {
+    "object_id": "kettle_metal_1",
+    "category": "kettle",
+    "super_category": "kitchenware",
+    "features": [
+      "aff_cook_with",
+      "aff_drink_from",
+      "aff_graspable",
+      "aff_heat_in",
+      "aff_store_in",
+      "color_silver",
+      "geom_cavity",
+      "loc_tabletop",
+      "mat_metal",
+      "part_handle",
+      "part_spout",
+      "phys_heat_resistant",
+      "phys_rigid",
+      "room_kitchen",
+      "size_medium",
+      "tex_smooth"
+    ],
+    "functions": [
+      "heat",
+      "pour",
+      "contain",
+      "drink"
+    ]
+  },
+  {
+    "object_id": "pot_metal_1",
+    "category": "pot",
+    "super_category": "kitchenware",
+    "features": [
+      "aff_cook_with",
+      "aff_graspable",
+      "aff_heat_in",
+      "aff_store_in",
+      "color_silver",
+      "geom_cavity",
+      "loc_tabletop",
+      "mat_metal",
+      "part_handle",
+      "part_lid",
+      "phys_heat_resistant",
+      "phys_rigid",
+      "room_kitchen",
+      "size_medium",
+      "tex_smooth"
+    ],
+    "functions": [
+      "cook",
+      "heat",
+      "contain"
+    ]
+  },
+  {
+    "object_id": "pan_metal_1",
+    "category": "pan",
+    "super_category": "kitchenware",
+    "features": [
+      "aff_cook_with",
+      "aff_graspable",
+      "aff_heat_in",
+      "color_silver",
+      "geom_cavity",
+      "geom_wide",
+      "loc_tabletop",
+      "mat_metal",
+      "part_handle",
+      "phys_heat_resistant",
+      "phys_rigid",
+      "room_kitchen",
+      "size_medium",
+      "tex_smooth"
+    ],
+    "functions": [
+      "cook",
+      "heat"
+    ]
+  },
+  {
+    "object_id": "knife_metal_1",
+    "category": "knife",
+    "super_category": "kitchenware",
+    "features": [
+      "aff_cut_with",
+      "aff_eat_with",
+      "aff_graspable",
+      "color_silver",
+      "geom_long",
+      "loc_tabletop",
+      "mat_metal",
+      "part_blade",
+      "phys_rigid",
+      "phys_sharp",
+      "room_kitchen",
+      "size_small",
+      "tex_smooth"
+    ],
+    "functions": [
+      "cut"
+    ]
+  },
+  {
+    "object_id": "cutting_board_wood_1",
+    "category": "cutting_board",
+    "super_category": "kitchenware",
+    "features": [
+      "aff_cut_on",
+      "color_brown",
+      "geom_flat",
+      "loc_tabletop",
+      "mat_wood",
+      "phys_rigid",
+      "room_kitchen",
+      "size_medium",
+      "tex_rough"
+    ],
+    "functions": [
+      "cut"
+    ]
+  },
+  {
+    "object_id": "spoon_metal_1",
+    "category": "spoon",
+    "super_category": "kitchenware",
+    "features": [
+      "aff_eat_with",
+      "aff_graspable",
+      "aff_stir_with",
+      "color_silver",
+      "geom_cavity",
+      "geom_long",
+      "loc_tabletop",
+      "mat_metal",
+      "part_handle",
+      "phys_rigid",
+      "room_kitchen",
+      "size_small",
+      "tex_smooth"
+    ],
+    "functions": [
+      "eat",
+      "stir"
+    ]
+  },
+  {
+    "object_id": "fork_metal_1",
+    "category": "fork",
+    "super_category": "kitchenware",
+    "features": [
+      "aff_eat_with",
+      "aff_graspable",
+      "color_silver",
+      "geom_long",
+      "loc_tabletop",
+      "mat_metal",
+      "phys_rigid",
+      "phys_sharp",
+      "room_kitchen",
+      "size_small",
+      "tex_smooth"
+    ],
+    "functions": [
+      "eat"
+    ]
+  },
+  {
+    "object_id": "fridge_1",
+    "category": "fridge",
+    "features": [
+      "aff_cool_in",
+      "aff_store_in",
+      "color_white",
+      "geom_box",
+      "loc_floor",
+      "mat_metal",
+      "phys_rigid",
+      "room_kitchen",
+      "size_large",
+      "tex_smooth"
+    ],
+    "functions": [
+      "cool",
+      "store"
+    ]
+  },
+  {
+    "object_id": "microwave_1",
+    "category": "microwave",
+    "features": [
+      "aff_cook_with",
+      "aff_heat_in",
+      "color_white",
+      "geom_box",
+      "loc_tabletop",
+      "mat_metal",
+      "part_screen",
+      "phys_heat_resistant",
+      "phys_rigid",
+      "room_kitchen",
+      "size_medium",
+      "tex_smooth"
+    ],
+    "functions": [
+      "heat",
+      "cook"
+    ]
+  },
+  {
+    "object_id": "table_wood_1",
+    "category": "table",
+    "features": [
+      "aff_eat_on",
+      "aff_support_on",
+      "aff_work_on",
+      "color_brown",
+      "geom_flat",
+      "loc_floor",
+      "mat_wood",
+      "part_legs",
+      "phys_rigid",
+      "room_dining",
+      "size_large",
+      "tex_rough"
+    ],
+    "functions": [
+      "support",
+      "eat",
+      "work"
+    ]
+  },
+  {
+    "object_id": "chair_fabric_1",
+    "category": "chair",
+    "features": [
+      "aff_sit_on",
+      "color_colored",
+      "geom_flat",
+      "loc_floor",
+      "mat_fabric",
+      "mat_wood",
+      "part_backrest",
+      "part_legs",
+      "phys_cushioned",
+      "phys_rigid",
+      "phys_soft",
+      "room_dining",
+      "size_medium",
+      "tex_soft"
+    ],
+    "functions": [
+      "sit"
+    ]
+  },
+  {
+    "object_id": "sofa_fabric_1",
+    "category": "sofa",
+    "features": [
+      "aff_lie_on",
+      "aff_sit_on",
+      "aff_sleep_on",
+      "color_colored",
+      "geom_flat",
+      "geom_wide",
+      "loc_floor",
+      "mat_fabric",
+      "part_backrest",
+      "phys_cushioned",
+      "phys_soft",
+      "room_living",
+      "size_large",
+      "tex_soft"
+    ],
+    "functions": [
+      "sit",
+      "lie",
+      "sleep"
+    ]
+  },
+  {
+    "object_id": "bed_1",
+    "category": "bed",
+    "features": [
+      "aff_lie_on",
+      "aff_sleep_on",
+      "color_brown",
+      "color_colored",
+      "geom_flat",
+      "loc_floor",
+      "mat_fabric",
+      "mat_wood",
+      "phys_cushioned",
+      "phys_soft",
+      "room_bedroom",
+      "size_large",
+      "tex_rough",
+      "tex_soft"
+    ],
+    "functions": [
+      "lie",
+      "sleep"
+    ]
+  },
+  {
+    "object_id": "book_1",
+    "category": "book",
+    "features": [
+      "aff_graspable",
+      "aff_read_from",
+      "color_multicolor",
+      "geom_flat",
+      "loc_tabletop",
+      "mat_paper",
+      "phys_rigid",
+      "room_study",
+      "size_small",
+      "tex_rough"
+    ],
+    "functions": [
+      "read"
+    ]
+  },
+  {
+    "object_id": "laptop_1",
+    "category": "laptop",
+    "features": [
+      "aff_graspable",
+      "aff_read_from",
+      "aff_type_on",
+      "aff_watch_on",
+      "appearance_digital",
+      "color_silver",
+      "geom_flat",
+      "loc_tabletop",
+      "mat_metal",
+      "part_screen",
+      "phys_rigid",
+      "room_study",
+      "size_small",
+      "tex_smooth"
+    ],
+    "functions": [
+      "read",
+      "write",
+      "watch"
+    ]
+  },
+  {
+    "object_id": "tshirt_1",
+    "category": "clothes",
+    "features": [
+      "aff_graspable",
+      "aff_wear_on_body",
+      "color_colored",
+      "loc_body",
+      "mat_fabric",
+      "phys_soft",
+      "room_bedroom",
+      "size_medium",
+      "tex_soft"
+    ],
+    "functions": [
+      "wear"
+    ]
+  },
+  {
+    "object_id": "coat_1",
+    "category": "clothes",
+    "features": [
+      "aff_graspable",
+      "aff_wear_on_body",
+      "color_colored",
+      "loc_body",
+      "mat_fabric",
+      "phys_soft",
+      "room_bedroom",
+      "size_large",
+      "tex_soft"
+    ],
+    "functions": [
+      "wear"
+    ]
+  },
+  {
+    "object_id": "mug_metal_1",
+    "category": "mug",
+    "super_category": "kitchenware",
+    "features": [
+      "aff_drink_from",
+      "aff_graspable",
+      "aff_heat_in",
+      "aff_store_in",
+      "color_silver",
+      "geom_cavity",
+      "geom_wide",
+      "loc_tabletop",
+      "mat_metal",
+      "part_handle",
+      "phys_heat_resistant",
+      "phys_rigid",
+      "room_kitchen",
+      "size_small",
+      "tex_smooth"
+    ],
+    "functions": [
+      "drink",
+      "contain",
+      "heat"
+    ]
+  },
+  {
+    "object_id": "glass_tall_1",
+    "category": "cup",
+    "super_category": "kitchenware",
+    "features": [
+      "aff_drink_from",
+      "aff_graspable",
+      "aff_store_in",
+      "color_transparent",
+      "geom_cavity",
+      "geom_long",
+      "loc_tabletop",
+      "mat_glass",
+      "phys_rigid",
+      "room_kitchen",
+      "size_medium",
+      "tex_smooth"
+    ],
+    "functions": [
+      "drink",
+      "contain"
+    ]
+  },
+  {
+    "object_id": "wine_glass_1",
+    "category": "cup",
+    "super_category": "kitchenware",
+    "features": [
+      "aff_drink_from",
+      "aff_graspable",
+      "aff_store_in",
+      "color_transparent",
+      "geom_cavity",
+      "geom_long",
+      "loc_tabletop",
+      "mat_glass",
+      "part_handle",
+      "phys_rigid",
+      "room_kitchen",
+      "size_small",
+      "tex_smooth"
+    ],
+    "functions": [
+      "drink",
+      "contain"
+    ]
+  },
+  {
+    "object_id": "bowl_plastic_1",
+    "category": "bowl",
+    "super_category": "kitchenware",
+    "features": [
+      "aff_cook_with",
+      "aff_eat_from",
+      "aff_graspable",
+      "aff_heat_in",
+      "aff_store_in",
+      "color_colorful",
+      "geom_cavity",
+      "geom_wide",
+      "loc_tabletop",
+      "mat_plastic",
+      "phys_heat_resistant",
+      "phys_rigid",
+      "room_kitchen",
+      "size_small",
+      "tex_smooth"
+    ],
+    "functions": [
+      "eat",
+      "contain",
+      "heat"
+    ]
+  },
+  {
+    "object_id": "baking_dish_glass_1",
+    "category": "baking_dish",
+    "super_category": "kitchenware",
+    "features": [
+      "aff_cook_with",
+      "aff_eat_from",
+      "aff_graspable",
+      "aff_heat_in",
+      "aff_store_in",
+      "color_transparent",
+      "geom_box",
+      "loc_tabletop",
+      "mat_glass",
+      "phys_heat_resistant",
+      "phys_rigid",
+      "room_kitchen",
+      "size_medium",
+      "tex_smooth"
+    ],
+    "functions": [
+      "cook",
+      "contain",
+      "heat",
+      "eat"
+    ]
+  },
+  {
+    "object_id": "serving_plate_large_1",
+    "category": "plate",
+    "super_category": "kitchenware",
+    "features": [
+      "aff_eat_from",
+      "aff_graspable",
+      "color_white",
+      "geom_flat",
+      "loc_tabletop",
+      "mat_ceramic",
+      "phys_heat_resistant",
+      "phys_rigid",
+      "room_kitchen",
+      "size_large",
+      "tex_smooth"
+    ],
+    "functions": [
+      "eat"
+    ]
+  },
+  {
+    "object_id": "tray_metal_1",
+    "category": "tray",
+    "super_category": "kitchenware",
+    "features": [
+      "aff_eat_from",
+      "aff_graspable",
+      "aff_support_on",
+      "color_silver",
+      "geom_flat",
+      "geom_wide",
+      "loc_tabletop",
+      "mat_metal",
+      "phys_rigid",
+      "room_kitchen",
+      "size_large",
+      "tex_smooth"
+    ],
+    "functions": [
+      "eat",
+      "support"
+    ]
+  },
+  {
+    "object_id": "stool_wood_1",
+    "category": "stool",
+    "features": [
+      "aff_sit_on",
+      "color_brown",
+      "geom_flat",
+      "loc_floor",
+      "mat_wood",
+      "part_legs",
+      "phys_rigid",
+      "room_dining",
+      "size_medium",
+      "tex_rough"
+    ],
+    "functions": [
+      "sit",
+      "support"
+    ]
+  },
+  {
+    "object_id": "floor_cushion_1",
+    "category": "cushion",
+    "features": [
+      "aff_lie_on",
+      "aff_sit_on",
+      "color_colored",
+      "geom_flat",
+      "geom_wide",
+      "loc_floor",
+      "mat_fabric",
+      "phys_cushioned",
+      "phys_soft",
+      "room_living",
+      "size_medium",
+      "tex_soft"
+    ],
+    "functions": [
+      "sit",
+      "lie"
+    ]
+  },
+  {
+    "object_id": "pillow_bed_1",
+    "category": "pillow",
+    "features": [
+      "aff_lie_on",
+      "aff_sleep_on",
+      "color_colored",
+      "geom_flat",
+      "loc_floor",
+      "mat_fabric",
+      "phys_cushioned",
+      "phys_soft",
+      "room_bedroom",
+      "size_small",
+      "tex_soft"
+    ],
+    "functions": [
+      "sleep"
+    ]
+  },
+  {
+    "object_id": "desk_wood_1",
+    "category": "desk",
+    "features": [
+      "aff_support_on",
+      "aff_work_on",
+      "color_brown",
+      "geom_flat",
+      "loc_floor",
+      "mat_wood",
+      "part_legs",
+      "phys_rigid",
+      "room_study",
+      "size_large",
+      "tex_rough"
+    ],
+    "functions": [
+      "support",
+      "work"
+    ]
+  },
+  {
+    "object_id": "bookshelf_wood_1",
+    "category": "bookshelf",
+    "features": [
+      "aff_store_in",
+      "color_brown",
+      "geom_box",
+      "loc_floor",
+      "mat_wood",
+      "phys_rigid",
+      "room_study",
+      "size_large",
+      "tex_rough"
+    ],
+    "functions": [
+      "store",
+      "support"
+    ]
+  },
+  {
+    "object_id": "wardrobe_wood_1",
+    "category": "wardrobe",
+    "features": [
+      "aff_store_in",
+      "color_brown",
+      "geom_box",
+      "loc_floor",
+      "mat_wood",
+      "phys_rigid",
+      "room_bedroom",
+      "size_large",
+      "tex_rough"
+    ],
+    "functions": [
+      "store"
+    ]
+  },
+  {
+    "object_id": "hoodie_1",
+    "category": "clothes",
+    "features": [
+      "aff_graspable",
+      "aff_wear_on_body",
+      "color_colored",
+      "loc_body",
+      "mat_fabric",
+      "phys_soft",
+      "room_bedroom",
+      "size_medium",
+      "tex_soft"
+    ],
+    "functions": [
+      "wear"
+    ]
+  },
+  {
+    "object_id": "jeans_1",
+    "category": "clothes",
+    "features": [
+      "aff_graspable",
+      "aff_wear_on_body",
+      "color_colored",
+      "loc_body",
+      "mat_fabric",
+      "phys_soft",
+      "room_bedroom",
+      "size_medium",
+      "tex_soft"
+    ],
+    "functions": [
+      "wear"
+    ]
+  },
+  {
+  "object_id": "test_glass_tumbler_1",
+  "category": "glass",
+  "super_category": "kitchenware",
+  "features": [
+    "geom_cavity",
+    "size_small",
+    "mat_glass",
+    "phys_rigid",
+    "tex_smooth",
+    "color_transparent",
+    "loc_tabletop",
+    "room_kitchen",
+    "aff_drink_from",
+    "aff_store_in",
+    "aff_graspable"
+  ],
+  "functions": [
+    "drink",
+    "contain"
+  ]
+},
+{
+  "object_id": "test_paper_cup_2",
+  "category": "cup",
+  "super_category": "kitchenware",
+  "features": [
+    "geom_cavity",
+    "size_small",
+    "mat_paper",
+    "phys_rigid",
+    "tex_smooth",
+    "color_white",
+    "loc_tabletop",
+    "room_kitchen",
+    "aff_drink_from",
+    "aff_store_in",
+    "aff_graspable"
+  ],
+  "functions": [
+    "drink",
+    "contain"
+  ]
+},
+{
+  "object_id": "test_plastic_tumbler_1",
+  "category": "cup",
+  "super_category": "kitchenware",
+  "features": [
+    "geom_cavity",
+    "size_small",
+    "mat_plastic",
+    "phys_rigid",
+    "tex_smooth",
+    "color_colored",
+    "loc_tabletop",
+    "room_kitchen",
+    "aff_drink_from",
+    "aff_store_in",
+    "aff_graspable"
+  ],
+  "functions": [
+    "drink",
+    "contain"
+  ]
+},
+{
+  "object_id": "test_ceramic_mug_2",
+  "category": "mug",
+  "super_category": "kitchenware",
+  "features": [
+    "geom_cavity",
+    "size_small",
+    "geom_wide",
+    "part_handle",
+    "mat_ceramic",
+    "phys_rigid",
+    "phys_heat_resistant",
+    "tex_smooth",
+    "color_white",
+    "loc_tabletop",
+    "room_kitchen",
+    "aff_drink_from",
+    "aff_store_in",
+    "aff_heat_in",
+    "aff_graspable"
+  ],
+  "functions": [
+    "drink",
+    "contain",
+    "heat"
+  ]
+},
+{
+  "object_id": "test_glass_mug_2",
+  "category": "mug",
+  "super_category": "kitchenware",
+  "features": [
+    "geom_cavity",
+    "size_small",
+    "geom_wide",
+    "part_handle",
+    "mat_glass",
+    "phys_rigid",
+    "phys_heat_resistant",
+    "tex_smooth",
+    "color_transparent",
+    "loc_tabletop",
+    "room_kitchen",
+    "aff_drink_from",
+    "aff_store_in",
+    "aff_heat_in",
+    "aff_graspable"
+  ],
+  "functions": [
+    "drink",
+    "contain",
+    "heat"
+  ]
+},
+{
+  "object_id": "test_metal_pot_1",
+  "category": "pot",
+  "super_category": "kitchenware",
+  "features": [
+    "geom_cavity",
+    "geom_wide",
+    "size_medium",
+    "part_handle",
+    "mat_metal",
+    "phys_rigid",
+    "phys_heat_resistant",
+    "tex_smooth",
+    "color_silver",
+    "loc_tabletop",
+    "room_kitchen",
+    "aff_cook_with",
+    "aff_heat_in",
+    "aff_store_in",
+    "aff_eat_from",
+    "aff_graspable"
+  ],
+  "functions": [
+    "cook",
+    "contain",
+    "heat",
+    "eat"
+  ]
+},
+{
+  "object_id": "test_saucepan_1",
+  "category": "pot",
+  "super_category": "kitchenware",
+  "features": [
+    "geom_cavity",
+    "geom_wide",
+    "size_medium",
+    "part_handle",
+    "part_spout",
+    "mat_metal",
+    "phys_rigid",
+    "phys_heat_resistant",
+    "tex_smooth",
+    "color_silver",
+    "loc_tabletop",
+    "room_kitchen",
+    "aff_cook_with",
+    "aff_heat_in",
+    "aff_store_in",
+    "aff_drink_from",
+    "aff_graspable"
+  ],
+  "functions": [
+    "cook",
+    "contain",
+    "heat",
+    "pour",
+    "eat"
+  ]
+},
+{
+  "object_id": "test_soup_bowl_2",
+  "category": "bowl",
+  "super_category": "kitchenware",
+  "features": [
+    "geom_cavity",
+    "geom_wide",
+    "size_medium",
+    "mat_ceramic",
+    "phys_rigid",
+    "phys_heat_resistant",
+    "tex_smooth",
+    "color_white",
+    "loc_tabletop",
+    "room_kitchen",
+    "aff_eat_from",
+    "aff_store_in",
+    "aff_graspable"
+  ],
+  "functions": [
+    "eat",
+    "contain"
+  ]
+},
+{
+  "object_id": "test_deep_plate_1",
+  "category": "plate",
+  "super_category": "kitchenware",
+  "features": [
+    "geom_cavity",
+    "geom_wide",
+    "size_medium",
+    "mat_ceramic",
+    "phys_rigid",
+    "phys_heat_resistant",
+    "tex_smooth",
+    "color_white",
+    "loc_tabletop",
+    "room_kitchen",
+    "aff_eat_from",
+    "aff_store_in",
+    "aff_graspable"
+  ],
+  "functions": [
+    "eat",
+    "contain"
+  ]
+},
+{
+  "object_id": "test_flat_plate_2",
+  "category": "plate",
+  "super_category": "kitchenware",
+  "features": [
+    "geom_flat",
+    "size_medium",
+    "mat_ceramic",
+    "phys_rigid",
+    "phys_heat_resistant",
+    "tex_smooth",
+    "color_white",
+    "loc_tabletop",
+    "room_kitchen",
+    "aff_eat_from",
+    "aff_graspable"
+  ],
+  "functions": [
+    "eat"
+  ]
+},
+{
+  "object_id": "test_cutting_board_2",
+  "category": "board",
+  "super_category": "kitchenware",
+  "features": [
+    "geom_flat",
+    "size_medium",
+    "mat_wood",
+    "phys_rigid",
+    "tex_rough",
+    "color_brown",
+    "loc_tabletop",
+    "room_kitchen",
+    "aff_cut_on",
+    "aff_eat_on",
+    "aff_support_on"
+  ],
+  "functions": [
+    "cut",
+    "support",
+    "eat"
+  ]
+},
+{
+  "object_id": "test_chef_knife_2",
+  "category": "knife",
+  "super_category": "kitchenware",
+  "features": [
+    "geom_long",
+    "geom_flat",
+    "size_small",
+    "mat_metal",
+    "mat_wood",
+    "phys_rigid",
+    "phys_sharp",
+    "tex_smooth",
+    "tex_rough",
+    "color_silver",
+    "color_brown",
+    "loc_tabletop",
+    "room_kitchen",
+    "aff_cut_with",
+    "aff_eat_with",
+    "aff_graspable"
+  ],
+  "functions": [
+    "cut",
+    "eat"
+  ]
+},
+{
+  "object_id": "test_frying_pan_1",
+  "category": "pan",
+  "super_category": "kitchenware",
+  "features": [
+    "geom_cavity",
+    "geom_flat",
+    "size_medium",
+    "part_handle",
+    "mat_metal",
+    "phys_rigid",
+    "phys_heat_resistant",
+    "tex_smooth",
+    "color_silver",
+    "loc_tabletop",
+    "room_kitchen",
+    "aff_cook_with",
+    "aff_heat_in",
+    "aff_eat_from",
+    "aff_store_in",
+    "aff_graspable"
+  ],
+  "functions": [
+    "cook",
+    "contain",
+    "heat",
+    "eat"
+  ]
+},
+{
+  "object_id": "test_fridge_2",
+  "category": "fridge",
+  "super_category": "appliance",
+  "features": [
+    "geom_box",
+    "size_large",
+    "mat_metal",
+    "phys_rigid",
+    "tex_smooth",
+    "color_white",
+    "loc_floor",
+    "room_kitchen",
+    "aff_cool_in",
+    "aff_store_in"
+  ],
+  "functions": [
+    "cool",
+    "store",
+    "contain"
+  ]
+},
+{
+  "object_id": "test_storage_cabinet_1",
+  "category": "cabinet",
+  "super_category": "furniture",
+  "features": [
+    "geom_box",
+    "size_large",
+    "mat_wood",
+    "phys_rigid",
+    "tex_rough",
+    "color_brown",
+    "loc_floor",
+    "room_bedroom",
+    "aff_store_in"
+  ],
+  "functions": [
+    "store",
+    "contain"
+  ]
+},
+{
+  "object_id": "test_dining_table_2",
+  "category": "table",
+  "super_category": "furniture",
+  "features": [
+    "geom_flat",
+    "size_large",
+    "part_legs",
+    "mat_wood",
+    "phys_rigid",
+    "tex_rough",
+    "color_brown",
+    "loc_floor",
+    "room_dining",
+    "aff_support_on",
+    "aff_work_on",
+    "aff_eat_on"
+  ],
+  "functions": [
+    "support",
+    "work",
+    "eat"
+  ]
+},
+{
+  "object_id": "test_coffee_table_1",
+  "category": "table",
+  "super_category": "furniture",
+  "features": [
+    "geom_flat",
+    "size_medium",
+    "part_legs",
+    "mat_wood",
+    "phys_rigid",
+    "tex_rough",
+    "color_brown",
+    "loc_floor",
+    "room_living",
+    "aff_support_on"
+  ],
+  "functions": [
+    "support"
+  ]
+},
+{
+  "object_id": "test_office_chair_2",
+  "category": "chair",
+  "super_category": "furniture",
+  "features": [
+    "geom_flat",
+    "size_medium",
+    "part_backrest",
+    "part_legs",
+    "mat_fabric",
+    "mat_metal",
+    "phys_soft",
+    "phys_cushioned",
+    "tex_soft",
+    "color_colored",
+    "loc_floor",
+    "room_study",
+    "aff_sit_on"
+  ],
+  "functions": [
+    "sit"
+  ]
+},
+{
+  "object_id": "test_sofa_2",
+  "category": "sofa",
+  "super_category": "furniture",
+  "features": [
+    "geom_flat",
+    "geom_wide",
+    "size_large",
+    "mat_fabric",
+    "phys_soft",
+    "phys_cushioned",
+    "tex_soft",
+    "color_colored",
+    "loc_floor",
+    "room_living",
+    "aff_sit_on",
+    "aff_lie_on"
+  ],
+  "functions": [
+    "sit",
+    "lie"
+  ]
+},
+{
+  "object_id": "test_bed_2",
+  "category": "bed",
+  "super_category": "furniture",
+  "features": [
+    "geom_flat",
+    "geom_wide",
+    "size_large",
+    "mat_fabric",
+    "mat_wood",
+    "phys_soft",
+    "phys_cushioned",
+    "tex_soft",
+    "color_white",
+    "loc_floor",
+    "room_bedroom",
+    "aff_lie_on",
+    "aff_sleep_on"
+  ],
+  "functions": [
+    "sleep",
+    "lie"
+  ]
+},
+{
+  "object_id": "test_book_2",
+  "category": "book",
+  "super_category": "stationery",
+  "features": [
+    "geom_flat",
+    "size_small",
+    "mat_paper",
+    "phys_rigid",
+    "tex_rough",
+    "color_multicolor",
+    "loc_tabletop",
+    "room_study",
+    "aff_read_from",
+    "aff_graspable"
+  ],
+  "functions": [
+    "read"
+  ]
+},
+{
+  "object_id": "test_laptop_2",
+  "category": "laptop",
+  "super_category": "device",
+  "features": [
+    "geom_flat",
+    "size_small",
+    "part_screen",
+    "mat_metal",
+    "phys_rigid",
+    "appearance_digital",
+    "tex_smooth",
+    "color_silver",
+    "loc_tabletop",
+    "room_study",
+    "aff_read_from",
+    "aff_type_on",
+    "aff_watch_on",
+    "aff_graspable"
+  ],
+  "functions": [
+    "read",
+    "write",
+    "watch"
+  ]
+},
+{
+  "object_id": "test_tshirt_2",
+  "category": "tshirt",
+  "super_category": "clothes",
+  "features": [
+    "size_medium",
+    "mat_fabric",
+    "phys_soft",
+    "tex_soft",
+    "color_colored",
+    "loc_body",
+    "room_bedroom",
+    "aff_wear_on_body",
+    "aff_graspable"
+  ],
+  "functions": [
+    "wear"
+  ]
+}
+
+]
