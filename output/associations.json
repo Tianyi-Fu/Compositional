@@ -1,0 +1,6194 @@
+[
+  {
+    "compound_id": "A2",
+    "function": "contain",
+    "support_pos": 8,
+    "support_neg": 2,
+    "coverage_pos": 0.34782608695652173,
+    "coverage_neg": 0.05405405405405406,
+    "association_score": 0.34782608695652173
+  },
+  {
+    "compound_id": "A2",
+    "function": "cook",
+    "support_pos": 7,
+    "support_neg": 3,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.05660377358490566,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "A2",
+    "function": "cut",
+    "support_pos": 3,
+    "support_neg": 9,
+    "coverage_pos": 0.75,
+    "coverage_neg": 0.16071428571428573,
+    "association_score": 0.75
+  },
+  {
+    "compound_id": "A2",
+    "function": "eat",
+    "support_pos": 6,
+    "support_neg": 4,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.09523809523809523,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "A2",
+    "function": "heat",
+    "support_pos": 10,
+    "support_neg": 0,
+    "coverage_pos": 0.7142857142857143,
+    "coverage_neg": 0.0,
+    "association_score": 0.7142857142857143
+  },
+  {
+    "compound_id": "A2",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 8,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.13793103448275862,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "A2",
+    "function": "store",
+    "support_pos": 3,
+    "support_neg": 9,
+    "coverage_pos": 0.6,
+    "coverage_neg": 0.16363636363636364,
+    "association_score": 0.6
+  },
+  {
+    "compound_id": "A2",
+    "function": "support",
+    "support_pos": 7,
+    "support_neg": 5,
+    "coverage_pos": 0.875,
+    "coverage_neg": 0.09615384615384616,
+    "association_score": 0.875
+  },
+  {
+    "compound_id": "A2",
+    "function": "work",
+    "support_pos": 3,
+    "support_neg": 9,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.15789473684210525,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "A5",
+    "function": "contain",
+    "support_pos": 13,
+    "support_neg": 0,
+    "coverage_pos": 0.5652173913043478,
+    "coverage_neg": 0.0,
+    "association_score": 0.5652173913043478
+  },
+  {
+    "compound_id": "A5",
+    "function": "drink",
+    "support_pos": 12,
+    "support_neg": 1,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.020833333333333332,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "A5",
+    "function": "heat",
+    "support_pos": 6,
+    "support_neg": 7,
+    "coverage_pos": 0.42857142857142855,
+    "coverage_neg": 0.15217391304347827,
+    "association_score": 0.42857142857142855
+  },
+  {
+    "compound_id": "A5",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 11,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.1896551724137931,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "A5",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "A5",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "A5",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "A18",
+    "function": "contain",
+    "support_pos": 8,
+    "support_neg": 1,
+    "coverage_pos": 0.34782608695652173,
+    "coverage_neg": 0.02702702702702703,
+    "association_score": 0.34782608695652173
+  },
+  {
+    "compound_id": "A18",
+    "function": "cook",
+    "support_pos": 6,
+    "support_neg": 3,
+    "coverage_pos": 0.8571428571428571,
+    "coverage_neg": 0.05660377358490566,
+    "association_score": 0.8571428571428571
+  },
+  {
+    "compound_id": "A18",
+    "function": "eat",
+    "support_pos": 6,
+    "support_neg": 3,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.07142857142857142,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "A18",
+    "function": "heat",
+    "support_pos": 9,
+    "support_neg": 0,
+    "coverage_pos": 0.6428571428571429,
+    "coverage_neg": 0.0,
+    "association_score": 0.6428571428571429
+  },
+  {
+    "compound_id": "A18",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 7,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.1206896551724138,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "A19",
+    "function": "contain",
+    "support_pos": 8,
+    "support_neg": 0,
+    "coverage_pos": 0.34782608695652173,
+    "coverage_neg": 0.0,
+    "association_score": 0.34782608695652173
+  },
+  {
+    "compound_id": "A19",
+    "function": "cook",
+    "support_pos": 5,
+    "support_neg": 3,
+    "coverage_pos": 0.7142857142857143,
+    "coverage_neg": 0.05660377358490566,
+    "association_score": 0.7142857142857143
+  },
+  {
+    "compound_id": "A19",
+    "function": "eat",
+    "support_pos": 6,
+    "support_neg": 2,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.047619047619047616,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "A19",
+    "function": "heat",
+    "support_pos": 8,
+    "support_neg": 0,
+    "coverage_pos": 0.5714285714285714,
+    "coverage_neg": 0.0,
+    "association_score": 0.5714285714285714
+  },
+  {
+    "compound_id": "A19",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 6,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.10344827586206896,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "A20",
+    "function": "contain",
+    "support_pos": 8,
+    "support_neg": 0,
+    "coverage_pos": 0.34782608695652173,
+    "coverage_neg": 0.0,
+    "association_score": 0.34782608695652173
+  },
+  {
+    "compound_id": "A20",
+    "function": "cook",
+    "support_pos": 5,
+    "support_neg": 3,
+    "coverage_pos": 0.7142857142857143,
+    "coverage_neg": 0.05660377358490566,
+    "association_score": 0.7142857142857143
+  },
+  {
+    "compound_id": "A20",
+    "function": "eat",
+    "support_pos": 6,
+    "support_neg": 2,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.047619047619047616,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "A20",
+    "function": "heat",
+    "support_pos": 8,
+    "support_neg": 0,
+    "coverage_pos": 0.5714285714285714,
+    "coverage_neg": 0.0,
+    "association_score": 0.5714285714285714
+  },
+  {
+    "compound_id": "A20",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 6,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.10344827586206896,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "A23",
+    "function": "contain",
+    "support_pos": 13,
+    "support_neg": 0,
+    "coverage_pos": 0.5652173913043478,
+    "coverage_neg": 0.0,
+    "association_score": 0.5652173913043478
+  },
+  {
+    "compound_id": "A23",
+    "function": "drink",
+    "support_pos": 12,
+    "support_neg": 1,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.020833333333333332,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "A23",
+    "function": "heat",
+    "support_pos": 6,
+    "support_neg": 7,
+    "coverage_pos": 0.42857142857142855,
+    "coverage_neg": 0.15217391304347827,
+    "association_score": 0.42857142857142855
+  },
+  {
+    "compound_id": "A23",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 11,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.1896551724137931,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "A26",
+    "function": "contain",
+    "support_pos": 7,
+    "support_neg": 0,
+    "coverage_pos": 0.30434782608695654,
+    "coverage_neg": 0.0,
+    "association_score": 0.30434782608695654
+  },
+  {
+    "compound_id": "A26",
+    "function": "cook",
+    "support_pos": 3,
+    "support_neg": 4,
+    "coverage_pos": 0.42857142857142855,
+    "coverage_neg": 0.07547169811320754,
+    "association_score": 0.42857142857142855
+  },
+  {
+    "compound_id": "A26",
+    "function": "eat",
+    "support_pos": 7,
+    "support_neg": 0,
+    "coverage_pos": 0.3888888888888889,
+    "coverage_neg": 0.0,
+    "association_score": 0.3888888888888889
+  },
+  {
+    "compound_id": "A26",
+    "function": "heat",
+    "support_pos": 5,
+    "support_neg": 2,
+    "coverage_pos": 0.35714285714285715,
+    "coverage_neg": 0.043478260869565216,
+    "association_score": 0.35714285714285715
+  },
+  {
+    "compound_id": "A29",
+    "function": "contain",
+    "support_pos": 12,
+    "support_neg": 0,
+    "coverage_pos": 0.5217391304347826,
+    "coverage_neg": 0.0,
+    "association_score": 0.5217391304347826
+  },
+  {
+    "compound_id": "A29",
+    "function": "cook",
+    "support_pos": 5,
+    "support_neg": 7,
+    "coverage_pos": 0.7142857142857143,
+    "coverage_neg": 0.1320754716981132,
+    "association_score": 0.7142857142857143
+  },
+  {
+    "compound_id": "A29",
+    "function": "drink",
+    "support_pos": 5,
+    "support_neg": 7,
+    "coverage_pos": 0.4166666666666667,
+    "coverage_neg": 0.14583333333333334,
+    "association_score": 0.4166666666666667
+  },
+  {
+    "compound_id": "A29",
+    "function": "eat",
+    "support_pos": 6,
+    "support_neg": 6,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.14285714285714285,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "A29",
+    "function": "heat",
+    "support_pos": 12,
+    "support_neg": 0,
+    "coverage_pos": 0.8571428571428571,
+    "coverage_neg": 0.0,
+    "association_score": 0.8571428571428571
+  },
+  {
+    "compound_id": "A29",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 10,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.1724137931034483,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "A40",
+    "function": "contain",
+    "support_pos": 8,
+    "support_neg": 0,
+    "coverage_pos": 0.34782608695652173,
+    "coverage_neg": 0.0,
+    "association_score": 0.34782608695652173
+  },
+  {
+    "compound_id": "A40",
+    "function": "cook",
+    "support_pos": 5,
+    "support_neg": 3,
+    "coverage_pos": 0.7142857142857143,
+    "coverage_neg": 0.05660377358490566,
+    "association_score": 0.7142857142857143
+  },
+  {
+    "compound_id": "A40",
+    "function": "eat",
+    "support_pos": 6,
+    "support_neg": 2,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.047619047619047616,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "A40",
+    "function": "heat",
+    "support_pos": 8,
+    "support_neg": 0,
+    "coverage_pos": 0.5714285714285714,
+    "coverage_neg": 0.0,
+    "association_score": 0.5714285714285714
+  },
+  {
+    "compound_id": "A40",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 6,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.10344827586206896,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "S2",
+    "function": "contain",
+    "support_pos": 10,
+    "support_neg": 2,
+    "coverage_pos": 0.43478260869565216,
+    "coverage_neg": 0.05405405405405406,
+    "association_score": 0.43478260869565216
+  },
+  {
+    "compound_id": "S2",
+    "function": "cook",
+    "support_pos": 5,
+    "support_neg": 7,
+    "coverage_pos": 0.7142857142857143,
+    "coverage_neg": 0.1320754716981132,
+    "association_score": 0.7142857142857143
+  },
+  {
+    "compound_id": "S2",
+    "function": "drink",
+    "support_pos": 6,
+    "support_neg": 6,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.125,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "S2",
+    "function": "heat",
+    "support_pos": 10,
+    "support_neg": 2,
+    "coverage_pos": 0.7142857142857143,
+    "coverage_neg": 0.043478260869565216,
+    "association_score": 0.7142857142857143
+  },
+  {
+    "compound_id": "S2",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 10,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.1724137931034483,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "S2",
+    "function": "stir",
+    "support_pos": 1,
+    "support_neg": 11,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.1864406779661017,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X32",
+    "function": "contain",
+    "support_pos": 7,
+    "support_neg": 0,
+    "coverage_pos": 0.30434782608695654,
+    "coverage_neg": 0.0,
+    "association_score": 0.30434782608695654
+  },
+  {
+    "compound_id": "X32",
+    "function": "drink",
+    "support_pos": 6,
+    "support_neg": 1,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.020833333333333332,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X32",
+    "function": "heat",
+    "support_pos": 6,
+    "support_neg": 1,
+    "coverage_pos": 0.42857142857142855,
+    "coverage_neg": 0.021739130434782608,
+    "association_score": 0.42857142857142855
+  },
+  {
+    "compound_id": "X32",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 5,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.08620689655172414,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X163",
+    "function": "contain",
+    "support_pos": 7,
+    "support_neg": 0,
+    "coverage_pos": 0.30434782608695654,
+    "coverage_neg": 0.0,
+    "association_score": 0.30434782608695654
+  },
+  {
+    "compound_id": "X163",
+    "function": "drink",
+    "support_pos": 6,
+    "support_neg": 1,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.020833333333333332,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X163",
+    "function": "heat",
+    "support_pos": 6,
+    "support_neg": 1,
+    "coverage_pos": 0.42857142857142855,
+    "coverage_neg": 0.021739130434782608,
+    "association_score": 0.42857142857142855
+  },
+  {
+    "compound_id": "X163",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 5,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.08620689655172414,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X212",
+    "function": "contain",
+    "support_pos": 9,
+    "support_neg": 0,
+    "coverage_pos": 0.391304347826087,
+    "coverage_neg": 0.0,
+    "association_score": 0.391304347826087
+  },
+  {
+    "compound_id": "X212",
+    "function": "cook",
+    "support_pos": 4,
+    "support_neg": 5,
+    "coverage_pos": 0.5714285714285714,
+    "coverage_neg": 0.09433962264150944,
+    "association_score": 0.5714285714285714
+  },
+  {
+    "compound_id": "X212",
+    "function": "drink",
+    "support_pos": 5,
+    "support_neg": 4,
+    "coverage_pos": 0.4166666666666667,
+    "coverage_neg": 0.08333333333333333,
+    "association_score": 0.4166666666666667
+  },
+  {
+    "compound_id": "X212",
+    "function": "heat",
+    "support_pos": 9,
+    "support_neg": 0,
+    "coverage_pos": 0.6428571428571429,
+    "coverage_neg": 0.0,
+    "association_score": 0.6428571428571429
+  },
+  {
+    "compound_id": "X212",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 7,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.1206896551724138,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "A1",
+    "function": "cook",
+    "support_pos": 3,
+    "support_neg": 2,
+    "coverage_pos": 0.42857142857142855,
+    "coverage_neg": 0.03773584905660377,
+    "association_score": 0.42857142857142855
+  },
+  {
+    "compound_id": "A1",
+    "function": "heat",
+    "support_pos": 5,
+    "support_neg": 0,
+    "coverage_pos": 0.35714285714285715,
+    "coverage_neg": 0.0,
+    "association_score": 0.35714285714285715
+  },
+  {
+    "compound_id": "A1",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "A1",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "A1",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "A15",
+    "function": "cook",
+    "support_pos": 3,
+    "support_neg": 2,
+    "coverage_pos": 0.42857142857142855,
+    "coverage_neg": 0.03773584905660377,
+    "association_score": 0.42857142857142855
+  },
+  {
+    "compound_id": "A15",
+    "function": "heat",
+    "support_pos": 5,
+    "support_neg": 0,
+    "coverage_pos": 0.35714285714285715,
+    "coverage_neg": 0.0,
+    "association_score": 0.35714285714285715
+  },
+  {
+    "compound_id": "A16",
+    "function": "cook",
+    "support_pos": 3,
+    "support_neg": 2,
+    "coverage_pos": 0.42857142857142855,
+    "coverage_neg": 0.03773584905660377,
+    "association_score": 0.42857142857142855
+  },
+  {
+    "compound_id": "A16",
+    "function": "heat",
+    "support_pos": 5,
+    "support_neg": 0,
+    "coverage_pos": 0.35714285714285715,
+    "coverage_neg": 0.0,
+    "association_score": 0.35714285714285715
+  },
+  {
+    "compound_id": "A17",
+    "function": "cook",
+    "support_pos": 3,
+    "support_neg": 2,
+    "coverage_pos": 0.42857142857142855,
+    "coverage_neg": 0.03773584905660377,
+    "association_score": 0.42857142857142855
+  },
+  {
+    "compound_id": "A17",
+    "function": "heat",
+    "support_pos": 5,
+    "support_neg": 0,
+    "coverage_pos": 0.35714285714285715,
+    "coverage_neg": 0.0,
+    "association_score": 0.35714285714285715
+  },
+  {
+    "compound_id": "A25",
+    "function": "cook",
+    "support_pos": 3,
+    "support_neg": 2,
+    "coverage_pos": 0.42857142857142855,
+    "coverage_neg": 0.03773584905660377,
+    "association_score": 0.42857142857142855
+  },
+  {
+    "compound_id": "A25",
+    "function": "heat",
+    "support_pos": 5,
+    "support_neg": 0,
+    "coverage_pos": 0.35714285714285715,
+    "coverage_neg": 0.0,
+    "association_score": 0.35714285714285715
+  },
+  {
+    "compound_id": "A27",
+    "function": "cook",
+    "support_pos": 3,
+    "support_neg": 2,
+    "coverage_pos": 0.42857142857142855,
+    "coverage_neg": 0.03773584905660377,
+    "association_score": 0.42857142857142855
+  },
+  {
+    "compound_id": "A27",
+    "function": "heat",
+    "support_pos": 5,
+    "support_neg": 0,
+    "coverage_pos": 0.35714285714285715,
+    "coverage_neg": 0.0,
+    "association_score": 0.35714285714285715
+  },
+  {
+    "compound_id": "A37",
+    "function": "cook",
+    "support_pos": 3,
+    "support_neg": 2,
+    "coverage_pos": 0.42857142857142855,
+    "coverage_neg": 0.03773584905660377,
+    "association_score": 0.42857142857142855
+  },
+  {
+    "compound_id": "A37",
+    "function": "heat",
+    "support_pos": 5,
+    "support_neg": 0,
+    "coverage_pos": 0.35714285714285715,
+    "coverage_neg": 0.0,
+    "association_score": 0.35714285714285715
+  },
+  {
+    "compound_id": "A38",
+    "function": "cook",
+    "support_pos": 3,
+    "support_neg": 2,
+    "coverage_pos": 0.42857142857142855,
+    "coverage_neg": 0.03773584905660377,
+    "association_score": 0.42857142857142855
+  },
+  {
+    "compound_id": "A38",
+    "function": "heat",
+    "support_pos": 5,
+    "support_neg": 0,
+    "coverage_pos": 0.35714285714285715,
+    "coverage_neg": 0.0,
+    "association_score": 0.35714285714285715
+  },
+  {
+    "compound_id": "A39",
+    "function": "cook",
+    "support_pos": 3,
+    "support_neg": 2,
+    "coverage_pos": 0.42857142857142855,
+    "coverage_neg": 0.03773584905660377,
+    "association_score": 0.42857142857142855
+  },
+  {
+    "compound_id": "A39",
+    "function": "heat",
+    "support_pos": 5,
+    "support_neg": 0,
+    "coverage_pos": 0.35714285714285715,
+    "coverage_neg": 0.0,
+    "association_score": 0.35714285714285715
+  },
+  {
+    "compound_id": "A42",
+    "function": "cook",
+    "support_pos": 3,
+    "support_neg": 2,
+    "coverage_pos": 0.42857142857142855,
+    "coverage_neg": 0.03773584905660377,
+    "association_score": 0.42857142857142855
+  },
+  {
+    "compound_id": "A42",
+    "function": "heat",
+    "support_pos": 5,
+    "support_neg": 0,
+    "coverage_pos": 0.35714285714285715,
+    "coverage_neg": 0.0,
+    "association_score": 0.35714285714285715
+  },
+  {
+    "compound_id": "S12",
+    "function": "cook",
+    "support_pos": 3,
+    "support_neg": 4,
+    "coverage_pos": 0.42857142857142855,
+    "coverage_neg": 0.07547169811320754,
+    "association_score": 0.42857142857142855
+  },
+  {
+    "compound_id": "S12",
+    "function": "drink",
+    "support_pos": 4,
+    "support_neg": 3,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0625,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "S12",
+    "function": "heat",
+    "support_pos": 7,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "S12",
+    "function": "pour",
+    "support_pos": 1,
+    "support_neg": 6,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.10344827586206896,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "S15",
+    "function": "cook",
+    "support_pos": 5,
+    "support_neg": 1,
+    "coverage_pos": 0.7142857142857143,
+    "coverage_neg": 0.018867924528301886,
+    "association_score": 0.7142857142857143
+  },
+  {
+    "compound_id": "S15",
+    "function": "heat",
+    "support_pos": 6,
+    "support_neg": 0,
+    "coverage_pos": 0.42857142857142855,
+    "coverage_neg": 0.0,
+    "association_score": 0.42857142857142855
+  },
+  {
+    "compound_id": "S15",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 4,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.06896551724137931,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "S25",
+    "function": "cook",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.42857142857142855,
+    "coverage_neg": 0.0,
+    "association_score": 0.42857142857142855
+  },
+  {
+    "compound_id": "S25",
+    "function": "pour",
+    "support_pos": 1,
+    "support_neg": 2,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.034482758620689655,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "S30",
+    "function": "cook",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.42857142857142855,
+    "coverage_neg": 0.0,
+    "association_score": 0.42857142857142855
+  },
+  {
+    "compound_id": "S30",
+    "function": "pour",
+    "support_pos": 1,
+    "support_neg": 2,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.034482758620689655,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X12",
+    "function": "cook",
+    "support_pos": 5,
+    "support_neg": 1,
+    "coverage_pos": 0.7142857142857143,
+    "coverage_neg": 0.018867924528301886,
+    "association_score": 0.7142857142857143
+  },
+  {
+    "compound_id": "X12",
+    "function": "heat",
+    "support_pos": 6,
+    "support_neg": 0,
+    "coverage_pos": 0.42857142857142855,
+    "coverage_neg": 0.0,
+    "association_score": 0.42857142857142855
+  },
+  {
+    "compound_id": "X12",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 4,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.06896551724137931,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X15",
+    "function": "cook",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.42857142857142855,
+    "coverage_neg": 0.0,
+    "association_score": 0.42857142857142855
+  },
+  {
+    "compound_id": "X15",
+    "function": "pour",
+    "support_pos": 1,
+    "support_neg": 2,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.034482758620689655,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X17",
+    "function": "cook",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.42857142857142855,
+    "coverage_neg": 0.0,
+    "association_score": 0.42857142857142855
+  },
+  {
+    "compound_id": "X17",
+    "function": "pour",
+    "support_pos": 1,
+    "support_neg": 2,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.034482758620689655,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X102",
+    "function": "cook",
+    "support_pos": 5,
+    "support_neg": 1,
+    "coverage_pos": 0.7142857142857143,
+    "coverage_neg": 0.018867924528301886,
+    "association_score": 0.7142857142857143
+  },
+  {
+    "compound_id": "X102",
+    "function": "heat",
+    "support_pos": 6,
+    "support_neg": 0,
+    "coverage_pos": 0.42857142857142855,
+    "coverage_neg": 0.0,
+    "association_score": 0.42857142857142855
+  },
+  {
+    "compound_id": "X102",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 4,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.06896551724137931,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X106",
+    "function": "cook",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.42857142857142855,
+    "coverage_neg": 0.0,
+    "association_score": 0.42857142857142855
+  },
+  {
+    "compound_id": "X106",
+    "function": "pour",
+    "support_pos": 1,
+    "support_neg": 2,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.034482758620689655,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X109",
+    "function": "cook",
+    "support_pos": 5,
+    "support_neg": 1,
+    "coverage_pos": 0.7142857142857143,
+    "coverage_neg": 0.018867924528301886,
+    "association_score": 0.7142857142857143
+  },
+  {
+    "compound_id": "X109",
+    "function": "heat",
+    "support_pos": 6,
+    "support_neg": 0,
+    "coverage_pos": 0.42857142857142855,
+    "coverage_neg": 0.0,
+    "association_score": 0.42857142857142855
+  },
+  {
+    "compound_id": "X109",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 4,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.06896551724137931,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X111",
+    "function": "cook",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.42857142857142855,
+    "coverage_neg": 0.0,
+    "association_score": 0.42857142857142855
+  },
+  {
+    "compound_id": "X111",
+    "function": "pour",
+    "support_pos": 1,
+    "support_neg": 2,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.034482758620689655,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X113",
+    "function": "cook",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.42857142857142855,
+    "coverage_neg": 0.0,
+    "association_score": 0.42857142857142855
+  },
+  {
+    "compound_id": "X113",
+    "function": "pour",
+    "support_pos": 1,
+    "support_neg": 2,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.034482758620689655,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X117",
+    "function": "cook",
+    "support_pos": 4,
+    "support_neg": 1,
+    "coverage_pos": 0.5714285714285714,
+    "coverage_neg": 0.018867924528301886,
+    "association_score": 0.5714285714285714
+  },
+  {
+    "compound_id": "X117",
+    "function": "heat",
+    "support_pos": 5,
+    "support_neg": 0,
+    "coverage_pos": 0.35714285714285715,
+    "coverage_neg": 0.0,
+    "association_score": 0.35714285714285715
+  },
+  {
+    "compound_id": "X117",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 3,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.05172413793103448,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X124",
+    "function": "cook",
+    "support_pos": 4,
+    "support_neg": 1,
+    "coverage_pos": 0.5714285714285714,
+    "coverage_neg": 0.018867924528301886,
+    "association_score": 0.5714285714285714
+  },
+  {
+    "compound_id": "X124",
+    "function": "heat",
+    "support_pos": 5,
+    "support_neg": 0,
+    "coverage_pos": 0.35714285714285715,
+    "coverage_neg": 0.0,
+    "association_score": 0.35714285714285715
+  },
+  {
+    "compound_id": "X124",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 3,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.05172413793103448,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X132",
+    "function": "cook",
+    "support_pos": 4,
+    "support_neg": 1,
+    "coverage_pos": 0.5714285714285714,
+    "coverage_neg": 0.018867924528301886,
+    "association_score": 0.5714285714285714
+  },
+  {
+    "compound_id": "X132",
+    "function": "heat",
+    "support_pos": 5,
+    "support_neg": 0,
+    "coverage_pos": 0.35714285714285715,
+    "coverage_neg": 0.0,
+    "association_score": 0.35714285714285715
+  },
+  {
+    "compound_id": "X132",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 3,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.05172413793103448,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X139",
+    "function": "cook",
+    "support_pos": 4,
+    "support_neg": 1,
+    "coverage_pos": 0.5714285714285714,
+    "coverage_neg": 0.018867924528301886,
+    "association_score": 0.5714285714285714
+  },
+  {
+    "compound_id": "X139",
+    "function": "heat",
+    "support_pos": 5,
+    "support_neg": 0,
+    "coverage_pos": 0.35714285714285715,
+    "coverage_neg": 0.0,
+    "association_score": 0.35714285714285715
+  },
+  {
+    "compound_id": "X139",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 3,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.05172413793103448,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X219",
+    "function": "cook",
+    "support_pos": 4,
+    "support_neg": 1,
+    "coverage_pos": 0.5714285714285714,
+    "coverage_neg": 0.018867924528301886,
+    "association_score": 0.5714285714285714
+  },
+  {
+    "compound_id": "X219",
+    "function": "heat",
+    "support_pos": 5,
+    "support_neg": 0,
+    "coverage_pos": 0.35714285714285715,
+    "coverage_neg": 0.0,
+    "association_score": 0.35714285714285715
+  },
+  {
+    "compound_id": "X219",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 3,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.05172413793103448,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X290",
+    "function": "cook",
+    "support_pos": 4,
+    "support_neg": 1,
+    "coverage_pos": 0.5714285714285714,
+    "coverage_neg": 0.018867924528301886,
+    "association_score": 0.5714285714285714
+  },
+  {
+    "compound_id": "X290",
+    "function": "heat",
+    "support_pos": 5,
+    "support_neg": 0,
+    "coverage_pos": 0.35714285714285715,
+    "coverage_neg": 0.0,
+    "association_score": 0.35714285714285715
+  },
+  {
+    "compound_id": "X290",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 3,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.05172413793103448,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X297",
+    "function": "cook",
+    "support_pos": 4,
+    "support_neg": 1,
+    "coverage_pos": 0.5714285714285714,
+    "coverage_neg": 0.018867924528301886,
+    "association_score": 0.5714285714285714
+  },
+  {
+    "compound_id": "X297",
+    "function": "heat",
+    "support_pos": 5,
+    "support_neg": 0,
+    "coverage_pos": 0.35714285714285715,
+    "coverage_neg": 0.0,
+    "association_score": 0.35714285714285715
+  },
+  {
+    "compound_id": "X297",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 3,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.05172413793103448,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "A3",
+    "function": "cool",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "A3",
+    "function": "lie",
+    "support_pos": 4,
+    "support_neg": 8,
+    "coverage_pos": 0.8,
+    "coverage_neg": 0.14545454545454545,
+    "association_score": 0.8
+  },
+  {
+    "compound_id": "A3",
+    "function": "sit",
+    "support_pos": 5,
+    "support_neg": 7,
+    "coverage_pos": 0.8333333333333334,
+    "coverage_neg": 0.12962962962962962,
+    "association_score": 0.8333333333333334
+  },
+  {
+    "compound_id": "A3",
+    "function": "sleep",
+    "support_pos": 3,
+    "support_neg": 9,
+    "coverage_pos": 0.75,
+    "coverage_neg": 0.16071428571428573,
+    "association_score": 0.75
+  },
+  {
+    "compound_id": "A3",
+    "function": "store",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.4,
+    "coverage_neg": 0.0,
+    "association_score": 0.4
+  },
+  {
+    "compound_id": "A3",
+    "function": "wear",
+    "support_pos": 5,
+    "support_neg": 7,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.12727272727272726,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "S1",
+    "function": "cool",
+    "support_pos": 2,
+    "support_neg": 3,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.05172413793103448,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "S1",
+    "function": "store",
+    "support_pos": 5,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X22",
+    "function": "cool",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X22",
+    "function": "store",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.4,
+    "coverage_neg": 0.0,
+    "association_score": 0.4
+  },
+  {
+    "compound_id": "A4",
+    "function": "cut",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "A4",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "A21",
+    "function": "cut",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "S6",
+    "function": "cut",
+    "support_pos": 2,
+    "support_neg": 3,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.05357142857142857,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "S6",
+    "function": "stir",
+    "support_pos": 1,
+    "support_neg": 4,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.06779661016949153,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X31",
+    "function": "cut",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X146",
+    "function": "cut",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "A22",
+    "function": "drink",
+    "support_pos": 5,
+    "support_neg": 1,
+    "coverage_pos": 0.4166666666666667,
+    "coverage_neg": 0.020833333333333332,
+    "association_score": 0.4166666666666667
+  },
+  {
+    "compound_id": "A22",
+    "function": "heat",
+    "support_pos": 6,
+    "support_neg": 0,
+    "coverage_pos": 0.42857142857142855,
+    "coverage_neg": 0.0,
+    "association_score": 0.42857142857142855
+  },
+  {
+    "compound_id": "A22",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 4,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.06896551724137931,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "A24",
+    "function": "drink",
+    "support_pos": 5,
+    "support_neg": 1,
+    "coverage_pos": 0.4166666666666667,
+    "coverage_neg": 0.020833333333333332,
+    "association_score": 0.4166666666666667
+  },
+  {
+    "compound_id": "A24",
+    "function": "heat",
+    "support_pos": 6,
+    "support_neg": 0,
+    "coverage_pos": 0.42857142857142855,
+    "coverage_neg": 0.0,
+    "association_score": 0.42857142857142855
+  },
+  {
+    "compound_id": "A24",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 4,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.06896551724137931,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "A41",
+    "function": "drink",
+    "support_pos": 5,
+    "support_neg": 1,
+    "coverage_pos": 0.4166666666666667,
+    "coverage_neg": 0.020833333333333332,
+    "association_score": 0.4166666666666667
+  },
+  {
+    "compound_id": "A41",
+    "function": "heat",
+    "support_pos": 6,
+    "support_neg": 0,
+    "coverage_pos": 0.42857142857142855,
+    "coverage_neg": 0.0,
+    "association_score": 0.42857142857142855
+  },
+  {
+    "compound_id": "A41",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 4,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.06896551724137931,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "S13",
+    "function": "drink",
+    "support_pos": 4,
+    "support_neg": 2,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.041666666666666664,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "S13",
+    "function": "heat",
+    "support_pos": 6,
+    "support_neg": 0,
+    "coverage_pos": 0.42857142857142855,
+    "coverage_neg": 0.0,
+    "association_score": 0.42857142857142855
+  },
+  {
+    "compound_id": "S16",
+    "function": "drink",
+    "support_pos": 5,
+    "support_neg": 1,
+    "coverage_pos": 0.4166666666666667,
+    "coverage_neg": 0.020833333333333332,
+    "association_score": 0.4166666666666667
+  },
+  {
+    "compound_id": "S16",
+    "function": "stir",
+    "support_pos": 1,
+    "support_neg": 5,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0847457627118644,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "S26",
+    "function": "drink",
+    "support_pos": 4,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "S31",
+    "function": "drink",
+    "support_pos": 4,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X36",
+    "function": "drink",
+    "support_pos": 4,
+    "support_neg": 1,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.020833333333333332,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X36",
+    "function": "heat",
+    "support_pos": 5,
+    "support_neg": 0,
+    "coverage_pos": 0.35714285714285715,
+    "coverage_neg": 0.0,
+    "association_score": 0.35714285714285715
+  },
+  {
+    "compound_id": "X36",
+    "function": "pour",
+    "support_pos": 1,
+    "support_neg": 4,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.06896551724137931,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X37",
+    "function": "drink",
+    "support_pos": 4,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X39",
+    "function": "drink",
+    "support_pos": 5,
+    "support_neg": 0,
+    "coverage_pos": 0.4166666666666667,
+    "coverage_neg": 0.0,
+    "association_score": 0.4166666666666667
+  },
+  {
+    "compound_id": "X42",
+    "function": "drink",
+    "support_pos": 4,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X44",
+    "function": "drink",
+    "support_pos": 4,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X148",
+    "function": "drink",
+    "support_pos": 5,
+    "support_neg": 1,
+    "coverage_pos": 0.4166666666666667,
+    "coverage_neg": 0.020833333333333332,
+    "association_score": 0.4166666666666667
+  },
+  {
+    "compound_id": "X148",
+    "function": "heat",
+    "support_pos": 6,
+    "support_neg": 0,
+    "coverage_pos": 0.42857142857142855,
+    "coverage_neg": 0.0,
+    "association_score": 0.42857142857142855
+  },
+  {
+    "compound_id": "X148",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 4,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.06896551724137931,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X152",
+    "function": "drink",
+    "support_pos": 4,
+    "support_neg": 1,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.020833333333333332,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X152",
+    "function": "heat",
+    "support_pos": 5,
+    "support_neg": 0,
+    "coverage_pos": 0.35714285714285715,
+    "coverage_neg": 0.0,
+    "association_score": 0.35714285714285715
+  },
+  {
+    "compound_id": "X152",
+    "function": "pour",
+    "support_pos": 1,
+    "support_neg": 4,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.06896551724137931,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X153",
+    "function": "drink",
+    "support_pos": 4,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X156",
+    "function": "drink",
+    "support_pos": 4,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X158",
+    "function": "drink",
+    "support_pos": 4,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X160",
+    "function": "drink",
+    "support_pos": 4,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X167",
+    "function": "drink",
+    "support_pos": 4,
+    "support_neg": 1,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.020833333333333332,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X167",
+    "function": "heat",
+    "support_pos": 5,
+    "support_neg": 0,
+    "coverage_pos": 0.35714285714285715,
+    "coverage_neg": 0.0,
+    "association_score": 0.35714285714285715
+  },
+  {
+    "compound_id": "X167",
+    "function": "pour",
+    "support_pos": 1,
+    "support_neg": 4,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.06896551724137931,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X168",
+    "function": "drink",
+    "support_pos": 4,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X170",
+    "function": "drink",
+    "support_pos": 5,
+    "support_neg": 0,
+    "coverage_pos": 0.4166666666666667,
+    "coverage_neg": 0.0,
+    "association_score": 0.4166666666666667
+  },
+  {
+    "compound_id": "X172",
+    "function": "drink",
+    "support_pos": 4,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X174",
+    "function": "drink",
+    "support_pos": 4,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X177",
+    "function": "drink",
+    "support_pos": 5,
+    "support_neg": 1,
+    "coverage_pos": 0.4166666666666667,
+    "coverage_neg": 0.020833333333333332,
+    "association_score": 0.4166666666666667
+  },
+  {
+    "compound_id": "X177",
+    "function": "heat",
+    "support_pos": 6,
+    "support_neg": 0,
+    "coverage_pos": 0.42857142857142855,
+    "coverage_neg": 0.0,
+    "association_score": 0.42857142857142855
+  },
+  {
+    "compound_id": "X177",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 4,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.06896551724137931,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X181",
+    "function": "drink",
+    "support_pos": 4,
+    "support_neg": 1,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.020833333333333332,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X181",
+    "function": "heat",
+    "support_pos": 5,
+    "support_neg": 0,
+    "coverage_pos": 0.35714285714285715,
+    "coverage_neg": 0.0,
+    "association_score": 0.35714285714285715
+  },
+  {
+    "compound_id": "X181",
+    "function": "pour",
+    "support_pos": 1,
+    "support_neg": 4,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.06896551724137931,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X182",
+    "function": "drink",
+    "support_pos": 4,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X185",
+    "function": "drink",
+    "support_pos": 4,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X187",
+    "function": "drink",
+    "support_pos": 4,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X189",
+    "function": "drink",
+    "support_pos": 4,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X216",
+    "function": "drink",
+    "support_pos": 4,
+    "support_neg": 2,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.041666666666666664,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X216",
+    "function": "heat",
+    "support_pos": 6,
+    "support_neg": 0,
+    "coverage_pos": 0.42857142857142855,
+    "coverage_neg": 0.0,
+    "association_score": 0.42857142857142855
+  },
+  {
+    "compound_id": "X216",
+    "function": "pour",
+    "support_pos": 1,
+    "support_neg": 5,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.08620689655172414,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X217",
+    "function": "drink",
+    "support_pos": 4,
+    "support_neg": 2,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.041666666666666664,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X217",
+    "function": "heat",
+    "support_pos": 6,
+    "support_neg": 0,
+    "coverage_pos": 0.42857142857142855,
+    "coverage_neg": 0.0,
+    "association_score": 0.42857142857142855
+  },
+  {
+    "compound_id": "X220",
+    "function": "drink",
+    "support_pos": 4,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X223",
+    "function": "drink",
+    "support_pos": 4,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X226",
+    "function": "drink",
+    "support_pos": 4,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X304",
+    "function": "drink",
+    "support_pos": 5,
+    "support_neg": 1,
+    "coverage_pos": 0.4166666666666667,
+    "coverage_neg": 0.020833333333333332,
+    "association_score": 0.4166666666666667
+  },
+  {
+    "compound_id": "X304",
+    "function": "heat",
+    "support_pos": 6,
+    "support_neg": 0,
+    "coverage_pos": 0.42857142857142855,
+    "coverage_neg": 0.0,
+    "association_score": 0.42857142857142855
+  },
+  {
+    "compound_id": "X304",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 4,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.06896551724137931,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X308",
+    "function": "drink",
+    "support_pos": 4,
+    "support_neg": 1,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.020833333333333332,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X308",
+    "function": "heat",
+    "support_pos": 5,
+    "support_neg": 0,
+    "coverage_pos": 0.35714285714285715,
+    "coverage_neg": 0.0,
+    "association_score": 0.35714285714285715
+  },
+  {
+    "compound_id": "X308",
+    "function": "pour",
+    "support_pos": 1,
+    "support_neg": 4,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.06896551724137931,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X309",
+    "function": "drink",
+    "support_pos": 4,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X312",
+    "function": "drink",
+    "support_pos": 4,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X314",
+    "function": "drink",
+    "support_pos": 4,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X316",
+    "function": "drink",
+    "support_pos": 4,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "A8",
+    "function": "lie",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.6,
+    "coverage_neg": 0.0,
+    "association_score": 0.6
+  },
+  {
+    "compound_id": "A8",
+    "function": "sit",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "A9",
+    "function": "lie",
+    "support_pos": 3,
+    "support_neg": 1,
+    "coverage_pos": 0.6,
+    "coverage_neg": 0.01818181818181818,
+    "association_score": 0.6
+  },
+  {
+    "compound_id": "A9",
+    "function": "sleep",
+    "support_pos": 4,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "L3",
+    "function": "lie",
+    "support_pos": 3,
+    "support_neg": 1,
+    "coverage_pos": 0.6,
+    "coverage_neg": 0.01818181818181818,
+    "association_score": 0.6
+  },
+  {
+    "compound_id": "L3",
+    "function": "sit",
+    "support_pos": 3,
+    "support_neg": 1,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.018518518518518517,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "P1",
+    "function": "lie",
+    "support_pos": 5,
+    "support_neg": 3,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.05454545454545454,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "P1",
+    "function": "sit",
+    "support_pos": 5,
+    "support_neg": 3,
+    "coverage_pos": 0.8333333333333334,
+    "coverage_neg": 0.05555555555555555,
+    "association_score": 0.8333333333333334
+  },
+  {
+    "compound_id": "P1",
+    "function": "sleep",
+    "support_pos": 4,
+    "support_neg": 4,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.07142857142857142,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "S18",
+    "function": "lie",
+    "support_pos": 3,
+    "support_neg": 1,
+    "coverage_pos": 0.6,
+    "coverage_neg": 0.01818181818181818,
+    "association_score": 0.6
+  },
+  {
+    "compound_id": "S18",
+    "function": "sit",
+    "support_pos": 2,
+    "support_neg": 2,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.037037037037037035,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "S18",
+    "function": "sleep",
+    "support_pos": 2,
+    "support_neg": 2,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.03571428571428571,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X54",
+    "function": "lie",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.6,
+    "coverage_neg": 0.0,
+    "association_score": 0.6
+  },
+  {
+    "compound_id": "X54",
+    "function": "sit",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X55",
+    "function": "lie",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.6,
+    "coverage_neg": 0.0,
+    "association_score": 0.6
+  },
+  {
+    "compound_id": "X55",
+    "function": "sit",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X56",
+    "function": "lie",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.6,
+    "coverage_neg": 0.0,
+    "association_score": 0.6
+  },
+  {
+    "compound_id": "X56",
+    "function": "sit",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X57",
+    "function": "lie",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.4,
+    "coverage_neg": 0.0,
+    "association_score": 0.4
+  },
+  {
+    "compound_id": "X57",
+    "function": "sit",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X58",
+    "function": "lie",
+    "support_pos": 2,
+    "support_neg": 1,
+    "coverage_pos": 0.4,
+    "coverage_neg": 0.01818181818181818,
+    "association_score": 0.4
+  },
+  {
+    "compound_id": "X58",
+    "function": "sleep",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.75,
+    "coverage_neg": 0.0,
+    "association_score": 0.75
+  },
+  {
+    "compound_id": "X59",
+    "function": "lie",
+    "support_pos": 3,
+    "support_neg": 1,
+    "coverage_pos": 0.6,
+    "coverage_neg": 0.01818181818181818,
+    "association_score": 0.6
+  },
+  {
+    "compound_id": "X59",
+    "function": "sleep",
+    "support_pos": 4,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X60",
+    "function": "lie",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.4,
+    "coverage_neg": 0.0,
+    "association_score": 0.4
+  },
+  {
+    "compound_id": "X60",
+    "function": "sleep",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X343",
+    "function": "lie",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.6,
+    "coverage_neg": 0.0,
+    "association_score": 0.6
+  },
+  {
+    "compound_id": "X343",
+    "function": "sit",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X344",
+    "function": "lie",
+    "support_pos": 4,
+    "support_neg": 3,
+    "coverage_pos": 0.8,
+    "coverage_neg": 0.05454545454545454,
+    "association_score": 0.8
+  },
+  {
+    "compound_id": "X344",
+    "function": "sit",
+    "support_pos": 5,
+    "support_neg": 2,
+    "coverage_pos": 0.8333333333333334,
+    "coverage_neg": 0.037037037037037035,
+    "association_score": 0.8333333333333334
+  },
+  {
+    "compound_id": "X344",
+    "function": "sleep",
+    "support_pos": 3,
+    "support_neg": 4,
+    "coverage_pos": 0.75,
+    "coverage_neg": 0.07142857142857142,
+    "association_score": 0.75
+  },
+  {
+    "compound_id": "X348",
+    "function": "lie",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.4,
+    "coverage_neg": 0.0,
+    "association_score": 0.4
+  },
+  {
+    "compound_id": "X348",
+    "function": "sit",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X372",
+    "function": "lie",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.6,
+    "coverage_neg": 0.0,
+    "association_score": 0.6
+  },
+  {
+    "compound_id": "X372",
+    "function": "sit",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X373",
+    "function": "lie",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.4,
+    "coverage_neg": 0.0,
+    "association_score": 0.4
+  },
+  {
+    "compound_id": "X373",
+    "function": "sit",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X377",
+    "function": "lie",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.6,
+    "coverage_neg": 0.0,
+    "association_score": 0.6
+  },
+  {
+    "compound_id": "X377",
+    "function": "sit",
+    "support_pos": 2,
+    "support_neg": 1,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.018518518518518517,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X377",
+    "function": "sleep",
+    "support_pos": 2,
+    "support_neg": 1,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.017857142857142856,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X475",
+    "function": "lie",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.6,
+    "coverage_neg": 0.0,
+    "association_score": 0.6
+  },
+  {
+    "compound_id": "X475",
+    "function": "sit",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X476",
+    "function": "lie",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.6,
+    "coverage_neg": 0.0,
+    "association_score": 0.6
+  },
+  {
+    "compound_id": "X476",
+    "function": "sit",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X477",
+    "function": "lie",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.4,
+    "coverage_neg": 0.0,
+    "association_score": 0.4
+  },
+  {
+    "compound_id": "X477",
+    "function": "sit",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X478",
+    "function": "lie",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.6,
+    "coverage_neg": 0.0,
+    "association_score": 0.6
+  },
+  {
+    "compound_id": "X478",
+    "function": "sit",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X479",
+    "function": "lie",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.4,
+    "coverage_neg": 0.0,
+    "association_score": 0.4
+  },
+  {
+    "compound_id": "X479",
+    "function": "sit",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X480",
+    "function": "lie",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.4,
+    "coverage_neg": 0.0,
+    "association_score": 0.4
+  },
+  {
+    "compound_id": "X480",
+    "function": "sit",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X481",
+    "function": "lie",
+    "support_pos": 2,
+    "support_neg": 1,
+    "coverage_pos": 0.4,
+    "coverage_neg": 0.01818181818181818,
+    "association_score": 0.4
+  },
+  {
+    "compound_id": "X481",
+    "function": "sleep",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.75,
+    "coverage_neg": 0.0,
+    "association_score": 0.75
+  },
+  {
+    "compound_id": "X482",
+    "function": "lie",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.4,
+    "coverage_neg": 0.0,
+    "association_score": 0.4
+  },
+  {
+    "compound_id": "X482",
+    "function": "sleep",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X866",
+    "function": "lie",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.6,
+    "coverage_neg": 0.0,
+    "association_score": 0.6
+  },
+  {
+    "compound_id": "X866",
+    "function": "sit",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X867",
+    "function": "lie",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.4,
+    "coverage_neg": 0.0,
+    "association_score": 0.4
+  },
+  {
+    "compound_id": "X867",
+    "function": "sit",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X871",
+    "function": "lie",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.4,
+    "coverage_neg": 0.0,
+    "association_score": 0.4
+  },
+  {
+    "compound_id": "X871",
+    "function": "sit",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X877",
+    "function": "lie",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.4,
+    "coverage_neg": 0.0,
+    "association_score": 0.4
+  },
+  {
+    "compound_id": "X877",
+    "function": "sit",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "A14",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "A34",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "A35",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "A36",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "S3",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "S8",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "S9",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "S14",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "S17",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "S28",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "S32",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X7",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X9",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X10",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X11",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X13",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X16",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X18",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X33",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X34",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X35",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X38",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X40",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X43",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X45",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X76",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X77",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X78",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X79",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X80",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X81",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X82",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X83",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X84",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X103",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X104",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X105",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X108",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X110",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X112",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X114",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X118",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X119",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X120",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X121",
+    "function": "pour",
+    "support_pos": 1,
+    "support_neg": 1,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.017241379310344827,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X123",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X125",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X126",
+    "function": "pour",
+    "support_pos": 1,
+    "support_neg": 1,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.017241379310344827,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X127",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X128",
+    "function": "pour",
+    "support_pos": 1,
+    "support_neg": 1,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.017241379310344827,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X129",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X133",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X134",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X135",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X136",
+    "function": "pour",
+    "support_pos": 1,
+    "support_neg": 1,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.017241379310344827,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X138",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X140",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X141",
+    "function": "pour",
+    "support_pos": 1,
+    "support_neg": 1,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.017241379310344827,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X142",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X143",
+    "function": "pour",
+    "support_pos": 1,
+    "support_neg": 1,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.017241379310344827,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X144",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X149",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X150",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X151",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X154",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X155",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X157",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X159",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X161",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X164",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X165",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X166",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X169",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X171",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X173",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X175",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X178",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X179",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X180",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X183",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X184",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X186",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X188",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X190",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X213",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X214",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X215",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X218",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X221",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X222",
+    "function": "pour",
+    "support_pos": 1,
+    "support_neg": 1,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.017241379310344827,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X224",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X225",
+    "function": "pour",
+    "support_pos": 1,
+    "support_neg": 1,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.017241379310344827,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X227",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X242",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X243",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X244",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X245",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X246",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X247",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X248",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X249",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X250",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X253",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X254",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X255",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X256",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X257",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X258",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X259",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X260",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X261",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X264",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X265",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X266",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X267",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X268",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X269",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X270",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X271",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X272",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X291",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X292",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X293",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X294",
+    "function": "pour",
+    "support_pos": 1,
+    "support_neg": 1,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.017241379310344827,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X296",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X298",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X299",
+    "function": "pour",
+    "support_pos": 1,
+    "support_neg": 1,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.017241379310344827,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X300",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X301",
+    "function": "pour",
+    "support_pos": 1,
+    "support_neg": 1,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.017241379310344827,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X302",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X305",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X306",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X307",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X310",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X311",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X313",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X315",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X317",
+    "function": "pour",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "A10",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "A10",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "A10",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "A11",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "A11",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "A11",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "A13",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "A13",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "A13",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "A30",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "A30",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "A30",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "A31",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "A31",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "A31",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "A32",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "A32",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "A32",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "A33",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "A33",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "A33",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "A43",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "A43",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "A43",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "S23",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "S23",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "S23",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X61",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X61",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X61",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X62",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X62",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X62",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X63",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X63",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X63",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X64",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X64",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X64",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X65",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X65",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X65",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X66",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X66",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X66",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X71",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X71",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X71",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X72",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X72",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X72",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X73",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X73",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X73",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X228",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X228",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X228",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X229",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X229",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X229",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X230",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X230",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X230",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X231",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X231",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X231",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X232",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X232",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X232",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X233",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X233",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X233",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X234",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X234",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X234",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X235",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X235",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X235",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X236",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X236",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X236",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X237",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X237",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X237",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X238",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X238",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X238",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X239",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X239",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X239",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X323",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X323",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X323",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X324",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X324",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X324",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X325",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X325",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X325",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X328",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X328",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X328",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X364",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X364",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X364",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X483",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X483",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X483",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X484",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X484",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X484",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X485",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X485",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X485",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X486",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X486",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X486",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X492",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X492",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X492",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X493",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X493",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X493",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X728",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X728",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X728",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X729",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X729",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X729",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X730",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X730",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X730",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X731",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X731",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X731",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X732",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X732",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X732",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X733",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X733",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X733",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X734",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X734",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X734",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X735",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X735",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X735",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X862",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X862",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X862",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X863",
+    "function": "read",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X863",
+    "function": "watch",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X863",
+    "function": "write",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "L2",
+    "function": "sit",
+    "support_pos": 2,
+    "support_neg": 2,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.037037037037037035,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "L2",
+    "function": "support",
+    "support_pos": 3,
+    "support_neg": 1,
+    "coverage_pos": 0.375,
+    "coverage_neg": 0.019230769230769232,
+    "association_score": 0.375
+  },
+  {
+    "compound_id": "L2",
+    "function": "work",
+    "support_pos": 2,
+    "support_neg": 2,
+    "coverage_pos": 0.6666666666666666,
+    "coverage_neg": 0.03508771929824561,
+    "association_score": 0.6666666666666666
+  },
+  {
+    "compound_id": "S4",
+    "function": "sit",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "S5",
+    "function": "sit",
+    "support_pos": 3,
+    "support_neg": 4,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.07407407407407407,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "S5",
+    "function": "support",
+    "support_pos": 5,
+    "support_neg": 2,
+    "coverage_pos": 0.625,
+    "coverage_neg": 0.038461538461538464,
+    "association_score": 0.625
+  },
+  {
+    "compound_id": "S5",
+    "function": "work",
+    "support_pos": 3,
+    "support_neg": 4,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.07017543859649122,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "S7",
+    "function": "sit",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "S19",
+    "function": "sit",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "S20",
+    "function": "sit",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "S22",
+    "function": "sit",
+    "support_pos": 3,
+    "support_neg": 1,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.018518518518518517,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "S27",
+    "function": "sit",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "S33",
+    "function": "sit",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X346",
+    "function": "sit",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X347",
+    "function": "sit",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X349",
+    "function": "sit",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X350",
+    "function": "sit",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X351",
+    "function": "sit",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X352",
+    "function": "sit",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X353",
+    "function": "sit",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X369",
+    "function": "sit",
+    "support_pos": 2,
+    "support_neg": 2,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.037037037037037035,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X369",
+    "function": "support",
+    "support_pos": 3,
+    "support_neg": 1,
+    "coverage_pos": 0.375,
+    "coverage_neg": 0.019230769230769232,
+    "association_score": 0.375
+  },
+  {
+    "compound_id": "X369",
+    "function": "work",
+    "support_pos": 2,
+    "support_neg": 2,
+    "coverage_pos": 0.6666666666666666,
+    "coverage_neg": 0.03508771929824561,
+    "association_score": 0.6666666666666666
+  },
+  {
+    "compound_id": "X371",
+    "function": "sit",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X374",
+    "function": "sit",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X375",
+    "function": "sit",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X376",
+    "function": "sit",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X378",
+    "function": "sit",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X379",
+    "function": "sit",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X380",
+    "function": "sit",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X381",
+    "function": "sit",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X382",
+    "function": "sit",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X868",
+    "function": "sit",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.5,
+    "coverage_neg": 0.0,
+    "association_score": 0.5
+  },
+  {
+    "compound_id": "X869",
+    "function": "sit",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X870",
+    "function": "sit",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X872",
+    "function": "sit",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X873",
+    "function": "sit",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X874",
+    "function": "sit",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X875",
+    "function": "sit",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "X876",
+    "function": "sit",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.3333333333333333,
+    "coverage_neg": 0.0,
+    "association_score": 0.3333333333333333
+  },
+  {
+    "compound_id": "S10",
+    "function": "stir",
+    "support_pos": 1,
+    "support_neg": 1,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.01694915254237288,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "S11",
+    "function": "stir",
+    "support_pos": 1,
+    "support_neg": 1,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.01694915254237288,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "S24",
+    "function": "stir",
+    "support_pos": 1,
+    "support_neg": 1,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.01694915254237288,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "S29",
+    "function": "stir",
+    "support_pos": 1,
+    "support_neg": 1,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.01694915254237288,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "A6",
+    "function": "support",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.375,
+    "coverage_neg": 0.0,
+    "association_score": 0.375
+  },
+  {
+    "compound_id": "A6",
+    "function": "work",
+    "support_pos": 2,
+    "support_neg": 1,
+    "coverage_pos": 0.6666666666666666,
+    "coverage_neg": 0.017543859649122806,
+    "association_score": 0.6666666666666666
+  },
+  {
+    "compound_id": "A12",
+    "function": "support",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.375,
+    "coverage_neg": 0.0,
+    "association_score": 0.375
+  },
+  {
+    "compound_id": "A12",
+    "function": "work",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "S21",
+    "function": "support",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.375,
+    "coverage_neg": 0.0,
+    "association_score": 0.375
+  },
+  {
+    "compound_id": "S21",
+    "function": "work",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X46",
+    "function": "support",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.375,
+    "coverage_neg": 0.0,
+    "association_score": 0.375
+  },
+  {
+    "compound_id": "X46",
+    "function": "work",
+    "support_pos": 2,
+    "support_neg": 1,
+    "coverage_pos": 0.6666666666666666,
+    "coverage_neg": 0.017543859649122806,
+    "association_score": 0.6666666666666666
+  },
+  {
+    "compound_id": "X67",
+    "function": "support",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.375,
+    "coverage_neg": 0.0,
+    "association_score": 0.375
+  },
+  {
+    "compound_id": "X67",
+    "function": "work",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X69",
+    "function": "support",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.375,
+    "coverage_neg": 0.0,
+    "association_score": 0.375
+  },
+  {
+    "compound_id": "X69",
+    "function": "work",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X70",
+    "function": "support",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.375,
+    "coverage_neg": 0.0,
+    "association_score": 0.375
+  },
+  {
+    "compound_id": "X70",
+    "function": "work",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X329",
+    "function": "support",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.375,
+    "coverage_neg": 0.0,
+    "association_score": 0.375
+  },
+  {
+    "compound_id": "X329",
+    "function": "work",
+    "support_pos": 2,
+    "support_neg": 1,
+    "coverage_pos": 0.6666666666666666,
+    "coverage_neg": 0.017543859649122806,
+    "association_score": 0.6666666666666666
+  },
+  {
+    "compound_id": "X331",
+    "function": "support",
+    "support_pos": 5,
+    "support_neg": 0,
+    "coverage_pos": 0.625,
+    "coverage_neg": 0.0,
+    "association_score": 0.625
+  },
+  {
+    "compound_id": "X331",
+    "function": "work",
+    "support_pos": 3,
+    "support_neg": 2,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.03508771929824561,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X337",
+    "function": "support",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.375,
+    "coverage_neg": 0.0,
+    "association_score": 0.375
+  },
+  {
+    "compound_id": "X337",
+    "function": "work",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X488",
+    "function": "support",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.375,
+    "coverage_neg": 0.0,
+    "association_score": 0.375
+  },
+  {
+    "compound_id": "X488",
+    "function": "work",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X489",
+    "function": "support",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.375,
+    "coverage_neg": 0.0,
+    "association_score": 0.375
+  },
+  {
+    "compound_id": "X489",
+    "function": "work",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X864",
+    "function": "support",
+    "support_pos": 3,
+    "support_neg": 0,
+    "coverage_pos": 0.375,
+    "coverage_neg": 0.0,
+    "association_score": 0.375
+  },
+  {
+    "compound_id": "X864",
+    "function": "work",
+    "support_pos": 2,
+    "support_neg": 1,
+    "coverage_pos": 0.6666666666666666,
+    "coverage_neg": 0.017543859649122806,
+    "association_score": 0.6666666666666666
+  },
+  {
+    "compound_id": "L1",
+    "function": "wear",
+    "support_pos": 5,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "X342",
+    "function": "wear",
+    "support_pos": 5,
+    "support_neg": 0,
+    "coverage_pos": 1.0,
+    "coverage_neg": 0.0,
+    "association_score": 1.0
+  },
+  {
+    "compound_id": "A7",
+    "function": "work",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.6666666666666666,
+    "coverage_neg": 0.0,
+    "association_score": 0.6666666666666666
+  },
+  {
+    "compound_id": "A28",
+    "function": "work",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.6666666666666666,
+    "coverage_neg": 0.0,
+    "association_score": 0.6666666666666666
+  },
+  {
+    "compound_id": "X47",
+    "function": "work",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.6666666666666666,
+    "coverage_neg": 0.0,
+    "association_score": 0.6666666666666666
+  },
+  {
+    "compound_id": "X48",
+    "function": "work",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.6666666666666666,
+    "coverage_neg": 0.0,
+    "association_score": 0.6666666666666666
+  },
+  {
+    "compound_id": "X49",
+    "function": "work",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.6666666666666666,
+    "coverage_neg": 0.0,
+    "association_score": 0.6666666666666666
+  },
+  {
+    "compound_id": "X50",
+    "function": "work",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.6666666666666666,
+    "coverage_neg": 0.0,
+    "association_score": 0.6666666666666666
+  },
+  {
+    "compound_id": "X51",
+    "function": "work",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.6666666666666666,
+    "coverage_neg": 0.0,
+    "association_score": 0.6666666666666666
+  },
+  {
+    "compound_id": "X52",
+    "function": "work",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.6666666666666666,
+    "coverage_neg": 0.0,
+    "association_score": 0.6666666666666666
+  },
+  {
+    "compound_id": "X53",
+    "function": "work",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.6666666666666666,
+    "coverage_neg": 0.0,
+    "association_score": 0.6666666666666666
+  },
+  {
+    "compound_id": "X68",
+    "function": "work",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.6666666666666666,
+    "coverage_neg": 0.0,
+    "association_score": 0.6666666666666666
+  },
+  {
+    "compound_id": "X205",
+    "function": "work",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.6666666666666666,
+    "coverage_neg": 0.0,
+    "association_score": 0.6666666666666666
+  },
+  {
+    "compound_id": "X206",
+    "function": "work",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.6666666666666666,
+    "coverage_neg": 0.0,
+    "association_score": 0.6666666666666666
+  },
+  {
+    "compound_id": "X207",
+    "function": "work",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.6666666666666666,
+    "coverage_neg": 0.0,
+    "association_score": 0.6666666666666666
+  },
+  {
+    "compound_id": "X208",
+    "function": "work",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.6666666666666666,
+    "coverage_neg": 0.0,
+    "association_score": 0.6666666666666666
+  },
+  {
+    "compound_id": "X370",
+    "function": "work",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.6666666666666666,
+    "coverage_neg": 0.0,
+    "association_score": 0.6666666666666666
+  },
+  {
+    "compound_id": "X465",
+    "function": "work",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.6666666666666666,
+    "coverage_neg": 0.0,
+    "association_score": 0.6666666666666666
+  },
+  {
+    "compound_id": "X466",
+    "function": "work",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.6666666666666666,
+    "coverage_neg": 0.0,
+    "association_score": 0.6666666666666666
+  },
+  {
+    "compound_id": "X467",
+    "function": "work",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.6666666666666666,
+    "coverage_neg": 0.0,
+    "association_score": 0.6666666666666666
+  },
+  {
+    "compound_id": "X468",
+    "function": "work",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.6666666666666666,
+    "coverage_neg": 0.0,
+    "association_score": 0.6666666666666666
+  },
+  {
+    "compound_id": "X469",
+    "function": "work",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.6666666666666666,
+    "coverage_neg": 0.0,
+    "association_score": 0.6666666666666666
+  },
+  {
+    "compound_id": "X470",
+    "function": "work",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.6666666666666666,
+    "coverage_neg": 0.0,
+    "association_score": 0.6666666666666666
+  },
+  {
+    "compound_id": "X471",
+    "function": "work",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.6666666666666666,
+    "coverage_neg": 0.0,
+    "association_score": 0.6666666666666666
+  },
+  {
+    "compound_id": "X472",
+    "function": "work",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.6666666666666666,
+    "coverage_neg": 0.0,
+    "association_score": 0.6666666666666666
+  },
+  {
+    "compound_id": "X473",
+    "function": "work",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.6666666666666666,
+    "coverage_neg": 0.0,
+    "association_score": 0.6666666666666666
+  },
+  {
+    "compound_id": "X474",
+    "function": "work",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.6666666666666666,
+    "coverage_neg": 0.0,
+    "association_score": 0.6666666666666666
+  },
+  {
+    "compound_id": "X487",
+    "function": "work",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.6666666666666666,
+    "coverage_neg": 0.0,
+    "association_score": 0.6666666666666666
+  },
+  {
+    "compound_id": "X490",
+    "function": "work",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.6666666666666666,
+    "coverage_neg": 0.0,
+    "association_score": 0.6666666666666666
+  },
+  {
+    "compound_id": "X491",
+    "function": "work",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.6666666666666666,
+    "coverage_neg": 0.0,
+    "association_score": 0.6666666666666666
+  },
+  {
+    "compound_id": "X693",
+    "function": "work",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.6666666666666666,
+    "coverage_neg": 0.0,
+    "association_score": 0.6666666666666666
+  },
+  {
+    "compound_id": "X694",
+    "function": "work",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.6666666666666666,
+    "coverage_neg": 0.0,
+    "association_score": 0.6666666666666666
+  },
+  {
+    "compound_id": "X695",
+    "function": "work",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.6666666666666666,
+    "coverage_neg": 0.0,
+    "association_score": 0.6666666666666666
+  },
+  {
+    "compound_id": "X696",
+    "function": "work",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.6666666666666666,
+    "coverage_neg": 0.0,
+    "association_score": 0.6666666666666666
+  },
+  {
+    "compound_id": "X697",
+    "function": "work",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.6666666666666666,
+    "coverage_neg": 0.0,
+    "association_score": 0.6666666666666666
+  },
+  {
+    "compound_id": "X865",
+    "function": "work",
+    "support_pos": 2,
+    "support_neg": 0,
+    "coverage_pos": 0.6666666666666666,
+    "coverage_neg": 0.0,
+    "association_score": 0.6666666666666666
+  }
+]

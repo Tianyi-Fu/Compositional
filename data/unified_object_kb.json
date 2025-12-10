@@ -1,0 +1,11084 @@
+[
+  {
+    "object_id": "027_skillet",
+    "features": [
+      "part_handle",
+      "size_medium"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "abaya",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "academic gown",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "accordion",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_open",
+      "aff_pick",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "open",
+      "pick",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "acorn",
+    "features": [
+      "aff_carry",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "cut",
+      "eat",
+      "hold",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "adjustable_wrench",
+    "features": [
+      "mat_metal",
+      "phys_shape_long",
+      "size_medium",
+      "size_small"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "aircraft",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_cook",
+      "aff_cut",
+      "aff_drink",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "cook",
+      "cut",
+      "drink",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "alpaca",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "ambulance",
+    "features": [
+      "aff_clean",
+      "aff_close",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pull",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "clean",
+      "close",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pull",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "apple",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_cook",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit",
+      "size_medium"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "cook",
+      "cut",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl",
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "armadillo",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cook",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cook",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "artichoke",
+    "features": [
+      "aff_carry",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_open",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "cut",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "open",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "axe",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "hold",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "backpack",
+    "features": [
+      "aff_close",
+      "aff_cut",
+      "aff_drink",
+      "aff_lie",
+      "aff_lift",
+      "aff_pick",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "close",
+      "cut",
+      "drink",
+      "lie",
+      "lift",
+      "pick",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "bagel",
+    "features": [
+      "aff_carry",
+      "aff_cook",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_pick",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "cook",
+      "cut",
+      "eat",
+      "hold",
+      "pick",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "baked goods",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cook",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cook",
+      "cut",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "balance beam",
+    "features": [
+      "aff_clean",
+      "aff_hold",
+      "aff_lift"
+    ],
+    "functions": [
+      "clean",
+      "hold",
+      "lift"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "ball",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "balloon",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lift",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lift",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "banana",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_cook",
+      "aff_cut",
+      "aff_drink",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit",
+      "size_medium"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "cook",
+      "cut",
+      "drink",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl",
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "banjo",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pull",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pull",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "barbell",
+    "features": [
+      "aff_carry",
+      "aff_hold",
+      "aff_lift",
+      "aff_open",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "hold",
+      "lift",
+      "open",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "barrel",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "baseball",
+    "features": [
+      "phys_shape_round",
+      "size_medium",
+      "size_small"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "bathtub",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_eat",
+      "aff_hold",
+      "aff_lift"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "eat",
+      "hold",
+      "lift"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "beach wagon",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "beaker",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "cut",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "bear",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_drink",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "drink",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "bed",
+    "features": [
+      "aff_close",
+      "aff_cut",
+      "aff_drink",
+      "aff_move",
+      "aff_pick",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "close",
+      "cut",
+      "drink",
+      "move",
+      "pick",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "bee",
+    "features": [
+      "aff_move"
+    ],
+    "functions": [
+      "move"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "bell pepper",
+    "features": [
+      "aff_carry",
+      "aff_cook",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_open",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "cook",
+      "cut",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "open",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "bench",
+    "features": [
+      "aff_close",
+      "aff_cut",
+      "aff_drink",
+      "aff_hold",
+      "aff_lie",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "close",
+      "cut",
+      "drink",
+      "hold",
+      "lie",
+      "move",
+      "open",
+      "pick",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "bib",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_eat",
+      "aff_hold",
+      "aff_push"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "eat",
+      "hold",
+      "push"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "bicycle",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cook",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cook",
+      "cut",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "billiard table",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lift",
+      "aff_open"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lift",
+      "open"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "binoculars",
+    "features": [
+      "aff_hold",
+      "aff_lift",
+      "aff_move",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "hold",
+      "lift",
+      "move",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "bird",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cook",
+      "aff_cut",
+      "aff_drink",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cook",
+      "cut",
+      "drink",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "bison",
+    "features": [
+      "aff_clean",
+      "aff_hold",
+      "aff_move",
+      "aff_pull",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "clean",
+      "hold",
+      "move",
+      "pull",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "bleach_cleanser",
+    "features": [
+      "size_medium"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "boat",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "bookcase",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "boot",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "cut",
+      "eat",
+      "hold",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "bottle",
+    "features": [
+      "aff_clean",
+      "aff_hold",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "clean",
+      "hold",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "bottle opener",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_cut",
+      "aff_hold",
+      "aff_lift",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "cut",
+      "hold",
+      "lift",
+      "pick",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "bowl",
+    "features": [
+      "geom_cavity",
+      "mat_ceramic",
+      "phys_shape_bowl",
+      "phys_shape_round",
+      "size_medium"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "box",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_cut",
+      "aff_hold",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "cut",
+      "hold",
+      "lift",
+      "move",
+      "open",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "brace",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_push"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "push"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "brassiere",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lift",
+      "aff_open",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lift",
+      "open",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "bread",
+    "features": [
+      "aff_carry",
+      "aff_cook",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "cook",
+      "cut",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "broccoli",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cook",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_stir"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cook",
+      "cut",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "stir"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "broom",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_stir"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "stir"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "bubble",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_move",
+      "aff_open",
+      "aff_push"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "hold",
+      "move",
+      "open",
+      "push"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "buckeye",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cook",
+      "aff_cut",
+      "aff_hold",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cook",
+      "cut",
+      "hold",
+      "move",
+      "open",
+      "pick",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "bull",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cook",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cook",
+      "cut",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "burrito",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cook",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_lift",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cook",
+      "cut",
+      "eat",
+      "hold",
+      "lift",
+      "pick",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "bus",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_cut",
+      "aff_drink",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "cut",
+      "drink",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "butterfly",
+    "features": [
+      "aff_carry",
+      "aff_hold",
+      "aff_lift",
+      "aff_move"
+    ],
+    "functions": [
+      "carry",
+      "hold",
+      "lift",
+      "move"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "cabbage",
+    "features": [
+      "aff_carry",
+      "aff_cook",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_open",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "cook",
+      "cut",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "open",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "cake",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cook",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cook",
+      "cut",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "camel",
+    "features": [
+      "aff_clean",
+      "aff_hold",
+      "aff_move",
+      "aff_pull",
+      "aff_push"
+    ],
+    "functions": [
+      "clean",
+      "hold",
+      "move",
+      "pull",
+      "push"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "camera",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_open",
+      "aff_pick",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "hold",
+      "lie",
+      "lift",
+      "open",
+      "pick",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "can opener",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_cut",
+      "aff_hold",
+      "aff_lift",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "cut",
+      "hold",
+      "lift",
+      "pick",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "candle",
+    "features": [
+      "aff_carry",
+      "aff_cook",
+      "aff_lift",
+      "aff_open",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "cook",
+      "lift",
+      "open",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "cannon",
+    "features": [
+      "aff_clean",
+      "aff_hold",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "clean",
+      "hold",
+      "lift",
+      "move",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "car",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_cook",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "cook",
+      "cut",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "cardigan",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "carnivore",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "carrot",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cook",
+      "aff_cut",
+      "aff_drink",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_stir"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cook",
+      "cut",
+      "drink",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "stir"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "cart",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_cut",
+      "aff_hold",
+      "aff_lift",
+      "aff_move",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "cut",
+      "hold",
+      "lift",
+      "move",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "cat",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_cook",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "cook",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "cattle",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cook",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit",
+      "aff_stir"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cook",
+      "cut",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit",
+      "stir"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "cavy",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lift",
+      "aff_move",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lift",
+      "move",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "cello",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_open",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "open",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "chain",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_open",
+      "aff_push",
+      "aff_sit",
+      "size_medium"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "open",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl",
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "chainsaw",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "hold",
+      "lie",
+      "lift",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "chair",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_pull",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "pull",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "cheetah",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "chest of drawers",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "hold",
+      "lift",
+      "move",
+      "open",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "chicken",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cook",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cook",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "chime",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_pull",
+      "aff_push"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lift",
+      "move",
+      "pick",
+      "pull",
+      "push"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "chips_can",
+    "features": [
+      "geom_cavity",
+      "mat_metal",
+      "phys_shape_cylindrical",
+      "size_medium"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "clock",
+    "features": [
+      "aff_close",
+      "aff_cut",
+      "aff_hold",
+      "aff_pick",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "close",
+      "cut",
+      "hold",
+      "pick",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "clog",
+    "features": [
+      "aff_clean",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_open",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "clean",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "open",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "closet",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "coat",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "cocktail shaker",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_pick",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "pick",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "coffee",
+    "features": [
+      "aff_carry",
+      "aff_drink",
+      "aff_eat",
+      "aff_lift",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "drink",
+      "eat",
+      "lift",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "colored_wood_blocks",
+    "features": [
+      "mat_wood",
+      "phys_shape_boxy",
+      "size_medium"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "computer keyboard",
+    "features": [
+      "aff_cut",
+      "aff_drink",
+      "aff_lie",
+      "aff_pick",
+      "aff_push"
+    ],
+    "functions": [
+      "cut",
+      "drink",
+      "lie",
+      "pick",
+      "push"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "computer mouse",
+    "features": [
+      "aff_close",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_push"
+    ],
+    "functions": [
+      "close",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "push"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "conch",
+    "features": [
+      "aff_carry",
+      "aff_cook",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "cook",
+      "cut",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "container",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "corn",
+    "features": [
+      "aff_carry",
+      "aff_cook",
+      "aff_eat",
+      "aff_hold",
+      "aff_open",
+      "aff_pull",
+      "aff_push",
+      "aff_stir"
+    ],
+    "functions": [
+      "carry",
+      "cook",
+      "eat",
+      "hold",
+      "open",
+      "pull",
+      "push",
+      "stir"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "couch",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_drink",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_open",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "drink",
+      "hold",
+      "lie",
+      "lift",
+      "open",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "cowboy hat",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_open",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "open",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "crab",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cook",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cook",
+      "cut",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "cracker_box",
+    "features": [
+      "size_medium"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "crocodile",
+    "features": [
+      "aff_carry",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift"
+    ],
+    "functions": [
+      "carry",
+      "hold",
+      "lie",
+      "lift"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "crossword puzzle",
+    "features": [
+      "aff_push"
+    ],
+    "functions": [
+      "push"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "crutch",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lift",
+      "aff_open",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lift",
+      "open",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "cups",
+    "features": [
+      "geom_cavity",
+      "mat_ceramic",
+      "part_handle",
+      "phys_shape_cylindrical",
+      "size_medium"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "curtain",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_hold",
+      "aff_lift",
+      "aff_open",
+      "aff_pull",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "hold",
+      "lift",
+      "open",
+      "pull",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "custard apple",
+    "features": [
+      "aff_carry",
+      "aff_cook",
+      "aff_eat",
+      "aff_hold",
+      "aff_open",
+      "aff_pull",
+      "aff_push"
+    ],
+    "functions": [
+      "carry",
+      "cook",
+      "eat",
+      "hold",
+      "open",
+      "pull",
+      "push"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "desk",
+    "features": [
+      "aff_close",
+      "aff_cut",
+      "aff_drink",
+      "aff_pick",
+      "aff_push"
+    ],
+    "functions": [
+      "close",
+      "cut",
+      "drink",
+      "pick",
+      "push"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "dessert",
+    "features": [
+      "aff_carry",
+      "aff_cook",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_lift",
+      "aff_open",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "cook",
+      "cut",
+      "eat",
+      "hold",
+      "lift",
+      "open",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "dhole",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "diaper",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "eat",
+      "hold",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "dice",
+    "features": [
+      "size_small"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "digital clock",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "hold",
+      "lift",
+      "move",
+      "open",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "dinosaur",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "dishwasher",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_cut",
+      "aff_hold",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "cut",
+      "hold",
+      "lift",
+      "move",
+      "open",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "dog",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_cook",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit",
+      "aff_stir"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "cook",
+      "cut",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit",
+      "stir"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "door",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_cut",
+      "aff_hold",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "cut",
+      "hold",
+      "lift",
+      "move",
+      "open",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "dough",
+    "features": [
+      "aff_carry",
+      "aff_cook",
+      "aff_eat",
+      "aff_hold",
+      "aff_open",
+      "aff_push"
+    ],
+    "functions": [
+      "carry",
+      "cook",
+      "eat",
+      "hold",
+      "open",
+      "push"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "dragonfly",
+    "features": [
+      "aff_move"
+    ],
+    "functions": [
+      "move"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "drill",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "drum",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_lift",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "hold",
+      "lift",
+      "pick",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "drumstick",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_lift",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "hold",
+      "lift",
+      "pick",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "duck",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cook",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cook",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "dumbbell",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lift",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lift",
+      "pick",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "eagle",
+    "features": [
+      "aff_hold",
+      "aff_move",
+      "aff_pull",
+      "aff_push"
+    ],
+    "functions": [
+      "hold",
+      "move",
+      "pull",
+      "push"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "eggnog",
+    "features": [
+      "aff_carry",
+      "aff_cut",
+      "aff_drink",
+      "aff_eat",
+      "aff_hold",
+      "aff_lift",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "cut",
+      "drink",
+      "eat",
+      "hold",
+      "lift",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "elephant",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "envelope",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_cut",
+      "aff_hold",
+      "aff_lift",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "cut",
+      "hold",
+      "lift",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "eraser",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "extra_large_clamp",
+    "features": [
+      "part_clamp",
+      "size_large"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "face powder",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_lift",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "hold",
+      "lift",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "filing cabinet",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_cut",
+      "aff_hold",
+      "aff_lift",
+      "aff_open",
+      "aff_pull",
+      "aff_push"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "cut",
+      "hold",
+      "lift",
+      "open",
+      "pull",
+      "push"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "fish",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cook",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cook",
+      "cut",
+      "eat",
+      "hold",
+      "lift",
+      "move",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "flat_screwdriver",
+    "features": [
+      "mat_metal",
+      "phys_shape_long",
+      "size_medium",
+      "size_small"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "flower",
+    "features": [
+      "aff_carry",
+      "aff_cut",
+      "aff_hold",
+      "aff_lift",
+      "aff_open",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "cut",
+      "hold",
+      "lift",
+      "open",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "flowerpot",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_open",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "open",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "flute",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lift",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lift",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "foam_brick",
+    "features": [
+      "mat_foam",
+      "mat_wood",
+      "phys_shape_boxy",
+      "size_medium"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "football helmet",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_open",
+      "aff_pull",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "open",
+      "pull",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "footwear",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_open",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "open",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "fork",
+    "features": [
+      "mat_metal",
+      "phys_shape_long",
+      "size_medium",
+      "size_small"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "fountain",
+    "features": [
+      "aff_clean",
+      "aff_close",
+      "aff_hold",
+      "aff_open",
+      "aff_push"
+    ],
+    "functions": [
+      "clean",
+      "close",
+      "hold",
+      "open",
+      "push"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "fox",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "french horn",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_open",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "open",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "frog",
+    "features": [
+      "aff_eat",
+      "aff_hold",
+      "aff_move"
+    ],
+    "functions": [
+      "eat",
+      "hold",
+      "move"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "frying pan",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_open",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "open",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "furniture",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "gazelle",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "gelatin_box",
+    "features": [
+      "size_medium"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "giraffe",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cook",
+      "aff_cut",
+      "aff_drink",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cook",
+      "cut",
+      "drink",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "glove",
+    "features": [
+      "aff_carry",
+      "aff_hold"
+    ],
+    "functions": [
+      "carry",
+      "hold"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "goat",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "goblet",
+    "features": [
+      "aff_hold",
+      "aff_lie"
+    ],
+    "functions": [
+      "hold",
+      "lie"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "golf ball",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "golf cart",
+    "features": [
+      "aff_clean",
+      "aff_close",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pull",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "clean",
+      "close",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pull",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "golf_ball",
+    "features": [
+      "phys_shape_round",
+      "size_small"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "goose",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cook",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cook",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "gown",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "guacamole",
+    "features": [
+      "aff_cook",
+      "aff_lie"
+    ],
+    "functions": [
+      "cook",
+      "lie"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "guitar",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pull",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pull",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "hair dryer",
+    "features": [
+      "aff_lie"
+    ],
+    "functions": [
+      "lie"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "hair slide",
+    "features": [
+      "aff_lie"
+    ],
+    "functions": [
+      "lie"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "hair spray",
+    "features": [
+      "aff_carry",
+      "aff_hold",
+      "aff_lie"
+    ],
+    "functions": [
+      "carry",
+      "hold",
+      "lie"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "hamburger",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cook",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_lift",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cook",
+      "cut",
+      "eat",
+      "hold",
+      "lift",
+      "pick",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "hammer",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_open",
+      "aff_push",
+      "aff_sit",
+      "mat_metal",
+      "phys_shape_boxy",
+      "phys_shape_long",
+      "size_medium"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "open",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl",
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "hamster",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lift",
+      "aff_move",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lift",
+      "move",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "handgun",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_pick",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "pick",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "handkerchief",
+    "features": [
+      "aff_hold",
+      "aff_lie"
+    ],
+    "functions": [
+      "hold",
+      "lie"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "harmonica",
+    "features": [
+      "aff_hold",
+      "aff_lie"
+    ],
+    "functions": [
+      "hold",
+      "lie"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "harp",
+    "features": [
+      "aff_hold",
+      "aff_lie",
+      "aff_open"
+    ],
+    "functions": [
+      "hold",
+      "lie",
+      "open"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "hartebeest",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "hat",
+    "features": [
+      "aff_carry",
+      "aff_hold",
+      "aff_lie"
+    ],
+    "functions": [
+      "carry",
+      "hold",
+      "lie"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "hay",
+    "features": [
+      "aff_carry",
+      "aff_eat",
+      "aff_hold",
+      "aff_open",
+      "aff_push"
+    ],
+    "functions": [
+      "carry",
+      "eat",
+      "hold",
+      "open",
+      "push"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "heater",
+    "features": [
+      "aff_close",
+      "aff_lie",
+      "aff_put"
+    ],
+    "functions": [
+      "close",
+      "lie",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "hedgehog",
+    "features": [
+      "aff_carry",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "helmet",
+    "features": [
+      "aff_lie",
+      "aff_put"
+    ],
+    "functions": [
+      "lie",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "hen",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cook",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cook",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "hippopotamus",
+    "features": [
+      "aff_drink",
+      "aff_eat",
+      "aff_lie",
+      "aff_move"
+    ],
+    "functions": [
+      "drink",
+      "eat",
+      "lie",
+      "move"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "home appliance",
+    "features": [
+      "aff_lie",
+      "aff_move",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "lie",
+      "move",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "honeycomb",
+    "features": [
+      "aff_carry",
+      "aff_cook",
+      "aff_drink",
+      "aff_eat",
+      "aff_hold",
+      "aff_lift",
+      "aff_move",
+      "aff_put",
+      "aff_sit",
+      "aff_stir"
+    ],
+    "functions": [
+      "carry",
+      "cook",
+      "drink",
+      "eat",
+      "hold",
+      "lift",
+      "move",
+      "put",
+      "sit",
+      "stir"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "horizontal bar",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lift",
+      "aff_open"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lift",
+      "open"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "horse",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_drink",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit",
+      "aff_stir"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "drink",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit",
+      "stir"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "hot dog",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cook",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cook",
+      "cut",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "hyena",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "ibex",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "ice cream",
+    "features": [
+      "aff_carry",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_push",
+      "aff_put",
+      "aff_sit",
+      "aff_stir"
+    ],
+    "functions": [
+      "carry",
+      "cut",
+      "eat",
+      "hold",
+      "lift",
+      "move",
+      "open",
+      "push",
+      "put",
+      "sit",
+      "stir"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "impala",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "insect",
+    "features": [
+      "aff_carry",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "invertebrate",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cook",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cook",
+      "cut",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "ipod",
+    "features": [
+      "aff_carry",
+      "aff_close",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "close",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "isopod",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "jaguar",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "jeans",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_lift",
+      "aff_pull",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "eat",
+      "hold",
+      "lift",
+      "pull",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "jellyfish",
+    "features": [
+      "aff_carry",
+      "aff_lift",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "lift",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "jinrikisha",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_cut",
+      "aff_hold",
+      "aff_lift",
+      "aff_move",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "cut",
+      "hold",
+      "lift",
+      "move",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "joystick",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "jug",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "key",
+    "features": [
+      "size_medium"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "kimono",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "kitchen utensil",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cook",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cook",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "knee pad",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_open",
+      "aff_push"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "open",
+      "push"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "knife",
+    "features": [
+      "aff_carry",
+      "aff_close",
+      "aff_cook",
+      "aff_cut",
+      "aff_hold",
+      "aff_lift",
+      "aff_move",
+      "aff_push",
+      "aff_put",
+      "mat_metal",
+      "phys_shape_long",
+      "size_medium",
+      "size_small"
+    ],
+    "functions": [
+      "carry",
+      "close",
+      "cook",
+      "cut",
+      "hold",
+      "lift",
+      "move",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl",
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "knot",
+    "features": [
+      "aff_carry",
+      "aff_cook",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "cook",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "koala",
+    "features": [
+      "aff_carry",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "hold",
+      "lie",
+      "lift",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "lab coat",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "ladle",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_drink",
+      "aff_eat",
+      "aff_hold",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_push",
+      "aff_stir"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "drink",
+      "eat",
+      "hold",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "push",
+      "stir"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "lamp",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "lampshade",
+    "features": [
+      "aff_hold",
+      "aff_push"
+    ],
+    "functions": [
+      "hold",
+      "push"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "lantern",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "laptop",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "large_clamp",
+    "features": [
+      "part_clamp",
+      "size_large"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "large_marker",
+    "features": [
+      "phys_shape_cylindrical",
+      "size_large"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "lego_duplo",
+    "features": [
+      "size_medium"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "lemon",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_put",
+      "size_medium"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "put"
+    ],
+    "sources": [
+      "ocl",
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "letter opener",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "lighthouse",
+    "features": [
+      "aff_clean",
+      "aff_lift",
+      "aff_move",
+      "aff_open"
+    ],
+    "functions": [
+      "clean",
+      "lift",
+      "move",
+      "open"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "limousine",
+    "features": [
+      "aff_clean",
+      "aff_close",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pull",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "clean",
+      "close",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pull",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "lion",
+    "features": [
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_move"
+    ],
+    "functions": [
+      "clean",
+      "hold",
+      "lie",
+      "move"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "lipstick",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "pull",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "lizard",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cook",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cook",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "loudspeaker",
+    "features": [
+      "aff_carry",
+      "aff_close",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "close",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "loupe",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "madagascar cat",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lift",
+      "move",
+      "pick",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "mailbox",
+    "features": [
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "maracas",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "marbles",
+    "features": [
+      "phys_shape_round",
+      "size_small"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "marimba",
+    "features": [
+      "aff_carry",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_move",
+      "aff_open",
+      "aff_push"
+    ],
+    "functions": [
+      "carry",
+      "cut",
+      "hold",
+      "lie",
+      "move",
+      "open",
+      "push"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "mask",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_open",
+      "aff_push"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "open",
+      "push"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "master_chef_can",
+    "features": [
+      "geom_cavity",
+      "mat_metal",
+      "phys_shape_cylindrical",
+      "size_medium"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "matchstick",
+    "features": [
+      "aff_carry",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "cut",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "measuring cup",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "cut",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "meat loaf",
+    "features": [
+      "aff_carry",
+      "aff_cook",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "cook",
+      "cut",
+      "eat",
+      "hold",
+      "lift",
+      "move",
+      "pick",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "medium_clamp",
+    "features": [
+      "part_clamp",
+      "size_medium"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "megalith",
+    "features": [
+      "aff_hold",
+      "aff_lie",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "hold",
+      "lie",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "microphone",
+    "features": [
+      "aff_carry",
+      "aff_close",
+      "aff_cook",
+      "aff_cut",
+      "aff_drink",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_push"
+    ],
+    "functions": [
+      "carry",
+      "close",
+      "cook",
+      "cut",
+      "drink",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "push"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "microwave oven",
+    "features": [
+      "aff_close",
+      "aff_cook",
+      "aff_drink",
+      "aff_hold",
+      "aff_lie",
+      "aff_pick",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "close",
+      "cook",
+      "drink",
+      "hold",
+      "lie",
+      "pick",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "military uniform",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "mini_soccer_ball",
+    "features": [
+      "phys_shape_round",
+      "size_small"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "minibus",
+    "features": [
+      "aff_clean",
+      "aff_close",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pull",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "clean",
+      "close",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pull",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "miniskirt",
+    "features": [
+      "aff_clean",
+      "aff_hold",
+      "aff_lift",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "clean",
+      "hold",
+      "lift",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "mirror",
+    "features": [
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_pull",
+      "aff_push"
+    ],
+    "functions": [
+      "clean",
+      "cut",
+      "hold",
+      "pull",
+      "push"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "missile",
+    "features": [
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_lift",
+      "aff_move",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "clean",
+      "cut",
+      "hold",
+      "lift",
+      "move",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "mixing bowl",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "mobile home",
+    "features": [
+      "aff_clean",
+      "aff_close",
+      "aff_hold",
+      "aff_lie",
+      "aff_move",
+      "aff_open",
+      "aff_pull",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "clean",
+      "close",
+      "hold",
+      "lie",
+      "move",
+      "open",
+      "pull",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "mobile phone",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_hold",
+      "aff_lift",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "hold",
+      "lift",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "modem",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_cut",
+      "aff_hold",
+      "aff_lift",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "cut",
+      "hold",
+      "lift",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "mongoose",
+    "features": [
+      "aff_hold",
+      "aff_push",
+      "aff_sit",
+      "aff_stir"
+    ],
+    "functions": [
+      "hold",
+      "push",
+      "sit",
+      "stir"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "monkey",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "mortarboard",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_eat",
+      "aff_hold",
+      "aff_lift",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "eat",
+      "hold",
+      "lift",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "motorcycle",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_cook",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "cook",
+      "cut",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "mug",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit",
+      "geom_cavity",
+      "mat_ceramic",
+      "part_handle",
+      "phys_shape_cylindrical",
+      "size_medium"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl",
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "mushroom",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cook",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cook",
+      "cut",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "mustard_bottle",
+    "features": [
+      "geom_cavity",
+      "mat_glass",
+      "mat_metal",
+      "phys_shape_cylindrical",
+      "size_medium"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "nail",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "necklace",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lift",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lift",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "nine_hole_peg_test",
+    "features": [
+      "size_medium"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "nipple",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_drink",
+      "aff_hold",
+      "aff_lift",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "drink",
+      "hold",
+      "lift",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "oar",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_lift",
+      "aff_move",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_stir"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "hold",
+      "lift",
+      "move",
+      "pull",
+      "push",
+      "put",
+      "stir"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "oboe",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lift",
+      "aff_open",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lift",
+      "open",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "ocarina",
+    "features": [
+      "aff_carry",
+      "aff_hold",
+      "aff_open",
+      "aff_push"
+    ],
+    "functions": [
+      "carry",
+      "hold",
+      "open",
+      "push"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "oil filter",
+    "features": [
+      "aff_carry",
+      "aff_hold",
+      "aff_open",
+      "aff_push"
+    ],
+    "functions": [
+      "carry",
+      "hold",
+      "open",
+      "push"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "orange",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cook",
+      "aff_cut",
+      "aff_drink",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "size_medium"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cook",
+      "cut",
+      "drink",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl",
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "otter",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "oven",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_cook",
+      "aff_hold",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_stir"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "cook",
+      "hold",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "stir"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "owl",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cook",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cook",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "oxygen mask",
+    "features": [
+      "aff_carry",
+      "aff_hold",
+      "aff_pick",
+      "aff_push"
+    ],
+    "functions": [
+      "carry",
+      "hold",
+      "pick",
+      "push"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "packet",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_cut",
+      "aff_hold",
+      "aff_lift",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "cut",
+      "hold",
+      "lift",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "padlock",
+    "features": [
+      "size_medium"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "paintbrush",
+    "features": [
+      "aff_carry",
+      "aff_eat",
+      "aff_hold",
+      "aff_lift",
+      "aff_push"
+    ],
+    "functions": [
+      "carry",
+      "eat",
+      "hold",
+      "lift",
+      "push"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "panda",
+    "features": [
+      "aff_clean",
+      "aff_hold",
+      "aff_move",
+      "aff_pull",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "clean",
+      "hold",
+      "move",
+      "pull",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "panpipe",
+    "features": [
+      "aff_carry",
+      "aff_hold",
+      "aff_push"
+    ],
+    "functions": [
+      "carry",
+      "hold",
+      "push"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "paper towel",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_lift",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "hold",
+      "lift",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "parachute",
+    "features": [
+      "aff_carry",
+      "aff_hold",
+      "aff_lift",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "hold",
+      "lift",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "parking meter",
+    "features": [
+      "aff_clean",
+      "aff_hold",
+      "aff_push"
+    ],
+    "functions": [
+      "clean",
+      "hold",
+      "push"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "peach",
+    "features": [
+      "size_medium"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "pear",
+    "features": [
+      "size_medium"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "pen",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_lift",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "hold",
+      "lift",
+      "pick",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "pencil case",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_cut",
+      "aff_hold",
+      "aff_lift",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "cut",
+      "hold",
+      "lift",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "pencil sharpener",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_lift",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "hold",
+      "lift",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "penguin",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "petri dish",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_cut",
+      "aff_hold",
+      "aff_lift",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "cut",
+      "hold",
+      "lift",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "phillips_screwdriver",
+    "features": [
+      "mat_metal",
+      "phys_shape_long",
+      "size_medium",
+      "size_small"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "piano",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "picket fence",
+    "features": [
+      "aff_hold",
+      "aff_lie"
+    ],
+    "functions": [
+      "hold",
+      "lie"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "pig",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lift",
+      "aff_move",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lift",
+      "move",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "pillow",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "pinwheel",
+    "features": [
+      "aff_carry",
+      "aff_hold",
+      "aff_lift",
+      "aff_push"
+    ],
+    "functions": [
+      "carry",
+      "hold",
+      "lift",
+      "push"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "pitcher_base",
+    "features": [
+      "geom_cavity",
+      "mat_ceramic",
+      "mat_metal",
+      "part_handle",
+      "phys_shape_cylindrical",
+      "size_medium"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "pizza",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cook",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cook",
+      "cut",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "plastic bag",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_cut",
+      "aff_hold",
+      "aff_lift",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "cut",
+      "hold",
+      "lift",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "plastic_bolt",
+    "features": [
+      "size_medium"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "plastic_nut",
+    "features": [
+      "size_medium"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "plate",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cook",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_lift",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_stir",
+      "mat_ceramic",
+      "phys_shape_flat",
+      "phys_shape_round",
+      "size_medium"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cook",
+      "cut",
+      "eat",
+      "hold",
+      "lift",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "stir"
+    ],
+    "sources": [
+      "ocl",
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "plum",
+    "features": [
+      "size_medium"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "polar bear",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "pomegranate",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cook",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cook",
+      "cut",
+      "eat",
+      "hold",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "porch",
+    "features": [
+      "aff_clean"
+    ],
+    "functions": [
+      "clean"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "potato",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cook",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cook",
+      "cut",
+      "eat",
+      "hold",
+      "lift",
+      "move",
+      "pick",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "potted_meat_can",
+    "features": [
+      "geom_cavity",
+      "mat_metal",
+      "phys_shape_cylindrical",
+      "size_medium"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "power_drill",
+    "features": [
+      "mat_metal",
+      "phys_shape_cylindrical",
+      "phys_shape_long",
+      "size_medium"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "pretzel",
+    "features": [
+      "aff_carry",
+      "aff_cook",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_lift",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "cook",
+      "cut",
+      "eat",
+      "hold",
+      "lift",
+      "pick",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "printer",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_hold",
+      "aff_lift",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "hold",
+      "lift",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "pudding_box",
+    "features": [
+      "size_medium"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "rabbit",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_open",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit",
+      "aff_stir"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "open",
+      "pull",
+      "push",
+      "put",
+      "sit",
+      "stir"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "racquetball",
+    "features": [
+      "phys_shape_round",
+      "size_medium",
+      "size_small"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "radio telescope",
+    "features": [
+      "aff_pick",
+      "aff_push"
+    ],
+    "functions": [
+      "pick",
+      "push"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "rain barrel",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_lift",
+      "aff_open",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "hold",
+      "lift",
+      "open",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "red panda",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "reel",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_lift",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "hold",
+      "lift",
+      "pick",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "refrigerator",
+    "features": [
+      "aff_clean",
+      "aff_close",
+      "aff_hold",
+      "aff_lift",
+      "aff_open",
+      "aff_pull",
+      "aff_push"
+    ],
+    "functions": [
+      "clean",
+      "close",
+      "hold",
+      "lift",
+      "open",
+      "pull",
+      "push"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "remote control",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_cook",
+      "aff_cut",
+      "aff_drink",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "cook",
+      "cut",
+      "drink",
+      "hold",
+      "lie",
+      "lift",
+      "pick",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "rifle",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lift",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lift",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "rocking chair",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_lift",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "hold",
+      "lift",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "rubiks_cube",
+    "features": [
+      "size_medium"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "rugby ball",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "hold",
+      "lift",
+      "move",
+      "pick",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "safety pin",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "sandal",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "sandwich",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cook",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cook",
+      "cut",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "sarong",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_pull",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "pull",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "saxophone",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "scarf",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_pull",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "pull",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "scissors",
+    "features": [
+      "size_medium"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "scoreboard",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "scorpion",
+    "features": [
+      "aff_carry",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "screw",
+    "features": [
+      "aff_carry",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "screwdriver",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "sculpture",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "sea lion",
+    "features": [
+      "aff_hold",
+      "aff_lie",
+      "aff_move",
+      "aff_pull",
+      "aff_push"
+    ],
+    "functions": [
+      "hold",
+      "lie",
+      "move",
+      "pull",
+      "push"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "seat belt",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lift",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lift",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "sewing machine",
+    "features": [
+      "aff_close",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_move",
+      "aff_open",
+      "aff_put"
+    ],
+    "functions": [
+      "close",
+      "cut",
+      "hold",
+      "lie",
+      "move",
+      "open",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "shark",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cook",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pull",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cook",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pull",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "sheep",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cook",
+      "aff_cut",
+      "aff_drink",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit",
+      "aff_stir"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cook",
+      "cut",
+      "drink",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit",
+      "stir"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "shield",
+    "features": [
+      "aff_carry",
+      "aff_hold",
+      "aff_lie",
+      "aff_open",
+      "aff_push"
+    ],
+    "functions": [
+      "carry",
+      "hold",
+      "lie",
+      "open",
+      "push"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "shirt",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_eat",
+      "aff_hold",
+      "aff_lift",
+      "aff_open",
+      "aff_pull",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "eat",
+      "hold",
+      "lift",
+      "open",
+      "pull",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "shoji",
+    "features": [
+      "aff_clean",
+      "aff_close",
+      "aff_hold",
+      "aff_lie",
+      "aff_move",
+      "aff_open"
+    ],
+    "functions": [
+      "clean",
+      "close",
+      "hold",
+      "lie",
+      "move",
+      "open"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "shower",
+    "features": [
+      "aff_clean",
+      "aff_close",
+      "aff_hold",
+      "aff_lie",
+      "aff_open"
+    ],
+    "functions": [
+      "clean",
+      "close",
+      "hold",
+      "lie",
+      "open"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "shower cap",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_pull",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "pull",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "ski",
+    "features": [
+      "aff_carry",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_pull",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "pull",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "ski mask",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_eat",
+      "aff_hold",
+      "aff_open",
+      "aff_push"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "eat",
+      "hold",
+      "open",
+      "push"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "skillet_lid",
+    "features": [
+      "part_handle",
+      "size_medium"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "sleeping bag",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pull",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pull",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "slide rule",
+    "features": [
+      "aff_carry",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "small_clamp",
+    "features": [
+      "part_clamp",
+      "size_small"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "small_marker",
+    "features": [
+      "phys_shape_cylindrical",
+      "size_small"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "snail",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "snake",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "snorkel",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "snowmobile",
+    "features": [
+      "aff_clean",
+      "aff_close",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pull",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "clean",
+      "close",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pull",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "snowplow",
+    "features": [
+      "aff_clean",
+      "aff_close",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pull",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "clean",
+      "close",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pull",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "soap dispenser",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "sock",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_pull"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "pull"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "softball",
+    "features": [
+      "phys_shape_round",
+      "size_medium",
+      "size_small"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "solar dish",
+    "features": [
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_open",
+      "aff_pick",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "clean",
+      "hold",
+      "lie",
+      "open",
+      "pick",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "sombrero",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_open",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "open",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "spatula",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lift",
+      "aff_open",
+      "aff_push",
+      "aff_sit",
+      "mat_metal",
+      "phys_shape_long",
+      "size_medium",
+      "size_small"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lift",
+      "open",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl",
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "spider",
+    "features": [
+      "aff_carry",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "sponge",
+    "features": [
+      "mat_foam",
+      "size_medium"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "spoon",
+    "features": [
+      "mat_metal",
+      "phys_shape_long",
+      "size_medium",
+      "size_small"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "squash",
+    "features": [
+      "aff_carry",
+      "aff_cook",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_push",
+      "aff_put",
+      "aff_sit",
+      "aff_stir"
+    ],
+    "functions": [
+      "carry",
+      "cook",
+      "cut",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "push",
+      "put",
+      "sit",
+      "stir"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "squirrel",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "starfish",
+    "features": [
+      "aff_carry",
+      "aff_cook",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "cook",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "steel drum",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_lift",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "hold",
+      "lift",
+      "pick",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "stethoscope",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lift",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lift",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "strawberry",
+    "features": [
+      "aff_carry",
+      "aff_cut",
+      "aff_eat",
+      "aff_lift",
+      "aff_push",
+      "aff_sit",
+      "size_medium"
+    ],
+    "functions": [
+      "carry",
+      "cut",
+      "eat",
+      "lift",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl",
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "stretcher",
+    "features": [
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "submarine",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "sugar_box",
+    "features": [
+      "size_medium"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "suit",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_lift",
+      "aff_open",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "hold",
+      "lift",
+      "open",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "sunglasses",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lift",
+      "aff_open",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lift",
+      "open",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "sunscreen",
+    "features": [
+      "aff_carry",
+      "aff_open",
+      "aff_push"
+    ],
+    "functions": [
+      "carry",
+      "open",
+      "push"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "swan",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cook",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cook",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "swimwear",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_eat",
+      "aff_hold",
+      "aff_lift",
+      "aff_open",
+      "aff_pull",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "eat",
+      "hold",
+      "lift",
+      "open",
+      "pull",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "swing",
+    "features": [
+      "aff_hold",
+      "aff_open",
+      "aff_sit"
+    ],
+    "functions": [
+      "hold",
+      "open",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "syringe",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_eat",
+      "aff_hold",
+      "aff_lift",
+      "aff_open",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "eat",
+      "hold",
+      "lift",
+      "open",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "tank",
+    "features": [
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "clean",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "taxi",
+    "features": [
+      "aff_clean",
+      "aff_close",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pull",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "clean",
+      "close",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pull",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "teapot",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_open",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "open",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "teddy bear",
+    "features": [
+      "aff_close",
+      "aff_cut",
+      "aff_drink",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "close",
+      "cut",
+      "drink",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "telephone",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "tennis ball",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_open",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "open",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "tennis_ball",
+    "features": [
+      "phys_shape_round",
+      "size_medium",
+      "size_small"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "tent",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_open",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "open",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "tick",
+    "features": [
+      "aff_carry",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "tie",
+    "features": [
+      "aff_drink",
+      "aff_hold",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_push"
+    ],
+    "functions": [
+      "drink",
+      "hold",
+      "lift",
+      "move",
+      "pick",
+      "push"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "timber wolf",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "timer",
+    "features": [
+      "size_medium"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "toaster",
+    "features": [
+      "aff_close",
+      "aff_cook",
+      "aff_cut",
+      "aff_hold",
+      "aff_move",
+      "aff_pick",
+      "aff_push"
+    ],
+    "functions": [
+      "close",
+      "cook",
+      "cut",
+      "hold",
+      "move",
+      "pick",
+      "push"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "toilet paper",
+    "features": [
+      "aff_carry",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "tomato_soup_can",
+    "features": [
+      "geom_cavity",
+      "mat_metal",
+      "phys_shape_cylindrical",
+      "size_medium"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "tool",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cook",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cook",
+      "cut",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "torch",
+    "features": [
+      "aff_carry",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "towel",
+    "features": [
+      "aff_carry",
+      "aff_eat",
+      "aff_hold",
+      "aff_lift",
+      "aff_open",
+      "aff_pull",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "eat",
+      "hold",
+      "lift",
+      "open",
+      "pull",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "tower",
+    "features": [
+      "aff_clean",
+      "aff_hold",
+      "aff_lift",
+      "aff_open"
+    ],
+    "functions": [
+      "clean",
+      "hold",
+      "lift",
+      "open"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "toy_airplane",
+    "features": [
+      "size_medium"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "traffic light",
+    "features": [
+      "aff_close",
+      "aff_eat"
+    ],
+    "functions": [
+      "close",
+      "eat"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "train",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "tripod",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "trombone",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lift",
+      "aff_move",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lift",
+      "move",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "truck",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_cook",
+      "aff_cut",
+      "aff_drink",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "cook",
+      "cut",
+      "drink",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "trumpet",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_open",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "open",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "tuna_fish_can",
+    "features": [
+      "geom_cavity",
+      "mat_metal",
+      "phys_shape_cylindrical",
+      "size_medium"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "turnstile",
+    "features": [
+      "aff_hold",
+      "aff_lie"
+    ],
+    "functions": [
+      "hold",
+      "lie"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "turtle",
+    "features": [
+      "aff_carry",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "umbrella",
+    "features": [
+      "aff_carry",
+      "aff_close",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "close",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "unicycle",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_open",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "open",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "vase",
+    "features": [
+      "aff_cut",
+      "aff_drink",
+      "aff_pick",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "cut",
+      "drink",
+      "pick",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "vegetable",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cook",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_push",
+      "aff_put",
+      "aff_sit",
+      "aff_stir"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cook",
+      "cut",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "push",
+      "put",
+      "sit",
+      "stir"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "vehicle",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "vending machine",
+    "features": [
+      "aff_close",
+      "aff_hold",
+      "aff_lie",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "close",
+      "hold",
+      "lie",
+      "move",
+      "open",
+      "pick",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "vestment",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "violin",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pull",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pull",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "volleyball",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "hold",
+      "lift",
+      "move",
+      "pick",
+      "pull",
+      "push",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "waffle iron",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cook",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_open",
+      "aff_pick",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cook",
+      "cut",
+      "eat",
+      "hold",
+      "open",
+      "pick",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "wall clock",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_open",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "hold",
+      "lie",
+      "lift",
+      "open",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "wallaby",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lift",
+      "aff_move",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lift",
+      "move",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "wallet",
+    "features": [
+      "aff_carry",
+      "aff_hold",
+      "aff_open",
+      "aff_push"
+    ],
+    "functions": [
+      "carry",
+      "hold",
+      "open",
+      "push"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "wardrobe",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_cut",
+      "aff_hold",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "cut",
+      "hold",
+      "lift",
+      "move",
+      "open",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "warthog",
+    "features": [
+      "aff_clean",
+      "aff_hold",
+      "aff_lift",
+      "aff_move",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "clean",
+      "hold",
+      "lift",
+      "move",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "washing machine",
+    "features": [
+      "aff_clean",
+      "aff_close",
+      "aff_hold",
+      "aff_lie",
+      "aff_move",
+      "aff_open",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "clean",
+      "close",
+      "hold",
+      "lie",
+      "move",
+      "open",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "watch",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_open",
+      "aff_pick",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "open",
+      "pick",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "weapon",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "whale",
+    "features": [
+      "aff_cut",
+      "aff_lift",
+      "aff_move",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "cut",
+      "lift",
+      "move",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "wheel",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_open",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "hold",
+      "lie",
+      "lift",
+      "open",
+      "pick",
+      "pull",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "whistle",
+    "features": [
+      "aff_carry",
+      "aff_hold",
+      "aff_lift",
+      "aff_open",
+      "aff_push"
+    ],
+    "functions": [
+      "carry",
+      "hold",
+      "lift",
+      "open",
+      "push"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "wild boar",
+    "features": [
+      "aff_clean",
+      "aff_hold",
+      "aff_lift",
+      "aff_move",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "clean",
+      "hold",
+      "lift",
+      "move",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "windex_bottle",
+    "features": [
+      "geom_cavity",
+      "mat_glass",
+      "mat_metal",
+      "phys_shape_cylindrical",
+      "size_medium"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "window shade",
+    "features": [
+      "aff_close",
+      "aff_move",
+      "aff_open"
+    ],
+    "functions": [
+      "close",
+      "move",
+      "open"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "wine",
+    "features": [
+      "aff_carry",
+      "aff_drink",
+      "aff_eat",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "drink",
+      "eat",
+      "lie",
+      "lift",
+      "move",
+      "open",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "wine_glass",
+    "features": [
+      "geom_cavity",
+      "mat_ceramic",
+      "mat_glass",
+      "part_handle",
+      "phys_shape_cylindrical",
+      "size_medium"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "wok",
+    "features": [
+      "aff_carry",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_open",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "open",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "wood_block",
+    "features": [
+      "mat_wood",
+      "phys_shape_boxy",
+      "size_medium"
+    ],
+    "functions": [],
+    "sources": [
+      "ycb"
+    ]
+  },
+  {
+    "object_id": "wooden spoon",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_drink",
+      "aff_eat",
+      "aff_hold",
+      "aff_lift",
+      "aff_move",
+      "aff_open",
+      "aff_pick",
+      "aff_push",
+      "aff_stir"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "drink",
+      "eat",
+      "hold",
+      "lift",
+      "move",
+      "open",
+      "pick",
+      "push",
+      "stir"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "wool",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_put"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "put"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "worm",
+    "features": [
+      "aff_carry",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_pull",
+      "aff_push",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "hold",
+      "lie",
+      "lift",
+      "pull",
+      "push",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "yawl",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_cut",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "cut",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "yurt",
+    "features": [
+      "aff_clean",
+      "aff_close",
+      "aff_lie"
+    ],
+    "functions": [
+      "clean",
+      "close",
+      "lie"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  },
+  {
+    "object_id": "zebra",
+    "features": [
+      "aff_carry",
+      "aff_clean",
+      "aff_close",
+      "aff_cook",
+      "aff_cut",
+      "aff_eat",
+      "aff_hold",
+      "aff_lie",
+      "aff_lift",
+      "aff_move",
+      "aff_pick",
+      "aff_pull",
+      "aff_push",
+      "aff_put",
+      "aff_sit"
+    ],
+    "functions": [
+      "carry",
+      "clean",
+      "close",
+      "cook",
+      "cut",
+      "eat",
+      "hold",
+      "lie",
+      "lift",
+      "move",
+      "pick",
+      "pull",
+      "push",
+      "put",
+      "sit"
+    ],
+    "sources": [
+      "ocl"
+    ]
+  }
+]

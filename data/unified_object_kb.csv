@@ -1,0 +1,434 @@
+object_id,features,functions,sources
+027_skillet,part_handle size_medium,,ycb
+abaya,aff_carry aff_clean aff_cut aff_hold aff_lie aff_lift aff_move aff_pick aff_put,carry clean cut hold lie lift move pick put,ocl
+academic gown,aff_carry aff_clean aff_cut aff_hold aff_lie aff_lift aff_move aff_pick aff_put,carry clean cut hold lie lift move pick put,ocl
+accordion,aff_carry aff_clean aff_cut aff_hold aff_lie aff_lift aff_open aff_pick aff_sit,carry clean cut hold lie lift open pick sit,ocl
+acorn,aff_carry aff_cut aff_eat aff_hold aff_open aff_pick aff_pull aff_push aff_put,carry cut eat hold open pick pull push put,ocl
+adjustable_wrench,mat_metal phys_shape_long size_medium size_small,,ycb
+aircraft,aff_carry aff_clean aff_close aff_cook aff_cut aff_drink aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_pull aff_push aff_put aff_sit,carry clean close cook cut drink hold lie lift move open pick pull push put sit,ocl
+alpaca,aff_carry aff_clean aff_hold aff_lie aff_lift aff_move aff_pull aff_push aff_put,carry clean hold lie lift move pull push put,ocl
+ambulance,aff_clean aff_close aff_cut aff_hold aff_lie aff_lift aff_move aff_open aff_pull aff_push aff_sit,clean close cut hold lie lift move open pull push sit,ocl
+apple,aff_carry aff_clean aff_close aff_cook aff_cut aff_eat aff_hold aff_lie aff_lift aff_move aff_pick aff_pull aff_push aff_put aff_sit size_medium,carry clean close cook cut eat hold lie lift move pick pull push put sit,ocl ycb
+armadillo,aff_carry aff_clean aff_cook aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_put,carry clean cook hold lie lift move open pick put,ocl
+artichoke,aff_carry aff_cut aff_eat aff_hold aff_lie aff_lift aff_open aff_push aff_sit,carry cut eat hold lie lift open push sit,ocl
+axe,aff_carry aff_clean aff_cut aff_hold aff_lift aff_move aff_open aff_pick aff_push aff_put aff_sit,carry clean cut hold lift move open pick push put sit,ocl
+backpack,aff_close aff_cut aff_drink aff_lie aff_lift aff_pick aff_push aff_sit,close cut drink lie lift pick push sit,ocl
+bagel,aff_carry aff_cook aff_cut aff_eat aff_hold aff_pick aff_put,carry cook cut eat hold pick put,ocl
+baked goods,aff_carry aff_clean aff_cook aff_cut aff_eat aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_pull aff_push aff_put aff_sit,carry clean cook cut eat hold lie lift move open pick pull push put sit,ocl
+balance beam,aff_clean aff_hold aff_lift,clean hold lift,ocl
+ball,aff_carry aff_clean aff_cut aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_pull aff_push aff_put aff_sit,carry clean cut hold lie lift move open pick pull push put sit,ocl
+balloon,aff_carry aff_clean aff_hold aff_lift aff_push aff_sit,carry clean hold lift push sit,ocl
+banana,aff_carry aff_clean aff_close aff_cook aff_cut aff_drink aff_eat aff_hold aff_lie aff_lift aff_move aff_pick aff_pull aff_push aff_put aff_sit size_medium,carry clean close cook cut drink eat hold lie lift move pick pull push put sit,ocl ycb
+banjo,aff_carry aff_clean aff_hold aff_lie aff_lift aff_move aff_open aff_pull aff_push aff_sit,carry clean hold lie lift move open pull push sit,ocl
+barbell,aff_carry aff_hold aff_lift aff_open aff_push aff_sit,carry hold lift open push sit,ocl
+barrel,aff_carry aff_clean aff_close aff_hold aff_lie aff_lift aff_move aff_open aff_pull aff_push aff_put aff_sit,carry clean close hold lie lift move open pull push put sit,ocl
+baseball,phys_shape_round size_medium size_small,,ycb
+bathtub,aff_carry aff_clean aff_eat aff_hold aff_lift,carry clean eat hold lift,ocl
+beach wagon,aff_carry aff_clean aff_close aff_cut aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_pull aff_push aff_put aff_sit,carry clean close cut hold lie lift move open pick pull push put sit,ocl
+beaker,aff_carry aff_clean aff_close aff_cut aff_eat aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_pull aff_push aff_put aff_sit,carry clean close cut eat hold lie lift move open pick pull push put sit,ocl
+bear,aff_carry aff_clean aff_cut aff_drink aff_eat aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_pull aff_push aff_put aff_sit,carry clean cut drink eat hold lie lift move open pick pull push put sit,ocl
+bed,aff_close aff_cut aff_drink aff_move aff_pick aff_push aff_sit,close cut drink move pick push sit,ocl
+bee,aff_move,move,ocl
+bell pepper,aff_carry aff_cook aff_cut aff_eat aff_hold aff_lie aff_lift aff_open aff_push aff_sit,carry cook cut eat hold lie lift open push sit,ocl
+bench,aff_close aff_cut aff_drink aff_hold aff_lie aff_move aff_open aff_pick aff_push aff_sit,close cut drink hold lie move open pick push sit,ocl
+bib,aff_carry aff_clean aff_eat aff_hold aff_push,carry clean eat hold push,ocl
+bicycle,aff_carry aff_clean aff_cook aff_cut aff_eat aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_pull aff_push aff_put aff_sit,carry clean cook cut eat hold lie lift move open pick pull push put sit,ocl
+billiard table,aff_carry aff_clean aff_hold aff_lift aff_open,carry clean hold lift open,ocl
+binoculars,aff_hold aff_lift aff_move aff_pull aff_push aff_put,hold lift move pull push put,ocl
+bird,aff_carry aff_clean aff_cook aff_cut aff_drink aff_eat aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_pull aff_push aff_put aff_sit,carry clean cook cut drink eat hold lie lift move open pick pull push put sit,ocl
+bison,aff_clean aff_hold aff_move aff_pull aff_push aff_sit,clean hold move pull push sit,ocl
+bleach_cleanser,size_medium,,ycb
+boat,aff_carry aff_clean aff_close aff_cut aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_pull aff_push aff_put aff_sit,carry clean close cut hold lie lift move open pick pull push put sit,ocl
+bookcase,aff_carry aff_clean aff_hold aff_lie aff_lift aff_move aff_push aff_put aff_sit,carry clean hold lie lift move push put sit,ocl
+boot,aff_carry aff_clean aff_close aff_cut aff_eat aff_hold aff_lift aff_move aff_open aff_pick aff_pull aff_push aff_put aff_sit,carry clean close cut eat hold lift move open pick pull push put sit,ocl
+bottle,aff_clean aff_hold aff_lift aff_move aff_open aff_pick aff_pull aff_push aff_put,clean hold lift move open pick pull push put,ocl
+bottle opener,aff_carry aff_clean aff_close aff_cut aff_hold aff_lift aff_pick aff_pull aff_push aff_put,carry clean close cut hold lift pick pull push put,ocl
+bowl,geom_cavity mat_ceramic phys_shape_bowl phys_shape_round size_medium,,ycb
+box,aff_carry aff_clean aff_close aff_cut aff_hold aff_lift aff_move aff_open aff_pull aff_push aff_put aff_sit,carry clean close cut hold lift move open pull push put sit,ocl
+brace,aff_carry aff_clean aff_hold aff_push,carry clean hold push,ocl
+brassiere,aff_carry aff_clean aff_hold aff_lift aff_open aff_push aff_sit,carry clean hold lift open push sit,ocl
+bread,aff_carry aff_cook aff_cut aff_eat aff_hold aff_lie aff_lift aff_move aff_pick aff_pull aff_push aff_put,carry cook cut eat hold lie lift move pick pull push put,ocl
+broccoli,aff_carry aff_clean aff_cook aff_cut aff_eat aff_hold aff_lie aff_lift aff_move aff_pick aff_pull aff_push aff_put aff_stir,carry clean cook cut eat hold lie lift move pick pull push put stir,ocl
+broom,aff_carry aff_clean aff_hold aff_lie aff_lift aff_move aff_pick aff_pull aff_push aff_put aff_stir,carry clean hold lie lift move pick pull push put stir,ocl
+bubble,aff_carry aff_clean aff_cut aff_hold aff_move aff_open aff_push,carry clean cut hold move open push,ocl
+buckeye,aff_carry aff_clean aff_cook aff_cut aff_hold aff_move aff_open aff_pick aff_put,carry clean cook cut hold move open pick put,ocl
+bull,aff_carry aff_clean aff_cook aff_cut aff_eat aff_hold aff_lie aff_lift aff_move aff_pick aff_pull aff_push aff_put aff_sit,carry clean cook cut eat hold lie lift move pick pull push put sit,ocl
+burrito,aff_carry aff_clean aff_cook aff_cut aff_eat aff_hold aff_lift aff_pick aff_pull aff_push aff_put,carry clean cook cut eat hold lift pick pull push put,ocl
+bus,aff_carry aff_clean aff_close aff_cut aff_drink aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_pull aff_push aff_put aff_sit,carry clean close cut drink hold lie lift move open pick pull push put sit,ocl
+butterfly,aff_carry aff_hold aff_lift aff_move,carry hold lift move,ocl
+cabbage,aff_carry aff_cook aff_cut aff_eat aff_hold aff_lie aff_lift aff_open aff_push aff_sit,carry cook cut eat hold lie lift open push sit,ocl
+cake,aff_carry aff_clean aff_cook aff_cut aff_eat aff_hold aff_lie aff_lift aff_move aff_pick aff_pull aff_push aff_put,carry clean cook cut eat hold lie lift move pick pull push put,ocl
+camel,aff_clean aff_hold aff_move aff_pull aff_push,clean hold move pull push,ocl
+camera,aff_carry aff_clean aff_close aff_hold aff_lie aff_lift aff_open aff_pick aff_push aff_sit,carry clean close hold lie lift open pick push sit,ocl
+can opener,aff_carry aff_clean aff_close aff_cut aff_hold aff_lift aff_pick aff_pull aff_push aff_put,carry clean close cut hold lift pick pull push put,ocl
+candle,aff_carry aff_cook aff_lift aff_open aff_push aff_sit,carry cook lift open push sit,ocl
+cannon,aff_clean aff_hold aff_lift aff_move aff_pick aff_pull aff_push aff_put aff_sit,clean hold lift move pick pull push put sit,ocl
+car,aff_carry aff_clean aff_close aff_cook aff_cut aff_eat aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_pull aff_push aff_put aff_sit,carry clean close cook cut eat hold lie lift move open pick pull push put sit,ocl
+cardigan,aff_carry aff_clean aff_cut aff_hold aff_lie aff_lift aff_move aff_pick aff_put,carry clean cut hold lie lift move pick put,ocl
+carnivore,aff_carry aff_clean aff_hold aff_lie aff_put,carry clean hold lie put,ocl
+carrot,aff_carry aff_clean aff_cook aff_cut aff_drink aff_eat aff_hold aff_lie aff_lift aff_move aff_pick aff_pull aff_push aff_put aff_stir,carry clean cook cut drink eat hold lie lift move pick pull push put stir,ocl
+cart,aff_carry aff_clean aff_close aff_cut aff_hold aff_lift aff_move aff_pull aff_push aff_put aff_sit,carry clean close cut hold lift move pull push put sit,ocl
+cat,aff_carry aff_clean aff_close aff_cook aff_cut aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_pull aff_push aff_put aff_sit,carry clean close cook cut hold lie lift move open pick pull push put sit,ocl
+cattle,aff_carry aff_clean aff_cook aff_cut aff_eat aff_hold aff_lie aff_lift aff_move aff_pick aff_pull aff_push aff_put aff_sit aff_stir,carry clean cook cut eat hold lie lift move pick pull push put sit stir,ocl
+cavy,aff_carry aff_clean aff_hold aff_lift aff_move aff_pull aff_push aff_put,carry clean hold lift move pull push put,ocl
+cello,aff_carry aff_clean aff_hold aff_lie aff_lift aff_open aff_sit,carry clean hold lie lift open sit,ocl
+chain,aff_carry aff_clean aff_hold aff_lie aff_lift aff_open aff_push aff_sit size_medium,carry clean hold lie lift open push sit,ocl ycb
+chainsaw,aff_carry aff_clean aff_close aff_hold aff_lie aff_lift aff_push aff_sit,carry clean close hold lie lift push sit,ocl
+chair,aff_carry aff_clean aff_hold aff_lie aff_lift aff_move aff_pick aff_pull aff_sit,carry clean hold lie lift move pick pull sit,ocl
+cheetah,aff_carry aff_clean aff_cut aff_hold aff_lie aff_lift aff_move aff_pick aff_put,carry clean cut hold lie lift move pick put,ocl
+chest of drawers,aff_carry aff_clean aff_cut aff_hold aff_lift aff_move aff_open aff_pull aff_push aff_put aff_sit,carry clean cut hold lift move open pull push put sit,ocl
+chicken,aff_carry aff_clean aff_cook aff_cut aff_hold aff_lie aff_lift aff_move aff_pull aff_push aff_put,carry clean cook cut hold lie lift move pull push put,ocl
+chime,aff_carry aff_clean aff_hold aff_lift aff_move aff_pick aff_pull aff_push,carry clean hold lift move pick pull push,ocl
+chips_can,geom_cavity mat_metal phys_shape_cylindrical size_medium,,ycb
+clock,aff_close aff_cut aff_hold aff_pick aff_push aff_sit,close cut hold pick push sit,ocl
+clog,aff_clean aff_eat aff_hold aff_lie aff_lift aff_open aff_pull aff_push aff_put aff_sit,clean eat hold lie lift open pull push put sit,ocl
+closet,aff_carry aff_clean aff_hold aff_lie aff_lift,carry clean hold lie lift,ocl
+coat,aff_carry aff_clean aff_cut aff_hold aff_lie aff_lift aff_move aff_pick aff_put,carry clean cut hold lie lift move pick put,ocl
+cocktail shaker,aff_carry aff_clean aff_close aff_eat aff_hold aff_lie aff_lift aff_pick aff_push aff_sit,carry clean close eat hold lie lift pick push sit,ocl
+coffee,aff_carry aff_drink aff_eat aff_lift aff_sit,carry drink eat lift sit,ocl
+colored_wood_blocks,mat_wood phys_shape_boxy size_medium,,ycb
+computer keyboard,aff_cut aff_drink aff_lie aff_pick aff_push,cut drink lie pick push,ocl
+computer mouse,aff_close aff_cut aff_hold aff_lie aff_lift aff_move aff_pick aff_push,close cut hold lie lift move pick push,ocl
+conch,aff_carry aff_cook aff_cut aff_eat aff_hold aff_lie aff_lift aff_push aff_sit,carry cook cut eat hold lie lift push sit,ocl
+container,aff_carry aff_clean aff_close aff_cut aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_pull aff_push aff_put aff_sit,carry clean close cut hold lie lift move open pick pull push put sit,ocl
+corn,aff_carry aff_cook aff_eat aff_hold aff_open aff_pull aff_push aff_stir,carry cook eat hold open pull push stir,ocl
+couch,aff_carry aff_clean aff_cut aff_drink aff_hold aff_lie aff_lift aff_open aff_push aff_sit,carry clean cut drink hold lie lift open push sit,ocl
+cowboy hat,aff_carry aff_clean aff_hold aff_lie aff_lift aff_open aff_push aff_sit,carry clean hold lie lift open push sit,ocl
+crab,aff_carry aff_clean aff_cook aff_cut aff_eat aff_hold aff_lie aff_lift aff_push aff_sit,carry clean cook cut eat hold lie lift push sit,ocl
+cracker_box,size_medium,,ycb
+crocodile,aff_carry aff_hold aff_lie aff_lift,carry hold lie lift,ocl
+crossword puzzle,aff_push,push,ocl
+crutch,aff_carry aff_clean aff_hold aff_lift aff_open aff_push aff_sit,carry clean hold lift open push sit,ocl
+cups,geom_cavity mat_ceramic part_handle phys_shape_cylindrical size_medium,,ycb
+curtain,aff_carry aff_clean aff_close aff_hold aff_lift aff_open aff_pull aff_sit,carry clean close hold lift open pull sit,ocl
+custard apple,aff_carry aff_cook aff_eat aff_hold aff_open aff_pull aff_push,carry cook eat hold open pull push,ocl
+desk,aff_close aff_cut aff_drink aff_pick aff_push,close cut drink pick push,ocl
+dessert,aff_carry aff_cook aff_cut aff_eat aff_hold aff_lift aff_open aff_pull aff_push aff_put aff_sit,carry cook cut eat hold lift open pull push put sit,ocl
+dhole,aff_carry aff_clean aff_hold aff_lie aff_put,carry clean hold lie put,ocl
+diaper,aff_carry aff_clean aff_cut aff_eat aff_hold aff_lift aff_move aff_open aff_pick aff_pull aff_push aff_put aff_sit,carry clean cut eat hold lift move open pick pull push put sit,ocl
+dice,size_small,,ycb
+digital clock,aff_carry aff_clean aff_cut aff_hold aff_lift aff_move aff_open aff_pull aff_push aff_put aff_sit,carry clean cut hold lift move open pull push put sit,ocl
+dinosaur,aff_carry aff_clean aff_close aff_cut aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_pull aff_push aff_put,carry clean close cut hold lie lift move open pick pull push put,ocl
+dishwasher,aff_carry aff_clean aff_close aff_cut aff_hold aff_lift aff_move aff_open aff_pull aff_push aff_put,carry clean close cut hold lift move open pull push put,ocl
+dog,aff_carry aff_clean aff_close aff_cook aff_cut aff_eat aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_pull aff_push aff_put aff_sit aff_stir,carry clean close cook cut eat hold lie lift move open pick pull push put sit stir,ocl
+door,aff_carry aff_clean aff_close aff_cut aff_hold aff_lift aff_move aff_open aff_pull aff_push aff_put aff_sit,carry clean close cut hold lift move open pull push put sit,ocl
+dough,aff_carry aff_cook aff_eat aff_hold aff_open aff_push,carry cook eat hold open push,ocl
+dragonfly,aff_move,move,ocl
+drill,aff_carry aff_clean aff_cut aff_hold aff_lie aff_lift aff_open aff_pick aff_pull aff_push aff_put,carry clean cut hold lie lift open pick pull push put,ocl
+drum,aff_carry aff_clean aff_cut aff_hold aff_lift aff_pick aff_pull aff_push aff_put,carry clean cut hold lift pick pull push put,ocl
+drumstick,aff_carry aff_clean aff_cut aff_hold aff_lift aff_pick aff_pull aff_push aff_put,carry clean cut hold lift pick pull push put,ocl
+duck,aff_carry aff_clean aff_cook aff_cut aff_hold aff_lie aff_lift aff_move aff_put,carry clean cook cut hold lie lift move put,ocl
+dumbbell,aff_carry aff_clean aff_hold aff_lift aff_pick aff_pull aff_push aff_put,carry clean hold lift pick pull push put,ocl
+eagle,aff_hold aff_move aff_pull aff_push,hold move pull push,ocl
+eggnog,aff_carry aff_cut aff_drink aff_eat aff_hold aff_lift aff_pull aff_push aff_put,carry cut drink eat hold lift pull push put,ocl
+elephant,aff_carry aff_clean aff_cut aff_eat aff_hold aff_lie aff_lift aff_move aff_pick aff_pull aff_push aff_put aff_sit,carry clean cut eat hold lie lift move pick pull push put sit,ocl
+envelope,aff_carry aff_clean aff_close aff_cut aff_hold aff_lift aff_open aff_pick aff_pull aff_push aff_put aff_sit,carry clean close cut hold lift open pick pull push put sit,ocl
+eraser,aff_carry aff_clean aff_cut aff_hold aff_lie aff_lift aff_open aff_pick aff_pull aff_push aff_put aff_sit,carry clean cut hold lie lift open pick pull push put sit,ocl
+extra_large_clamp,part_clamp size_large,,ycb
+face powder,aff_carry aff_clean aff_cut aff_hold aff_lift aff_pick aff_pull aff_push aff_put aff_sit,carry clean cut hold lift pick pull push put sit,ocl
+filing cabinet,aff_carry aff_clean aff_close aff_cut aff_hold aff_lift aff_open aff_pull aff_push,carry clean close cut hold lift open pull push,ocl
+fish,aff_carry aff_clean aff_cook aff_cut aff_eat aff_hold aff_lift aff_move aff_pick aff_pull aff_push aff_put aff_sit,carry clean cook cut eat hold lift move pick pull push put sit,ocl
+flat_screwdriver,mat_metal phys_shape_long size_medium size_small,,ycb
+flower,aff_carry aff_cut aff_hold aff_lift aff_open aff_push aff_sit,carry cut hold lift open push sit,ocl
+flowerpot,aff_carry aff_clean aff_eat aff_hold aff_lie aff_lift aff_open aff_push aff_sit,carry clean eat hold lie lift open push sit,ocl
+flute,aff_carry aff_clean aff_hold aff_lift aff_push aff_sit,carry clean hold lift push sit,ocl
+foam_brick,mat_foam mat_wood phys_shape_boxy size_medium,,ycb
+football helmet,aff_carry aff_clean aff_hold aff_lie aff_lift aff_open aff_pull aff_push aff_sit,carry clean hold lie lift open pull push sit,ocl
+footwear,aff_carry aff_clean aff_eat aff_hold aff_lie aff_lift aff_open aff_pull aff_push aff_put aff_sit,carry clean eat hold lie lift open pull push put sit,ocl
+fork,mat_metal phys_shape_long size_medium size_small,,ycb
+fountain,aff_clean aff_close aff_hold aff_open aff_push,clean close hold open push,ocl
+fox,aff_carry aff_clean aff_cut aff_hold aff_lie aff_lift aff_move aff_pick aff_put,carry clean cut hold lie lift move pick put,ocl
+french horn,aff_carry aff_clean aff_hold aff_lie aff_lift aff_open aff_sit,carry clean hold lie lift open sit,ocl
+frog,aff_eat aff_hold aff_move,eat hold move,ocl
+frying pan,aff_carry aff_clean aff_eat aff_hold aff_lie aff_lift aff_open aff_push aff_sit,carry clean eat hold lie lift open push sit,ocl
+furniture,aff_carry aff_clean aff_hold aff_lie aff_lift,carry clean hold lie lift,ocl
+gazelle,aff_carry aff_clean aff_hold aff_lie aff_lift aff_move aff_pull aff_push aff_put,carry clean hold lie lift move pull push put,ocl
+gelatin_box,size_medium,,ycb
+giraffe,aff_carry aff_clean aff_cook aff_cut aff_drink aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_pull aff_push aff_put aff_sit,carry clean cook cut drink hold lie lift move open pick pull push put sit,ocl
+glove,aff_carry aff_hold,carry hold,ocl
+goat,aff_carry aff_clean aff_hold aff_lie aff_lift aff_move aff_pull aff_push aff_put aff_sit,carry clean hold lie lift move pull push put sit,ocl
+goblet,aff_hold aff_lie,hold lie,ocl
+golf ball,aff_carry aff_clean aff_hold aff_lie aff_lift aff_push aff_sit,carry clean hold lie lift push sit,ocl
+golf cart,aff_clean aff_close aff_cut aff_hold aff_lie aff_lift aff_move aff_open aff_pull aff_push aff_sit,clean close cut hold lie lift move open pull push sit,ocl
+golf_ball,phys_shape_round size_small,,ycb
+goose,aff_carry aff_clean aff_cook aff_cut aff_hold aff_lie aff_lift aff_move aff_put,carry clean cook cut hold lie lift move put,ocl
+gown,aff_carry aff_clean aff_cut aff_hold aff_lie aff_lift aff_move aff_pick aff_put,carry clean cut hold lie lift move pick put,ocl
+guacamole,aff_cook aff_lie,cook lie,ocl
+guitar,aff_carry aff_clean aff_hold aff_lie aff_lift aff_move aff_pull aff_push aff_sit,carry clean hold lie lift move pull push sit,ocl
+hair dryer,aff_lie,lie,ocl
+hair slide,aff_lie,lie,ocl
+hair spray,aff_carry aff_hold aff_lie,carry hold lie,ocl
+hamburger,aff_carry aff_clean aff_cook aff_cut aff_eat aff_hold aff_lift aff_pick aff_pull aff_push aff_put,carry clean cook cut eat hold lift pick pull push put,ocl
+hammer,aff_carry aff_clean aff_hold aff_lie aff_lift aff_open aff_push aff_sit mat_metal phys_shape_boxy phys_shape_long size_medium,carry clean hold lie lift open push sit,ocl ycb
+hamster,aff_carry aff_clean aff_hold aff_lift aff_move aff_pull aff_push aff_put,carry clean hold lift move pull push put,ocl
+handgun,aff_carry aff_clean aff_hold aff_lie aff_lift aff_pick aff_push aff_sit,carry clean hold lie lift pick push sit,ocl
+handkerchief,aff_hold aff_lie,hold lie,ocl
+harmonica,aff_hold aff_lie,hold lie,ocl
+harp,aff_hold aff_lie aff_open,hold lie open,ocl
+hartebeest,aff_carry aff_clean aff_hold aff_lie aff_lift aff_move aff_pull aff_push aff_put aff_sit,carry clean hold lie lift move pull push put sit,ocl
+hat,aff_carry aff_hold aff_lie,carry hold lie,ocl
+hay,aff_carry aff_eat aff_hold aff_open aff_push,carry eat hold open push,ocl
+heater,aff_close aff_lie aff_put,close lie put,ocl
+hedgehog,aff_carry aff_eat aff_hold aff_lie aff_lift aff_push aff_sit,carry eat hold lie lift push sit,ocl
+helmet,aff_lie aff_put,lie put,ocl
+hen,aff_carry aff_clean aff_cook aff_cut aff_hold aff_lie aff_lift aff_move aff_put,carry clean cook cut hold lie lift move put,ocl
+hippopotamus,aff_drink aff_eat aff_lie aff_move,drink eat lie move,ocl
+home appliance,aff_lie aff_move aff_pull aff_push aff_put,lie move pull push put,ocl
+honeycomb,aff_carry aff_cook aff_drink aff_eat aff_hold aff_lift aff_move aff_put aff_sit aff_stir,carry cook drink eat hold lift move put sit stir,ocl
+horizontal bar,aff_carry aff_clean aff_hold aff_lift aff_open,carry clean hold lift open,ocl
+horse,aff_carry aff_clean aff_cut aff_drink aff_eat aff_hold aff_lie aff_lift aff_move aff_pick aff_pull aff_push aff_put aff_sit aff_stir,carry clean cut drink eat hold lie lift move pick pull push put sit stir,ocl
+hot dog,aff_carry aff_clean aff_cook aff_cut aff_eat aff_hold aff_lie aff_lift aff_move aff_pick aff_pull aff_push aff_put,carry clean cook cut eat hold lie lift move pick pull push put,ocl
+hyena,aff_carry aff_clean aff_hold aff_lie aff_put,carry clean hold lie put,ocl
+ibex,aff_carry aff_clean aff_hold aff_lie aff_lift aff_move aff_pull aff_push aff_put,carry clean hold lie lift move pull push put,ocl
+ice cream,aff_carry aff_cut aff_eat aff_hold aff_lift aff_move aff_open aff_push aff_put aff_sit aff_stir,carry cut eat hold lift move open push put sit stir,ocl
+impala,aff_carry aff_clean aff_hold aff_lie aff_lift aff_move aff_pull aff_push aff_put aff_sit,carry clean hold lie lift move pull push put sit,ocl
+insect,aff_carry aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_push aff_put aff_sit,carry hold lie lift move open pick push put sit,ocl
+invertebrate,aff_carry aff_clean aff_cook aff_cut aff_eat aff_hold aff_lie aff_lift aff_move aff_pick aff_pull aff_push aff_put aff_sit,carry clean cook cut eat hold lie lift move pick pull push put sit,ocl
+ipod,aff_carry aff_close aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_put,carry close hold lie lift move open pick put,ocl
+isopod,aff_carry aff_clean aff_hold aff_lie aff_lift aff_move aff_push aff_put aff_sit,carry clean hold lie lift move push put sit,ocl
+jaguar,aff_carry aff_clean aff_hold aff_lie aff_put,carry clean hold lie put,ocl
+jeans,aff_carry aff_clean aff_cut aff_eat aff_hold aff_lift aff_pull aff_push aff_sit,carry clean cut eat hold lift pull push sit,ocl
+jellyfish,aff_carry aff_lift aff_push aff_sit,carry lift push sit,ocl
+jinrikisha,aff_carry aff_clean aff_close aff_cut aff_hold aff_lift aff_move aff_pull aff_push aff_put aff_sit,carry clean close cut hold lift move pull push put sit,ocl
+joystick,aff_carry aff_clean aff_hold aff_lie aff_lift aff_move aff_pick aff_put,carry clean hold lie lift move pick put,ocl
+jug,aff_carry aff_clean aff_hold aff_lie aff_lift aff_push aff_sit,carry clean hold lie lift push sit,ocl
+key,size_medium,,ycb
+kimono,aff_carry aff_clean aff_cut aff_hold aff_lie aff_lift aff_move aff_pick aff_put,carry clean cut hold lie lift move pick put,ocl
+kitchen utensil,aff_carry aff_clean aff_cook aff_hold aff_lie aff_lift aff_move aff_open aff_pull aff_push aff_put aff_sit,carry clean cook hold lie lift move open pull push put sit,ocl
+knee pad,aff_carry aff_clean aff_hold aff_open aff_push,carry clean hold open push,ocl
+knife,aff_carry aff_close aff_cook aff_cut aff_hold aff_lift aff_move aff_push aff_put mat_metal phys_shape_long size_medium size_small,carry close cook cut hold lift move push put,ocl ycb
+knot,aff_carry aff_cook aff_hold aff_lie aff_lift aff_move aff_pick aff_push aff_put aff_sit,carry cook hold lie lift move pick push put sit,ocl
+koala,aff_carry aff_hold aff_lie aff_lift aff_push aff_sit,carry hold lie lift push sit,ocl
+lab coat,aff_carry aff_clean aff_cut aff_hold aff_lie aff_lift aff_move aff_pick aff_put,carry clean cut hold lie lift move pick put,ocl
+ladle,aff_carry aff_clean aff_cut aff_drink aff_eat aff_hold aff_lift aff_move aff_open aff_pick aff_push aff_stir,carry clean cut drink eat hold lift move open pick push stir,ocl
+lamp,aff_carry aff_clean aff_close aff_hold aff_lie aff_lift aff_move aff_pick aff_pull aff_push aff_put aff_sit,carry clean close hold lie lift move pick pull push put sit,ocl
+lampshade,aff_hold aff_push,hold push,ocl
+lantern,aff_carry aff_clean aff_close aff_cut aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_put,carry clean close cut hold lie lift move open pick put,ocl
+laptop,aff_carry aff_clean aff_close aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_put,carry clean close hold lie lift move open pick put,ocl
+large_clamp,part_clamp size_large,,ycb
+large_marker,phys_shape_cylindrical size_large,,ycb
+lego_duplo,size_medium,,ycb
+lemon,aff_carry aff_clean aff_cut aff_eat aff_hold aff_lie aff_lift aff_move aff_pick aff_put size_medium,carry clean cut eat hold lie lift move pick put,ocl ycb
+letter opener,aff_carry aff_clean aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_put,carry clean hold lie lift move open pick put,ocl
+lighthouse,aff_clean aff_lift aff_move aff_open,clean lift move open,ocl
+limousine,aff_clean aff_close aff_cut aff_hold aff_lie aff_lift aff_move aff_open aff_pull aff_push aff_sit,clean close cut hold lie lift move open pull push sit,ocl
+lion,aff_clean aff_hold aff_lie aff_move,clean hold lie move,ocl
+lipstick,aff_carry aff_clean aff_close aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_pull aff_put,carry clean close hold lie lift move open pick pull put,ocl
+lizard,aff_carry aff_clean aff_cook aff_cut aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_put,carry clean cook cut hold lie lift move open pick put,ocl
+loudspeaker,aff_carry aff_close aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_push aff_put,carry close hold lie lift move open pick push put,ocl
+loupe,aff_carry aff_clean aff_hold aff_lie aff_lift aff_move aff_pick aff_put,carry clean hold lie lift move pick put,ocl
+madagascar cat,aff_carry aff_clean aff_hold aff_lift aff_move aff_pick aff_pull aff_push aff_put,carry clean hold lift move pick pull push put,ocl
+mailbox,aff_clean aff_hold aff_lie aff_lift aff_move aff_open aff_push aff_put,clean hold lie lift move open push put,ocl
+maracas,aff_carry aff_clean aff_hold aff_lie aff_lift aff_move aff_open aff_push aff_put aff_sit,carry clean hold lie lift move open push put sit,ocl
+marbles,phys_shape_round size_small,,ycb
+marimba,aff_carry aff_cut aff_hold aff_lie aff_move aff_open aff_push,carry cut hold lie move open push,ocl
+mask,aff_carry aff_clean aff_hold aff_open aff_push,carry clean hold open push,ocl
+master_chef_can,geom_cavity mat_metal phys_shape_cylindrical size_medium,,ycb
+matchstick,aff_carry aff_cut aff_eat aff_hold aff_lie aff_lift aff_move aff_pick aff_push aff_put,carry cut eat hold lie lift move pick push put,ocl
+measuring cup,aff_carry aff_clean aff_close aff_cut aff_eat aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_pull aff_push aff_put aff_sit,carry clean close cut eat hold lie lift move open pick pull push put sit,ocl
+meat loaf,aff_carry aff_cook aff_cut aff_eat aff_hold aff_lift aff_move aff_pick aff_pull aff_push aff_put,carry cook cut eat hold lift move pick pull push put,ocl
+medium_clamp,part_clamp size_medium,,ycb
+megalith,aff_hold aff_lie aff_push aff_sit,hold lie push sit,ocl
+microphone,aff_carry aff_close aff_cook aff_cut aff_drink aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_push,carry close cook cut drink hold lie lift move open pick push,ocl
+microwave oven,aff_close aff_cook aff_drink aff_hold aff_lie aff_pick aff_push aff_put,close cook drink hold lie pick push put,ocl
+military uniform,aff_carry aff_clean aff_cut aff_hold aff_lie aff_lift aff_move aff_pick aff_put,carry clean cut hold lie lift move pick put,ocl
+mini_soccer_ball,phys_shape_round size_small,,ycb
+minibus,aff_clean aff_close aff_cut aff_hold aff_lie aff_lift aff_move aff_open aff_pull aff_push aff_sit,clean close cut hold lie lift move open pull push sit,ocl
+miniskirt,aff_clean aff_hold aff_lift aff_pull aff_push aff_put,clean hold lift pull push put,ocl
+mirror,aff_clean aff_cut aff_hold aff_pull aff_push,clean cut hold pull push,ocl
+missile,aff_clean aff_cut aff_hold aff_lift aff_move aff_pull aff_push aff_put aff_sit,clean cut hold lift move pull push put sit,ocl
+mixing bowl,aff_carry aff_clean aff_eat aff_hold aff_lie aff_lift aff_push aff_sit,carry clean eat hold lie lift push sit,ocl
+mobile home,aff_clean aff_close aff_hold aff_lie aff_move aff_open aff_pull aff_push aff_sit,clean close hold lie move open pull push sit,ocl
+mobile phone,aff_carry aff_clean aff_close aff_hold aff_lift aff_open aff_pick aff_pull aff_push aff_put aff_sit,carry clean close hold lift open pick pull push put sit,ocl
+modem,aff_carry aff_clean aff_close aff_cut aff_hold aff_lift aff_open aff_pick aff_pull aff_push aff_put,carry clean close cut hold lift open pick pull push put,ocl
+mongoose,aff_hold aff_push aff_sit aff_stir,hold push sit stir,ocl
+monkey,aff_carry aff_clean aff_close aff_cut aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_pull aff_push aff_put aff_sit,carry clean close cut hold lie lift move open pick pull push put sit,ocl
+mortarboard,aff_carry aff_clean aff_eat aff_hold aff_lift aff_pick aff_pull aff_push aff_put aff_sit,carry clean eat hold lift pick pull push put sit,ocl
+motorcycle,aff_carry aff_clean aff_close aff_cook aff_cut aff_eat aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_pull aff_push aff_put aff_sit,carry clean close cook cut eat hold lie lift move open pick pull push put sit,ocl
+mug,aff_carry aff_clean aff_close aff_eat aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_pull aff_push aff_put aff_sit geom_cavity mat_ceramic part_handle phys_shape_cylindrical size_medium,carry clean close eat hold lie lift move open pick pull push put sit,ocl ycb
+mushroom,aff_carry aff_clean aff_cook aff_cut aff_eat aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_pull aff_push aff_put aff_sit,carry clean cook cut eat hold lie lift move open pick pull push put sit,ocl
+mustard_bottle,geom_cavity mat_glass mat_metal phys_shape_cylindrical size_medium,,ycb
+nail,aff_carry aff_clean aff_cut aff_hold aff_lie aff_lift aff_open aff_pick aff_pull aff_push aff_put aff_sit,carry clean cut hold lie lift open pick pull push put sit,ocl
+necklace,aff_carry aff_clean aff_hold aff_lift aff_push aff_sit,carry clean hold lift push sit,ocl
+nine_hole_peg_test,size_medium,,ycb
+nipple,aff_carry aff_clean aff_cut aff_drink aff_hold aff_lift aff_open aff_pick aff_pull aff_push aff_put,carry clean cut drink hold lift open pick pull push put,ocl
+oar,aff_carry aff_clean aff_cut aff_hold aff_lift aff_move aff_pull aff_push aff_put aff_stir,carry clean cut hold lift move pull push put stir,ocl
+oboe,aff_carry aff_clean aff_hold aff_lift aff_open aff_push aff_sit,carry clean hold lift open push sit,ocl
+ocarina,aff_carry aff_hold aff_open aff_push,carry hold open push,ocl
+oil filter,aff_carry aff_hold aff_open aff_push,carry hold open push,ocl
+orange,aff_carry aff_clean aff_cook aff_cut aff_drink aff_eat aff_hold aff_lie aff_lift aff_move aff_pick aff_pull aff_push aff_put size_medium,carry clean cook cut drink eat hold lie lift move pick pull push put,ocl ycb
+otter,aff_carry aff_clean aff_hold aff_lie aff_lift aff_push aff_sit,carry clean hold lie lift push sit,ocl
+oven,aff_carry aff_clean aff_close aff_cook aff_hold aff_lift aff_move aff_open aff_pick aff_pull aff_push aff_put aff_stir,carry clean close cook hold lift move open pick pull push put stir,ocl
+owl,aff_carry aff_clean aff_cook aff_cut aff_hold aff_lie aff_lift aff_move aff_put,carry clean cook cut hold lie lift move put,ocl
+oxygen mask,aff_carry aff_hold aff_pick aff_push,carry hold pick push,ocl
+packet,aff_carry aff_clean aff_close aff_cut aff_hold aff_lift aff_open aff_pick aff_pull aff_push aff_put,carry clean close cut hold lift open pick pull push put,ocl
+padlock,size_medium,,ycb
+paintbrush,aff_carry aff_eat aff_hold aff_lift aff_push,carry eat hold lift push,ocl
+panda,aff_clean aff_hold aff_move aff_pull aff_push aff_sit,clean hold move pull push sit,ocl
+panpipe,aff_carry aff_hold aff_push,carry hold push,ocl
+paper towel,aff_carry aff_clean aff_cut aff_hold aff_lift aff_open aff_pick aff_pull aff_push aff_put aff_sit,carry clean cut hold lift open pick pull push put sit,ocl
+parachute,aff_carry aff_hold aff_lift aff_sit,carry hold lift sit,ocl
+parking meter,aff_clean aff_hold aff_push,clean hold push,ocl
+peach,size_medium,,ycb
+pear,size_medium,,ycb
+pen,aff_carry aff_clean aff_cut aff_hold aff_lift aff_pick aff_pull aff_push aff_put,carry clean cut hold lift pick pull push put,ocl
+pencil case,aff_carry aff_clean aff_close aff_cut aff_hold aff_lift aff_open aff_pick aff_pull aff_push aff_put,carry clean close cut hold lift open pick pull push put,ocl
+pencil sharpener,aff_carry aff_clean aff_cut aff_hold aff_lift aff_open aff_pick aff_pull aff_push aff_put,carry clean cut hold lift open pick pull push put,ocl
+penguin,aff_carry aff_clean aff_hold aff_lie aff_lift aff_push aff_sit,carry clean hold lie lift push sit,ocl
+petri dish,aff_carry aff_clean aff_close aff_cut aff_hold aff_lift aff_open aff_pick aff_pull aff_push aff_put,carry clean close cut hold lift open pick pull push put,ocl
+phillips_screwdriver,mat_metal phys_shape_long size_medium size_small,,ycb
+piano,aff_carry aff_clean aff_close aff_cut aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_pull aff_push aff_put,carry clean close cut hold lie lift move open pick pull push put,ocl
+picket fence,aff_hold aff_lie,hold lie,ocl
+pig,aff_carry aff_clean aff_hold aff_lift aff_move aff_pull aff_push aff_put,carry clean hold lift move pull push put,ocl
+pillow,aff_carry aff_clean aff_eat aff_hold aff_lie aff_lift aff_push aff_sit,carry clean eat hold lie lift push sit,ocl
+pinwheel,aff_carry aff_hold aff_lift aff_push,carry hold lift push,ocl
+pitcher_base,geom_cavity mat_ceramic mat_metal part_handle phys_shape_cylindrical size_medium,,ycb
+pizza,aff_carry aff_clean aff_cook aff_cut aff_eat aff_hold aff_lie aff_lift aff_move aff_pick aff_pull aff_push aff_put,carry clean cook cut eat hold lie lift move pick pull push put,ocl
+plastic bag,aff_carry aff_clean aff_close aff_cut aff_hold aff_lift aff_open aff_pick aff_pull aff_push aff_put,carry clean close cut hold lift open pick pull push put,ocl
+plastic_bolt,size_medium,,ycb
+plastic_nut,size_medium,,ycb
+plate,aff_carry aff_clean aff_cook aff_cut aff_eat aff_hold aff_lift aff_pick aff_pull aff_push aff_put aff_stir mat_ceramic phys_shape_flat phys_shape_round size_medium,carry clean cook cut eat hold lift pick pull push put stir,ocl ycb
+plum,size_medium,,ycb
+polar bear,aff_carry aff_clean aff_hold aff_lie aff_lift aff_move aff_pull aff_push aff_put aff_sit,carry clean hold lie lift move pull push put sit,ocl
+pomegranate,aff_carry aff_clean aff_cook aff_cut aff_eat aff_hold aff_lift aff_move aff_open aff_pick aff_pull aff_push aff_put,carry clean cook cut eat hold lift move open pick pull push put,ocl
+porch,aff_clean,clean,ocl
+potato,aff_carry aff_clean aff_cook aff_cut aff_eat aff_hold aff_lift aff_move aff_pick aff_pull aff_push aff_put,carry clean cook cut eat hold lift move pick pull push put,ocl
+potted_meat_can,geom_cavity mat_metal phys_shape_cylindrical size_medium,,ycb
+power_drill,mat_metal phys_shape_cylindrical phys_shape_long size_medium,,ycb
+pretzel,aff_carry aff_cook aff_cut aff_eat aff_hold aff_lift aff_pick aff_pull aff_push aff_put,carry cook cut eat hold lift pick pull push put,ocl
+printer,aff_carry aff_clean aff_close aff_hold aff_lift aff_open aff_pick aff_pull aff_push aff_put,carry clean close hold lift open pick pull push put,ocl
+pudding_box,size_medium,,ycb
+rabbit,aff_carry aff_clean aff_eat aff_hold aff_lie aff_lift aff_open aff_pull aff_push aff_put aff_sit aff_stir,carry clean eat hold lie lift open pull push put sit stir,ocl
+racquetball,phys_shape_round size_medium size_small,,ycb
+radio telescope,aff_pick aff_push,pick push,ocl
+rain barrel,aff_carry aff_clean aff_cut aff_hold aff_lift aff_open aff_pull aff_push aff_put,carry clean cut hold lift open pull push put,ocl
+red panda,aff_carry aff_clean aff_hold aff_lie aff_lift aff_push aff_sit,carry clean hold lie lift push sit,ocl
+reel,aff_carry aff_clean aff_cut aff_hold aff_lift aff_pick aff_pull aff_push aff_put,carry clean cut hold lift pick pull push put,ocl
+refrigerator,aff_clean aff_close aff_hold aff_lift aff_open aff_pull aff_push,clean close hold lift open pull push,ocl
+remote control,aff_carry aff_clean aff_close aff_cook aff_cut aff_drink aff_hold aff_lie aff_lift aff_pick aff_pull aff_push aff_put,carry clean close cook cut drink hold lie lift pick pull push put,ocl
+rifle,aff_carry aff_clean aff_hold aff_lift aff_push aff_sit,carry clean hold lift push sit,ocl
+rocking chair,aff_carry aff_clean aff_cut aff_hold aff_lift aff_pull aff_push aff_put,carry clean cut hold lift pull push put,ocl
+rubiks_cube,size_medium,,ycb
+rugby ball,aff_carry aff_clean aff_cut aff_hold aff_lift aff_move aff_pick aff_pull aff_push aff_put,carry clean cut hold lift move pick pull push put,ocl
+safety pin,aff_carry aff_clean aff_close aff_cut aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_pull aff_push aff_put,carry clean close cut hold lie lift move open pick pull push put,ocl
+sandal,aff_carry aff_clean aff_hold aff_lie aff_lift aff_pull aff_push aff_put aff_sit,carry clean hold lie lift pull push put sit,ocl
+sandwich,aff_carry aff_clean aff_cook aff_cut aff_eat aff_hold aff_lie aff_lift aff_move aff_pick aff_pull aff_push aff_put,carry clean cook cut eat hold lie lift move pick pull push put,ocl
+sarong,aff_carry aff_clean aff_cut aff_hold aff_lie aff_lift aff_move aff_pick aff_pull aff_put,carry clean cut hold lie lift move pick pull put,ocl
+saxophone,aff_carry aff_clean aff_hold aff_lie aff_lift aff_sit,carry clean hold lie lift sit,ocl
+scarf,aff_carry aff_clean aff_cut aff_hold aff_lie aff_lift aff_move aff_pick aff_pull aff_put,carry clean cut hold lie lift move pick pull put,ocl
+scissors,size_medium,,ycb
+scoreboard,aff_carry aff_clean aff_hold aff_lie aff_lift aff_move aff_pick aff_put,carry clean hold lie lift move pick put,ocl
+scorpion,aff_carry aff_cut aff_hold aff_lie aff_lift aff_move aff_pick aff_push aff_put aff_sit,carry cut hold lie lift move pick push put sit,ocl
+screw,aff_carry aff_hold aff_lie aff_lift aff_move aff_open aff_pull aff_push aff_put,carry hold lie lift move open pull push put,ocl
+screwdriver,aff_carry aff_clean aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_pull aff_push aff_put aff_sit,carry clean hold lie lift move open pick pull push put sit,ocl
+sculpture,aff_carry aff_clean aff_cut aff_hold aff_lie aff_lift aff_move aff_pick,carry clean cut hold lie lift move pick,ocl
+sea lion,aff_hold aff_lie aff_move aff_pull aff_push,hold lie move pull push,ocl
+seat belt,aff_carry aff_clean aff_hold aff_lift aff_sit,carry clean hold lift sit,ocl
+sewing machine,aff_close aff_cut aff_hold aff_lie aff_move aff_open aff_put,close cut hold lie move open put,ocl
+shark,aff_carry aff_clean aff_cook aff_cut aff_hold aff_lie aff_lift aff_move aff_pull aff_put,carry clean cook cut hold lie lift move pull put,ocl
+sheep,aff_carry aff_clean aff_cook aff_cut aff_drink aff_hold aff_lie aff_lift aff_move aff_pick aff_pull aff_push aff_put aff_sit aff_stir,carry clean cook cut drink hold lie lift move pick pull push put sit stir,ocl
+shield,aff_carry aff_hold aff_lie aff_open aff_push,carry hold lie open push,ocl
+shirt,aff_carry aff_clean aff_eat aff_hold aff_lift aff_open aff_pull aff_push aff_sit,carry clean eat hold lift open pull push sit,ocl
+shoji,aff_clean aff_close aff_hold aff_lie aff_move aff_open,clean close hold lie move open,ocl
+shower,aff_clean aff_close aff_hold aff_lie aff_open,clean close hold lie open,ocl
+shower cap,aff_carry aff_clean aff_cut aff_hold aff_lie aff_lift aff_move aff_pick aff_pull aff_put,carry clean cut hold lie lift move pick pull put,ocl
+ski,aff_carry aff_hold aff_lie aff_lift aff_move aff_pick aff_pull aff_put,carry hold lie lift move pick pull put,ocl
+ski mask,aff_carry aff_clean aff_eat aff_hold aff_open aff_push,carry clean eat hold open push,ocl
+skillet_lid,part_handle size_medium,,ycb
+sleeping bag,aff_carry aff_clean aff_hold aff_lie aff_lift aff_move aff_pull aff_put,carry clean hold lie lift move pull put,ocl
+slide rule,aff_carry aff_hold aff_lie aff_lift aff_move aff_pick aff_push aff_put,carry hold lie lift move pick push put,ocl
+small_clamp,part_clamp size_small,,ycb
+small_marker,phys_shape_cylindrical size_small,,ycb
+snail,aff_carry aff_clean aff_hold aff_lie aff_lift aff_move aff_pick aff_push aff_put aff_sit,carry clean hold lie lift move pick push put sit,ocl
+snake,aff_carry aff_clean aff_cut aff_eat aff_hold aff_lie aff_lift aff_move aff_pick aff_pull aff_push aff_put aff_sit,carry clean cut eat hold lie lift move pick pull push put sit,ocl
+snorkel,aff_carry aff_clean aff_hold aff_lie aff_lift aff_move aff_open aff_pick,carry clean hold lie lift move open pick,ocl
+snowmobile,aff_clean aff_close aff_cut aff_hold aff_lie aff_lift aff_move aff_open aff_pull aff_push aff_sit,clean close cut hold lie lift move open pull push sit,ocl
+snowplow,aff_clean aff_close aff_cut aff_hold aff_lie aff_lift aff_move aff_open aff_pull aff_push aff_sit,clean close cut hold lie lift move open pull push sit,ocl
+soap dispenser,aff_carry aff_clean aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_push aff_put,carry clean hold lie lift move open pick push put,ocl
+sock,aff_carry aff_clean aff_hold aff_pull,carry clean hold pull,ocl
+softball,phys_shape_round size_medium size_small,,ycb
+solar dish,aff_clean aff_hold aff_lie aff_open aff_pick aff_push aff_put,clean hold lie open pick push put,ocl
+sombrero,aff_carry aff_clean aff_hold aff_lie aff_lift aff_open aff_push aff_sit,carry clean hold lie lift open push sit,ocl
+spatula,aff_carry aff_clean aff_hold aff_lift aff_open aff_push aff_sit mat_metal phys_shape_long size_medium size_small,carry clean hold lift open push sit,ocl ycb
+spider,aff_carry aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_push aff_put aff_sit,carry hold lie lift move open pick push put sit,ocl
+sponge,mat_foam size_medium,,ycb
+spoon,mat_metal phys_shape_long size_medium size_small,,ycb
+squash,aff_carry aff_cook aff_cut aff_eat aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_push aff_put aff_sit aff_stir,carry cook cut eat hold lie lift move open pick push put sit stir,ocl
+squirrel,aff_carry aff_clean aff_eat aff_hold aff_lie aff_lift aff_move aff_pull aff_push aff_put aff_sit,carry clean eat hold lie lift move pull push put sit,ocl
+starfish,aff_carry aff_cook aff_cut aff_hold aff_lie aff_lift aff_move aff_pick aff_pull aff_push aff_put,carry cook cut hold lie lift move pick pull push put,ocl
+steel drum,aff_carry aff_clean aff_cut aff_hold aff_lift aff_pick aff_pull aff_push aff_put,carry clean cut hold lift pick pull push put,ocl
+stethoscope,aff_carry aff_clean aff_hold aff_lift aff_push aff_sit,carry clean hold lift push sit,ocl
+strawberry,aff_carry aff_cut aff_eat aff_lift aff_push aff_sit size_medium,carry cut eat lift push sit,ocl ycb
+stretcher,aff_clean aff_hold aff_lie aff_lift aff_move aff_open aff_push aff_sit,clean hold lie lift move open push sit,ocl
+submarine,aff_carry aff_clean aff_cut aff_hold aff_lie aff_lift aff_move aff_pick aff_put,carry clean cut hold lie lift move pick put,ocl
+sugar_box,size_medium,,ycb
+suit,aff_carry aff_clean aff_cut aff_hold aff_lift aff_open aff_push aff_sit,carry clean cut hold lift open push sit,ocl
+sunglasses,aff_carry aff_clean aff_hold aff_lift aff_open aff_push aff_sit,carry clean hold lift open push sit,ocl
+sunscreen,aff_carry aff_open aff_push,carry open push,ocl
+swan,aff_carry aff_clean aff_cook aff_cut aff_hold aff_lie aff_lift aff_move aff_put,carry clean cook cut hold lie lift move put,ocl
+swimwear,aff_carry aff_clean aff_eat aff_hold aff_lift aff_open aff_pull aff_push aff_sit,carry clean eat hold lift open pull push sit,ocl
+swing,aff_hold aff_open aff_sit,hold open sit,ocl
+syringe,aff_carry aff_clean aff_eat aff_hold aff_lift aff_open aff_push aff_sit,carry clean eat hold lift open push sit,ocl
+tank,aff_clean aff_cut aff_hold aff_lie aff_lift aff_move aff_pull aff_push aff_put aff_sit,clean cut hold lie lift move pull push put sit,ocl
+taxi,aff_clean aff_close aff_cut aff_hold aff_lie aff_lift aff_move aff_open aff_pull aff_push aff_sit,clean close cut hold lie lift move open pull push sit,ocl
+teapot,aff_carry aff_clean aff_eat aff_hold aff_lie aff_lift aff_open aff_push aff_sit,carry clean eat hold lie lift open push sit,ocl
+teddy bear,aff_close aff_cut aff_drink aff_hold aff_lie aff_lift aff_move aff_pick aff_push aff_sit,close cut drink hold lie lift move pick push sit,ocl
+telephone,aff_carry aff_clean aff_close aff_cut aff_hold aff_lie aff_lift aff_move aff_open aff_pull aff_push aff_put aff_sit,carry clean close cut hold lie lift move open pull push put sit,ocl
+tennis ball,aff_carry aff_clean aff_cut aff_hold aff_lie aff_lift aff_open aff_push aff_sit,carry clean cut hold lie lift open push sit,ocl
+tennis_ball,phys_shape_round size_medium size_small,,ycb
+tent,aff_carry aff_clean aff_hold aff_lie aff_lift aff_open aff_sit,carry clean hold lie lift open sit,ocl
+tick,aff_carry aff_hold aff_lie aff_lift aff_move aff_pick aff_push aff_put aff_sit,carry hold lie lift move pick push put sit,ocl
+tie,aff_drink aff_hold aff_lift aff_move aff_pick aff_push,drink hold lift move pick push,ocl
+timber wolf,aff_carry aff_clean aff_cut aff_hold aff_lie aff_lift aff_move aff_pick aff_put,carry clean cut hold lie lift move pick put,ocl
+timer,size_medium,,ycb
+toaster,aff_close aff_cook aff_cut aff_hold aff_move aff_pick aff_push,close cook cut hold move pick push,ocl
+toilet paper,aff_carry aff_cut aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_pull aff_push aff_put aff_sit,carry cut hold lie lift move open pick pull push put sit,ocl
+tomato_soup_can,geom_cavity mat_metal phys_shape_cylindrical size_medium,,ycb
+tool,aff_carry aff_clean aff_cook aff_cut aff_eat aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_pull aff_push aff_put aff_sit,carry clean cook cut eat hold lie lift move open pick pull push put sit,ocl
+torch,aff_carry aff_hold aff_lie aff_lift aff_move aff_push aff_put,carry hold lie lift move push put,ocl
+towel,aff_carry aff_eat aff_hold aff_lift aff_open aff_pull aff_push aff_sit,carry eat hold lift open pull push sit,ocl
+tower,aff_clean aff_hold aff_lift aff_open,clean hold lift open,ocl
+toy_airplane,size_medium,,ycb
+traffic light,aff_close aff_eat,close eat,ocl
+train,aff_carry aff_clean aff_close aff_cut aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_pull aff_push aff_put aff_sit,carry clean close cut hold lie lift move open pick pull push put sit,ocl
+tripod,aff_carry aff_clean aff_eat aff_hold aff_lie aff_lift aff_push aff_sit,carry clean eat hold lie lift push sit,ocl
+trombone,aff_carry aff_clean aff_hold aff_lift aff_move aff_pull aff_push aff_put aff_sit,carry clean hold lift move pull push put sit,ocl
+truck,aff_carry aff_clean aff_close aff_cook aff_cut aff_drink aff_eat aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_pull aff_push aff_put aff_sit,carry clean close cook cut drink eat hold lie lift move open pick pull push put sit,ocl
+trumpet,aff_carry aff_clean aff_hold aff_lie aff_lift aff_open aff_push aff_sit,carry clean hold lie lift open push sit,ocl
+tuna_fish_can,geom_cavity mat_metal phys_shape_cylindrical size_medium,,ycb
+turnstile,aff_hold aff_lie,hold lie,ocl
+turtle,aff_carry aff_hold aff_lie aff_lift aff_move aff_pick aff_push aff_put aff_sit,carry hold lie lift move pick push put sit,ocl
+umbrella,aff_carry aff_close aff_cut aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_pull aff_push aff_put aff_sit,carry close cut hold lie lift move open pick pull push put sit,ocl
+unicycle,aff_carry aff_clean aff_hold aff_lie aff_lift aff_open aff_push aff_sit,carry clean hold lie lift open push sit,ocl
+vase,aff_cut aff_drink aff_pick aff_push aff_put aff_sit,cut drink pick push put sit,ocl
+vegetable,aff_carry aff_clean aff_cook aff_cut aff_eat aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_push aff_put aff_sit aff_stir,carry clean cook cut eat hold lie lift move open pick push put sit stir,ocl
+vehicle,aff_carry aff_clean aff_close aff_cut aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_pull aff_push aff_put aff_sit,carry clean close cut hold lie lift move open pick pull push put sit,ocl
+vending machine,aff_close aff_hold aff_lie aff_move aff_open aff_pick aff_push aff_put aff_sit,close hold lie move open pick push put sit,ocl
+vestment,aff_carry aff_clean aff_cut aff_hold aff_lie aff_lift aff_move aff_pick aff_put,carry clean cut hold lie lift move pick put,ocl
+violin,aff_carry aff_clean aff_hold aff_lie aff_lift aff_move aff_open aff_pull aff_push aff_sit,carry clean hold lie lift move open pull push sit,ocl
+volleyball,aff_carry aff_clean aff_cut aff_hold aff_lift aff_move aff_pick aff_pull aff_push aff_put,carry clean cut hold lift move pick pull push put,ocl
+waffle iron,aff_carry aff_clean aff_cook aff_cut aff_eat aff_hold aff_open aff_pick aff_put,carry clean cook cut eat hold open pick put,ocl
+wall clock,aff_carry aff_clean aff_close aff_hold aff_lie aff_lift aff_open aff_push aff_sit,carry clean close hold lie lift open push sit,ocl
+wallaby,aff_carry aff_clean aff_hold aff_lift aff_move aff_pull aff_push aff_put aff_sit,carry clean hold lift move pull push put sit,ocl
+wallet,aff_carry aff_hold aff_open aff_push,carry hold open push,ocl
+wardrobe,aff_carry aff_clean aff_close aff_cut aff_hold aff_lift aff_move aff_open aff_pull aff_push aff_put aff_sit,carry clean close cut hold lift move open pull push put sit,ocl
+warthog,aff_clean aff_hold aff_lift aff_move aff_pull aff_push aff_put aff_sit,clean hold lift move pull push put sit,ocl
+washing machine,aff_clean aff_close aff_hold aff_lie aff_move aff_open aff_pull aff_push aff_put aff_sit,clean close hold lie move open pull push put sit,ocl
+watch,aff_carry aff_clean aff_hold aff_lie aff_lift aff_open aff_pick aff_push aff_sit,carry clean hold lie lift open pick push sit,ocl
+weapon,aff_carry aff_clean aff_hold aff_lie aff_lift aff_move aff_open aff_pick aff_pull aff_push aff_put aff_sit,carry clean hold lie lift move open pick pull push put sit,ocl
+whale,aff_cut aff_lift aff_move aff_pull aff_push aff_put aff_sit,cut lift move pull push put sit,ocl
+wheel,aff_carry aff_clean aff_hold aff_lie aff_lift aff_open aff_pick aff_pull aff_push aff_sit,carry clean hold lie lift open pick pull push sit,ocl
+whistle,aff_carry aff_hold aff_lift aff_open aff_push,carry hold lift open push,ocl
+wild boar,aff_clean aff_hold aff_lift aff_move aff_pull aff_push aff_put aff_sit,clean hold lift move pull push put sit,ocl
+windex_bottle,geom_cavity mat_glass mat_metal phys_shape_cylindrical size_medium,,ycb
+window shade,aff_close aff_move aff_open,close move open,ocl
+wine,aff_carry aff_drink aff_eat aff_lie aff_lift aff_move aff_open aff_push aff_sit,carry drink eat lie lift move open push sit,ocl
+wine_glass,geom_cavity mat_ceramic mat_glass part_handle phys_shape_cylindrical size_medium,,ycb
+wok,aff_carry aff_eat aff_hold aff_lie aff_lift aff_open aff_push aff_sit,carry eat hold lie lift open push sit,ocl
+wood_block,mat_wood phys_shape_boxy size_medium,,ycb
+wooden spoon,aff_carry aff_clean aff_cut aff_drink aff_eat aff_hold aff_lift aff_move aff_open aff_pick aff_push aff_stir,carry clean cut drink eat hold lift move open pick push stir,ocl
+wool,aff_carry aff_clean aff_put,carry clean put,ocl
+worm,aff_carry aff_hold aff_lie aff_lift aff_pull aff_push aff_sit,carry hold lie lift pull push sit,ocl
+yawl,aff_carry aff_clean aff_cut aff_hold aff_lie aff_lift aff_move aff_pick aff_pull aff_push aff_put aff_sit,carry clean cut hold lie lift move pick pull push put sit,ocl
+yurt,aff_clean aff_close aff_lie,clean close lie,ocl
+zebra,aff_carry aff_clean aff_close aff_cook aff_cut aff_eat aff_hold aff_lie aff_lift aff_move aff_pick aff_pull aff_push aff_put aff_sit,carry clean close cook cut eat hold lie lift move pick pull push put sit,ocl

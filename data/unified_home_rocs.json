@@ -1,0 +1,3543 @@
+[
+  {
+    "object_id": "baking_dish_glass_1",
+    "features": [
+      "aff_cook_with",
+      "aff_eat_from",
+      "aff_graspable",
+      "aff_heat_in",
+      "aff_store_in",
+      "color_transparent",
+      "geom_box",
+      "loc_tabletop",
+      "mat_glass",
+      "phys_heat_resistant",
+      "phys_rigid",
+      "room_kitchen",
+      "size_medium",
+      "tex_smooth"
+    ],
+    "functions": [
+      "contain",
+      "cook",
+      "eat",
+      "heat"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "ball_1",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_2",
+      "prop_flatness_1",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_1",
+      "prop_roughness_3",
+      "prop_size_1",
+      "prop_support_1",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "ball_10",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_2",
+      "prop_flatness_1",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_0",
+      "prop_roughness_3",
+      "prop_size_1",
+      "prop_support_1",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "ball_2",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_2",
+      "prop_flatness_1",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_1",
+      "prop_roughness_3",
+      "prop_size_1",
+      "prop_support_1",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "ball_3",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_2",
+      "prop_flatness_1",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_0",
+      "prop_roughness_3",
+      "prop_size_1",
+      "prop_support_1",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "ball_4",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_2",
+      "prop_flatness_1",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_0",
+      "prop_roughness_3",
+      "prop_size_1",
+      "prop_support_1",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "ball_5",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_2",
+      "prop_flatness_1",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_1",
+      "prop_roughness_3",
+      "prop_size_1",
+      "prop_support_1",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "ball_6",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_2",
+      "prop_flatness_1",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_1",
+      "prop_roughness_3",
+      "prop_size_1",
+      "prop_support_1",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "ball_7",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_2",
+      "prop_flatness_1",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_2",
+      "prop_roughness_3",
+      "prop_size_1",
+      "prop_support_1",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "ball_8",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_2",
+      "prop_flatness_1",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_1",
+      "prop_roughness_3",
+      "prop_size_1",
+      "prop_support_1",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "ball_9",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_2",
+      "prop_flatness_1",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_1",
+      "prop_roughness_3",
+      "prop_size_1",
+      "prop_support_1",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "bed_1",
+    "features": [
+      "aff_lie_on",
+      "aff_sleep_on",
+      "color_brown",
+      "color_colored",
+      "geom_flat",
+      "loc_floor",
+      "mat_fabric",
+      "mat_wood",
+      "phys_cushioned",
+      "phys_soft",
+      "room_bedroom",
+      "size_large",
+      "tex_rough",
+      "tex_soft"
+    ],
+    "functions": [
+      "lie",
+      "sleep"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "book_1",
+    "features": [
+      "aff_graspable",
+      "aff_read_from",
+      "color_multicolor",
+      "geom_flat",
+      "loc_tabletop",
+      "mat_paper",
+      "phys_rigid",
+      "prop_blockage_2",
+      "prop_containment_1",
+      "prop_flatness_2",
+      "prop_hollowness_0",
+      "prop_movability_1",
+      "prop_rigidity_1",
+      "prop_roughness_2",
+      "prop_size_0",
+      "prop_support_3",
+      "prop_weight_1",
+      "room_study",
+      "size_small",
+      "tex_rough"
+    ],
+    "functions": [
+      "read"
+    ],
+    "sources": [
+      "home",
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "book_10",
+    "features": [
+      "prop_blockage_2",
+      "prop_containment_1",
+      "prop_flatness_2",
+      "prop_hollowness_0",
+      "prop_movability_1",
+      "prop_rigidity_1",
+      "prop_roughness_2",
+      "prop_size_2",
+      "prop_support_3",
+      "prop_weight_1"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "book_2",
+    "features": [
+      "prop_blockage_2",
+      "prop_containment_1",
+      "prop_flatness_2",
+      "prop_hollowness_0",
+      "prop_movability_1",
+      "prop_rigidity_1",
+      "prop_roughness_0",
+      "prop_size_0",
+      "prop_support_3",
+      "prop_weight_1"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "book_3",
+    "features": [
+      "prop_blockage_0",
+      "prop_containment_1",
+      "prop_flatness_2",
+      "prop_hollowness_0",
+      "prop_movability_3",
+      "prop_rigidity_1",
+      "prop_roughness_2",
+      "prop_size_2",
+      "prop_support_3",
+      "prop_weight_3"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "book_4",
+    "features": [
+      "prop_blockage_2",
+      "prop_containment_1",
+      "prop_flatness_2",
+      "prop_hollowness_0",
+      "prop_movability_1",
+      "prop_rigidity_0",
+      "prop_roughness_2",
+      "prop_size_2",
+      "prop_support_3",
+      "prop_weight_1"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "book_5",
+    "features": [
+      "prop_blockage_3",
+      "prop_containment_1",
+      "prop_flatness_2",
+      "prop_hollowness_0",
+      "prop_movability_2",
+      "prop_rigidity_3",
+      "prop_roughness_0",
+      "prop_size_0",
+      "prop_support_3",
+      "prop_weight_2"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "book_6",
+    "features": [
+      "prop_blockage_0",
+      "prop_containment_1",
+      "prop_flatness_2",
+      "prop_hollowness_0",
+      "prop_movability_3",
+      "prop_rigidity_0",
+      "prop_roughness_0",
+      "prop_size_2",
+      "prop_support_3",
+      "prop_weight_3"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "book_7",
+    "features": [
+      "prop_blockage_2",
+      "prop_containment_1",
+      "prop_flatness_2",
+      "prop_hollowness_0",
+      "prop_movability_1",
+      "prop_rigidity_0",
+      "prop_roughness_0",
+      "prop_size_2",
+      "prop_support_3",
+      "prop_weight_1"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "book_8",
+    "features": [
+      "prop_blockage_3",
+      "prop_containment_1",
+      "prop_flatness_2",
+      "prop_hollowness_0",
+      "prop_movability_2",
+      "prop_rigidity_0",
+      "prop_roughness_2",
+      "prop_size_2",
+      "prop_support_3",
+      "prop_weight_2"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "book_9",
+    "features": [
+      "prop_blockage_2",
+      "prop_containment_1",
+      "prop_flatness_2",
+      "prop_hollowness_0",
+      "prop_movability_1",
+      "prop_rigidity_0",
+      "prop_roughness_2",
+      "prop_size_2",
+      "prop_support_3",
+      "prop_weight_1"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "bookshelf_wood_1",
+    "features": [
+      "aff_store_in",
+      "color_brown",
+      "geom_box",
+      "loc_floor",
+      "mat_wood",
+      "phys_rigid",
+      "room_study",
+      "size_large",
+      "tex_rough"
+    ],
+    "functions": [
+      "store",
+      "support"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "bowl_1",
+    "features": [
+      "prop_blockage_3",
+      "prop_containment_3",
+      "prop_flatness_1",
+      "prop_hollowness_1",
+      "prop_movability_2",
+      "prop_rigidity_1",
+      "prop_roughness_0",
+      "prop_size_2",
+      "prop_support_2",
+      "prop_weight_2"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "bowl_10",
+    "features": [
+      "prop_blockage_2",
+      "prop_containment_3",
+      "prop_flatness_1",
+      "prop_hollowness_3",
+      "prop_movability_1",
+      "prop_rigidity_2",
+      "prop_roughness_2",
+      "prop_size_0",
+      "prop_support_2",
+      "prop_weight_1"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "bowl_2",
+    "features": [
+      "prop_blockage_3",
+      "prop_containment_3",
+      "prop_flatness_1",
+      "prop_hollowness_2",
+      "prop_movability_2",
+      "prop_rigidity_2",
+      "prop_roughness_0",
+      "prop_size_0",
+      "prop_support_2",
+      "prop_weight_2"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "bowl_3",
+    "features": [
+      "prop_blockage_3",
+      "prop_containment_3",
+      "prop_flatness_1",
+      "prop_hollowness_1",
+      "prop_movability_2",
+      "prop_rigidity_1",
+      "prop_roughness_0",
+      "prop_size_0",
+      "prop_support_2",
+      "prop_weight_2"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "bowl_4",
+    "features": [
+      "prop_blockage_3",
+      "prop_containment_3",
+      "prop_flatness_1",
+      "prop_hollowness_2",
+      "prop_movability_2",
+      "prop_rigidity_2",
+      "prop_roughness_0",
+      "prop_size_0",
+      "prop_support_2",
+      "prop_weight_2"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "bowl_5",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_3",
+      "prop_flatness_1",
+      "prop_hollowness_3",
+      "prop_movability_0",
+      "prop_rigidity_1",
+      "prop_roughness_2",
+      "prop_size_0",
+      "prop_support_2",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "bowl_6",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_3",
+      "prop_flatness_1",
+      "prop_hollowness_1",
+      "prop_movability_0",
+      "prop_rigidity_1",
+      "prop_roughness_2",
+      "prop_size_0",
+      "prop_support_2",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "bowl_7",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_0",
+      "prop_flatness_1",
+      "prop_hollowness_2",
+      "prop_movability_0",
+      "prop_rigidity_2",
+      "prop_roughness_2",
+      "prop_size_1",
+      "prop_support_1",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "bowl_8",
+    "features": [
+      "prop_blockage_3",
+      "prop_containment_3",
+      "prop_flatness_1",
+      "prop_hollowness_2",
+      "prop_movability_2",
+      "prop_rigidity_1",
+      "prop_roughness_0",
+      "prop_size_0",
+      "prop_support_2",
+      "prop_weight_2"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "bowl_9",
+    "features": [
+      "prop_blockage_2",
+      "prop_containment_3",
+      "prop_flatness_1",
+      "prop_hollowness_2",
+      "prop_movability_1",
+      "prop_rigidity_2",
+      "prop_roughness_0",
+      "prop_size_0",
+      "prop_support_2",
+      "prop_weight_1"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "bowl_ceramic_1",
+    "features": [
+      "aff_cook_with",
+      "aff_eat_from",
+      "aff_graspable",
+      "aff_heat_in",
+      "aff_store_in",
+      "color_white",
+      "geom_cavity",
+      "geom_wide",
+      "loc_tabletop",
+      "mat_ceramic",
+      "phys_heat_resistant",
+      "phys_rigid",
+      "room_kitchen",
+      "size_small",
+      "tex_smooth"
+    ],
+    "functions": [
+      "contain",
+      "eat",
+      "heat"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "bowl_plastic_1",
+    "features": [
+      "aff_cook_with",
+      "aff_eat_from",
+      "aff_graspable",
+      "aff_heat_in",
+      "aff_store_in",
+      "color_colorful",
+      "geom_cavity",
+      "geom_wide",
+      "loc_tabletop",
+      "mat_plastic",
+      "phys_heat_resistant",
+      "phys_rigid",
+      "room_kitchen",
+      "size_small",
+      "tex_smooth"
+    ],
+    "functions": [
+      "contain",
+      "eat",
+      "heat"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "chair_fabric_1",
+    "features": [
+      "aff_sit_on",
+      "color_colored",
+      "geom_flat",
+      "loc_floor",
+      "mat_fabric",
+      "mat_wood",
+      "part_backrest",
+      "part_legs",
+      "phys_cushioned",
+      "phys_rigid",
+      "phys_soft",
+      "room_dining",
+      "size_medium",
+      "tex_soft"
+    ],
+    "functions": [
+      "sit"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "coat_1",
+    "features": [
+      "aff_graspable",
+      "aff_wear_on_body",
+      "color_colored",
+      "loc_body",
+      "mat_fabric",
+      "phys_soft",
+      "room_bedroom",
+      "size_large",
+      "tex_soft"
+    ],
+    "functions": [
+      "wear"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "cup_1",
+    "features": [
+      "prop_blockage_3",
+      "prop_containment_0",
+      "prop_flatness_1",
+      "prop_hollowness_1",
+      "prop_movability_2",
+      "prop_rigidity_2",
+      "prop_roughness_2",
+      "prop_size_3",
+      "prop_support_1",
+      "prop_weight_2"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "cup_10",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_0",
+      "prop_flatness_1",
+      "prop_hollowness_1",
+      "prop_movability_0",
+      "prop_rigidity_2",
+      "prop_roughness_2",
+      "prop_size_1",
+      "prop_support_1",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "cup_2",
+    "features": [
+      "prop_blockage_3",
+      "prop_containment_0",
+      "prop_flatness_1",
+      "prop_hollowness_2",
+      "prop_movability_2",
+      "prop_rigidity_2",
+      "prop_roughness_2",
+      "prop_size_1",
+      "prop_support_1",
+      "prop_weight_2"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "cup_3",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_0",
+      "prop_flatness_1",
+      "prop_hollowness_2",
+      "prop_movability_0",
+      "prop_rigidity_2",
+      "prop_roughness_2",
+      "prop_size_1",
+      "prop_support_1",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "cup_4",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_2",
+      "prop_flatness_1",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_2",
+      "prop_roughness_0",
+      "prop_size_3",
+      "prop_support_1",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "cup_5",
+    "features": [
+      "prop_blockage_3",
+      "prop_containment_0",
+      "prop_flatness_1",
+      "prop_hollowness_2",
+      "prop_movability_2",
+      "prop_rigidity_2",
+      "prop_roughness_0",
+      "prop_size_1",
+      "prop_support_1",
+      "prop_weight_2"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "cup_6",
+    "features": [
+      "prop_blockage_3",
+      "prop_containment_0",
+      "prop_flatness_1",
+      "prop_hollowness_1",
+      "prop_movability_2",
+      "prop_rigidity_2",
+      "prop_roughness_0",
+      "prop_size_1",
+      "prop_support_1",
+      "prop_weight_2"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "cup_7",
+    "features": [
+      "prop_blockage_3",
+      "prop_containment_0",
+      "prop_flatness_1",
+      "prop_hollowness_2",
+      "prop_movability_2",
+      "prop_rigidity_2",
+      "prop_roughness_0",
+      "prop_size_1",
+      "prop_support_1",
+      "prop_weight_2"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "cup_8",
+    "features": [
+      "prop_blockage_3",
+      "prop_containment_0",
+      "prop_flatness_1",
+      "prop_hollowness_2",
+      "prop_movability_2",
+      "prop_rigidity_2",
+      "prop_roughness_0",
+      "prop_size_3",
+      "prop_support_1",
+      "prop_weight_2"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "cup_9",
+    "features": [
+      "prop_blockage_3",
+      "prop_containment_0",
+      "prop_flatness_1",
+      "prop_hollowness_1",
+      "prop_movability_2",
+      "prop_rigidity_2",
+      "prop_roughness_2",
+      "prop_size_1",
+      "prop_support_1",
+      "prop_weight_2"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "cup_glass_1",
+    "features": [
+      "aff_drink_from",
+      "aff_graspable",
+      "aff_store_in",
+      "color_transparent",
+      "geom_cavity",
+      "loc_tabletop",
+      "mat_glass",
+      "phys_rigid",
+      "room_kitchen",
+      "size_small",
+      "tex_smooth"
+    ],
+    "functions": [
+      "contain",
+      "drink"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "cup_plastic_1",
+    "features": [
+      "aff_drink_from",
+      "aff_graspable",
+      "aff_store_in",
+      "color_colorful",
+      "geom_cavity",
+      "loc_tabletop",
+      "mat_plastic",
+      "phys_rigid",
+      "room_kitchen",
+      "size_small",
+      "tex_smooth"
+    ],
+    "functions": [
+      "contain",
+      "drink"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "cutting_board_wood_1",
+    "features": [
+      "aff_cut_on",
+      "color_brown",
+      "geom_flat",
+      "loc_tabletop",
+      "mat_wood",
+      "phys_rigid",
+      "room_kitchen",
+      "size_medium",
+      "tex_rough"
+    ],
+    "functions": [
+      "cut"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "desk_wood_1",
+    "features": [
+      "aff_support_on",
+      "aff_work_on",
+      "color_brown",
+      "geom_flat",
+      "loc_floor",
+      "mat_wood",
+      "part_legs",
+      "phys_rigid",
+      "room_study",
+      "size_large",
+      "tex_rough"
+    ],
+    "functions": [
+      "support",
+      "work"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "floor_cushion_1",
+    "features": [
+      "aff_lie_on",
+      "aff_sit_on",
+      "color_colored",
+      "geom_flat",
+      "geom_wide",
+      "loc_floor",
+      "mat_fabric",
+      "phys_cushioned",
+      "phys_soft",
+      "room_living",
+      "size_medium",
+      "tex_soft"
+    ],
+    "functions": [
+      "lie",
+      "sit"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "fork_metal_1",
+    "features": [
+      "aff_eat_with",
+      "aff_graspable",
+      "color_silver",
+      "geom_long",
+      "loc_tabletop",
+      "mat_metal",
+      "phys_rigid",
+      "phys_sharp",
+      "room_kitchen",
+      "size_small",
+      "tex_smooth"
+    ],
+    "functions": [
+      "eat"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "fridge_1",
+    "features": [
+      "aff_cool_in",
+      "aff_store_in",
+      "color_white",
+      "geom_box",
+      "loc_floor",
+      "mat_metal",
+      "phys_rigid",
+      "room_kitchen",
+      "size_large",
+      "tex_smooth"
+    ],
+    "functions": [
+      "cool",
+      "store"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "glass_tall_1",
+    "features": [
+      "aff_drink_from",
+      "aff_graspable",
+      "aff_store_in",
+      "color_transparent",
+      "geom_cavity",
+      "geom_long",
+      "loc_tabletop",
+      "mat_glass",
+      "phys_rigid",
+      "room_kitchen",
+      "size_medium",
+      "tex_smooth"
+    ],
+    "functions": [
+      "contain",
+      "drink"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "hoodie_1",
+    "features": [
+      "aff_graspable",
+      "aff_wear_on_body",
+      "color_colored",
+      "loc_body",
+      "mat_fabric",
+      "phys_soft",
+      "room_bedroom",
+      "size_medium",
+      "tex_soft"
+    ],
+    "functions": [
+      "wear"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "jeans_1",
+    "features": [
+      "aff_graspable",
+      "aff_wear_on_body",
+      "color_colored",
+      "loc_body",
+      "mat_fabric",
+      "phys_soft",
+      "room_bedroom",
+      "size_medium",
+      "tex_soft"
+    ],
+    "functions": [
+      "wear"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "kettle_metal_1",
+    "features": [
+      "aff_cook_with",
+      "aff_drink_from",
+      "aff_graspable",
+      "aff_heat_in",
+      "aff_store_in",
+      "color_silver",
+      "geom_cavity",
+      "loc_tabletop",
+      "mat_metal",
+      "part_handle",
+      "part_spout",
+      "phys_heat_resistant",
+      "phys_rigid",
+      "room_kitchen",
+      "size_medium",
+      "tex_smooth"
+    ],
+    "functions": [
+      "contain",
+      "drink",
+      "heat",
+      "pour"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "knife_metal_1",
+    "features": [
+      "aff_cut_with",
+      "aff_eat_with",
+      "aff_graspable",
+      "color_silver",
+      "geom_long",
+      "loc_tabletop",
+      "mat_metal",
+      "part_blade",
+      "phys_rigid",
+      "phys_sharp",
+      "room_kitchen",
+      "size_small",
+      "tex_smooth"
+    ],
+    "functions": [
+      "cut"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "laptop_1",
+    "features": [
+      "aff_graspable",
+      "aff_read_from",
+      "aff_type_on",
+      "aff_watch_on",
+      "appearance_digital",
+      "color_silver",
+      "geom_flat",
+      "loc_tabletop",
+      "mat_metal",
+      "part_screen",
+      "phys_rigid",
+      "room_study",
+      "size_small",
+      "tex_smooth"
+    ],
+    "functions": [
+      "read",
+      "watch",
+      "write"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "metal_box_1",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_2",
+      "prop_flatness_3",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_1",
+      "prop_roughness_0",
+      "prop_size_1",
+      "prop_support_0",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "metal_box_10",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_1",
+      "prop_flatness_0",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_1",
+      "prop_roughness_2",
+      "prop_size_0",
+      "prop_support_0",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "metal_box_2",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_2",
+      "prop_flatness_3",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_1",
+      "prop_roughness_2",
+      "prop_size_1",
+      "prop_support_0",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "metal_box_3",
+    "features": [
+      "prop_blockage_3",
+      "prop_containment_1",
+      "prop_flatness_0",
+      "prop_hollowness_0",
+      "prop_movability_2",
+      "prop_rigidity_1",
+      "prop_roughness_0",
+      "prop_size_0",
+      "prop_support_0",
+      "prop_weight_2"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "metal_box_4",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_1",
+      "prop_flatness_0",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_1",
+      "prop_roughness_0",
+      "prop_size_0",
+      "prop_support_0",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "metal_box_5",
+    "features": [
+      "prop_blockage_3",
+      "prop_containment_1",
+      "prop_flatness_0",
+      "prop_hollowness_0",
+      "prop_movability_2",
+      "prop_rigidity_1",
+      "prop_roughness_0",
+      "prop_size_0",
+      "prop_support_0",
+      "prop_weight_2"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "metal_box_6",
+    "features": [
+      "prop_blockage_3",
+      "prop_containment_1",
+      "prop_flatness_0",
+      "prop_hollowness_0",
+      "prop_movability_2",
+      "prop_rigidity_0",
+      "prop_roughness_2",
+      "prop_size_0",
+      "prop_support_3",
+      "prop_weight_2"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "metal_box_7",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_2",
+      "prop_flatness_3",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_2",
+      "prop_roughness_0",
+      "prop_size_3",
+      "prop_support_1",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "metal_box_8",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_1",
+      "prop_flatness_0",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_1",
+      "prop_roughness_2",
+      "prop_size_0",
+      "prop_support_0",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "metal_box_9",
+    "features": [
+      "prop_blockage_3",
+      "prop_containment_1",
+      "prop_flatness_0",
+      "prop_hollowness_0",
+      "prop_movability_2",
+      "prop_rigidity_1",
+      "prop_roughness_2",
+      "prop_size_2",
+      "prop_support_0",
+      "prop_weight_2"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "microwave_1",
+    "features": [
+      "aff_cook_with",
+      "aff_heat_in",
+      "color_white",
+      "geom_box",
+      "loc_tabletop",
+      "mat_metal",
+      "part_screen",
+      "phys_heat_resistant",
+      "phys_rigid",
+      "room_kitchen",
+      "size_medium",
+      "tex_smooth"
+    ],
+    "functions": [
+      "cook",
+      "heat"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "mug_ceramic_1",
+    "features": [
+      "aff_drink_from",
+      "aff_graspable",
+      "aff_heat_in",
+      "aff_store_in",
+      "color_white",
+      "geom_cavity",
+      "geom_wide",
+      "loc_tabletop",
+      "mat_ceramic",
+      "part_handle",
+      "phys_heat_resistant",
+      "phys_rigid",
+      "room_kitchen",
+      "size_small",
+      "tex_smooth"
+    ],
+    "functions": [
+      "contain",
+      "drink",
+      "heat"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "mug_metal_1",
+    "features": [
+      "aff_drink_from",
+      "aff_graspable",
+      "aff_heat_in",
+      "aff_store_in",
+      "color_silver",
+      "geom_cavity",
+      "geom_wide",
+      "loc_tabletop",
+      "mat_metal",
+      "part_handle",
+      "phys_heat_resistant",
+      "phys_rigid",
+      "room_kitchen",
+      "size_small",
+      "tex_smooth"
+    ],
+    "functions": [
+      "contain",
+      "drink",
+      "heat"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "pan_metal_1",
+    "features": [
+      "aff_cook_with",
+      "aff_graspable",
+      "aff_heat_in",
+      "color_silver",
+      "geom_cavity",
+      "geom_wide",
+      "loc_tabletop",
+      "mat_metal",
+      "part_handle",
+      "phys_heat_resistant",
+      "phys_rigid",
+      "room_kitchen",
+      "size_medium",
+      "tex_smooth"
+    ],
+    "functions": [
+      "cook",
+      "heat"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "paper_box_1",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_1",
+      "prop_flatness_2",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_0",
+      "prop_roughness_2",
+      "prop_size_0",
+      "prop_support_3",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "paper_box_10",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_1",
+      "prop_flatness_0",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_1",
+      "prop_roughness_0",
+      "prop_size_0",
+      "prop_support_0",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "paper_box_2",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_2",
+      "prop_flatness_1",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_2",
+      "prop_roughness_0",
+      "prop_size_3",
+      "prop_support_1",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "paper_box_3",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_1",
+      "prop_flatness_0",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_1",
+      "prop_roughness_2",
+      "prop_size_2",
+      "prop_support_3",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "paper_box_4",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_1",
+      "prop_flatness_2",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_1",
+      "prop_roughness_2",
+      "prop_size_2",
+      "prop_support_3",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "paper_box_5",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_2",
+      "prop_flatness_3",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_1",
+      "prop_roughness_0",
+      "prop_size_2",
+      "prop_support_0",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "paper_box_6",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_1",
+      "prop_flatness_0",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_1",
+      "prop_roughness_0",
+      "prop_size_2",
+      "prop_support_3",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "paper_box_7",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_1",
+      "prop_flatness_2",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_0",
+      "prop_roughness_2",
+      "prop_size_2",
+      "prop_support_3",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "paper_box_8",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_1",
+      "prop_flatness_0",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_1",
+      "prop_roughness_3",
+      "prop_size_2",
+      "prop_support_3",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "paper_box_9",
+    "features": [
+      "prop_blockage_2",
+      "prop_containment_2",
+      "prop_flatness_1",
+      "prop_hollowness_0",
+      "prop_movability_1",
+      "prop_rigidity_2",
+      "prop_roughness_0",
+      "prop_size_3",
+      "prop_support_1",
+      "prop_weight_1"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "pillow_bed_1",
+    "features": [
+      "aff_lie_on",
+      "aff_sleep_on",
+      "color_colored",
+      "geom_flat",
+      "loc_floor",
+      "mat_fabric",
+      "phys_cushioned",
+      "phys_soft",
+      "room_bedroom",
+      "size_small",
+      "tex_soft"
+    ],
+    "functions": [
+      "sleep"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "plastic_box_1",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_1",
+      "prop_flatness_0",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_2",
+      "prop_roughness_2",
+      "prop_size_0",
+      "prop_support_0",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "plastic_box_10",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_1",
+      "prop_flatness_0",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_0",
+      "prop_roughness_2",
+      "prop_size_0",
+      "prop_support_3",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "plastic_box_2",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_1",
+      "prop_flatness_0",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_1",
+      "prop_roughness_2",
+      "prop_size_0",
+      "prop_support_0",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "plastic_box_3",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_2",
+      "prop_flatness_3",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_2",
+      "prop_roughness_0",
+      "prop_size_3",
+      "prop_support_1",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "plastic_box_4",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_2",
+      "prop_flatness_3",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_1",
+      "prop_roughness_0",
+      "prop_size_1",
+      "prop_support_1",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "plastic_box_5",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_1",
+      "prop_flatness_2",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_1",
+      "prop_roughness_2",
+      "prop_size_0",
+      "prop_support_0",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "plastic_box_6",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_1",
+      "prop_flatness_0",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_1",
+      "prop_roughness_2",
+      "prop_size_0",
+      "prop_support_0",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "plastic_box_7",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_2",
+      "prop_flatness_3",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_2",
+      "prop_roughness_0",
+      "prop_size_1",
+      "prop_support_1",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "plastic_box_8",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_1",
+      "prop_flatness_0",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_1",
+      "prop_roughness_2",
+      "prop_size_2",
+      "prop_support_0",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "plastic_box_9",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_1",
+      "prop_flatness_0",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_1",
+      "prop_roughness_2",
+      "prop_size_0",
+      "prop_support_0",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "plate_1",
+    "features": [
+      "prop_blockage_3",
+      "prop_containment_3",
+      "prop_flatness_1",
+      "prop_hollowness_1",
+      "prop_movability_2",
+      "prop_rigidity_0",
+      "prop_roughness_0",
+      "prop_size_0",
+      "prop_support_2",
+      "prop_weight_2"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "plate_10",
+    "features": [
+      "prop_blockage_3",
+      "prop_containment_3",
+      "prop_flatness_1",
+      "prop_hollowness_1",
+      "prop_movability_2",
+      "prop_rigidity_0",
+      "prop_roughness_0",
+      "prop_size_0",
+      "prop_support_2",
+      "prop_weight_2"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "plate_2",
+    "features": [
+      "prop_blockage_3",
+      "prop_containment_3",
+      "prop_flatness_1",
+      "prop_hollowness_3",
+      "prop_movability_2",
+      "prop_rigidity_0",
+      "prop_roughness_0",
+      "prop_size_0",
+      "prop_support_2",
+      "prop_weight_2"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "plate_3",
+    "features": [
+      "prop_blockage_2",
+      "prop_containment_3",
+      "prop_flatness_1",
+      "prop_hollowness_3",
+      "prop_movability_1",
+      "prop_rigidity_0",
+      "prop_roughness_0",
+      "prop_size_0",
+      "prop_support_2",
+      "prop_weight_1"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "plate_4",
+    "features": [
+      "prop_blockage_3",
+      "prop_containment_3",
+      "prop_flatness_1",
+      "prop_hollowness_1",
+      "prop_movability_2",
+      "prop_rigidity_0",
+      "prop_roughness_0",
+      "prop_size_0",
+      "prop_support_2",
+      "prop_weight_2"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "plate_5",
+    "features": [
+      "prop_blockage_2",
+      "prop_containment_3",
+      "prop_flatness_1",
+      "prop_hollowness_1",
+      "prop_movability_1",
+      "prop_rigidity_0",
+      "prop_roughness_0",
+      "prop_size_0",
+      "prop_support_2",
+      "prop_weight_1"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "plate_6",
+    "features": [
+      "prop_blockage_2",
+      "prop_containment_3",
+      "prop_flatness_1",
+      "prop_hollowness_3",
+      "prop_movability_1",
+      "prop_rigidity_1",
+      "prop_roughness_2",
+      "prop_size_0",
+      "prop_support_2",
+      "prop_weight_1"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "plate_7",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_3",
+      "prop_flatness_1",
+      "prop_hollowness_3",
+      "prop_movability_0",
+      "prop_rigidity_3",
+      "prop_roughness_1",
+      "prop_size_0",
+      "prop_support_2",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "plate_8",
+    "features": [
+      "prop_blockage_2",
+      "prop_containment_3",
+      "prop_flatness_3",
+      "prop_hollowness_1",
+      "prop_movability_1",
+      "prop_rigidity_1",
+      "prop_roughness_2",
+      "prop_size_0",
+      "prop_support_0",
+      "prop_weight_1"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "plate_9",
+    "features": [
+      "prop_blockage_3",
+      "prop_containment_3",
+      "prop_flatness_1",
+      "prop_hollowness_2",
+      "prop_movability_2",
+      "prop_rigidity_1",
+      "prop_roughness_2",
+      "prop_size_0",
+      "prop_support_2",
+      "prop_weight_2"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "plate_ceramic_1",
+    "features": [
+      "aff_eat_from",
+      "aff_graspable",
+      "color_white",
+      "geom_flat",
+      "loc_tabletop",
+      "mat_ceramic",
+      "phys_heat_resistant",
+      "phys_rigid",
+      "room_kitchen",
+      "size_medium",
+      "tex_smooth"
+    ],
+    "functions": [
+      "eat"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "pot_metal_1",
+    "features": [
+      "aff_cook_with",
+      "aff_graspable",
+      "aff_heat_in",
+      "aff_store_in",
+      "color_silver",
+      "geom_cavity",
+      "loc_tabletop",
+      "mat_metal",
+      "part_handle",
+      "part_lid",
+      "phys_heat_resistant",
+      "phys_rigid",
+      "room_kitchen",
+      "size_medium",
+      "tex_smooth"
+    ],
+    "functions": [
+      "contain",
+      "cook",
+      "heat"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "serving_plate_large_1",
+    "features": [
+      "aff_eat_from",
+      "aff_graspable",
+      "color_white",
+      "geom_flat",
+      "loc_tabletop",
+      "mat_ceramic",
+      "phys_heat_resistant",
+      "phys_rigid",
+      "room_kitchen",
+      "size_large",
+      "tex_smooth"
+    ],
+    "functions": [
+      "eat"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "sofa_fabric_1",
+    "features": [
+      "aff_lie_on",
+      "aff_sit_on",
+      "aff_sleep_on",
+      "color_colored",
+      "geom_flat",
+      "geom_wide",
+      "loc_floor",
+      "mat_fabric",
+      "part_backrest",
+      "phys_cushioned",
+      "phys_soft",
+      "room_living",
+      "size_large",
+      "tex_soft"
+    ],
+    "functions": [
+      "lie",
+      "sit",
+      "sleep"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "sponge_1",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_1",
+      "prop_flatness_2",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_3",
+      "prop_roughness_1",
+      "prop_size_2",
+      "prop_support_3",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "sponge_10",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_1",
+      "prop_flatness_2",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_3",
+      "prop_roughness_2",
+      "prop_size_0",
+      "prop_support_3",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "sponge_2",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_1",
+      "prop_flatness_2",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_0",
+      "prop_roughness_1",
+      "prop_size_2",
+      "prop_support_3",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "sponge_3",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_1",
+      "prop_flatness_0",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_0",
+      "prop_roughness_1",
+      "prop_size_0",
+      "prop_support_3",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "sponge_4",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_1",
+      "prop_flatness_0",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_0",
+      "prop_roughness_1",
+      "prop_size_0",
+      "prop_support_3",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "sponge_5",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_1",
+      "prop_flatness_2",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_3",
+      "prop_roughness_1",
+      "prop_size_0",
+      "prop_support_3",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "sponge_6",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_1",
+      "prop_flatness_0",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_3",
+      "prop_roughness_1",
+      "prop_size_2",
+      "prop_support_3",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "sponge_7",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_1",
+      "prop_flatness_0",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_3",
+      "prop_roughness_2",
+      "prop_size_2",
+      "prop_support_3",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "sponge_8",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_1",
+      "prop_flatness_0",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_0",
+      "prop_roughness_1",
+      "prop_size_2",
+      "prop_support_3",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "sponge_9",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_1",
+      "prop_flatness_0",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_0",
+      "prop_roughness_1",
+      "prop_size_2",
+      "prop_support_3",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "spoon_metal_1",
+    "features": [
+      "aff_eat_with",
+      "aff_graspable",
+      "aff_stir_with",
+      "color_silver",
+      "geom_cavity",
+      "geom_long",
+      "loc_tabletop",
+      "mat_metal",
+      "part_handle",
+      "phys_rigid",
+      "room_kitchen",
+      "size_small",
+      "tex_smooth"
+    ],
+    "functions": [
+      "eat",
+      "stir"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "stool_wood_1",
+    "features": [
+      "aff_sit_on",
+      "color_brown",
+      "geom_flat",
+      "loc_floor",
+      "mat_wood",
+      "part_legs",
+      "phys_rigid",
+      "room_dining",
+      "size_medium",
+      "tex_rough"
+    ],
+    "functions": [
+      "sit",
+      "support"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "table_wood_1",
+    "features": [
+      "aff_eat_on",
+      "aff_support_on",
+      "aff_work_on",
+      "color_brown",
+      "geom_flat",
+      "loc_floor",
+      "mat_wood",
+      "part_legs",
+      "phys_rigid",
+      "room_dining",
+      "size_large",
+      "tex_rough"
+    ],
+    "functions": [
+      "eat",
+      "support",
+      "work"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "test_bed_2",
+    "features": [
+      "aff_lie_on",
+      "aff_sleep_on",
+      "color_white",
+      "geom_flat",
+      "geom_wide",
+      "loc_floor",
+      "mat_fabric",
+      "mat_wood",
+      "phys_cushioned",
+      "phys_soft",
+      "room_bedroom",
+      "size_large",
+      "tex_soft"
+    ],
+    "functions": [
+      "lie",
+      "sleep"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "test_book_2",
+    "features": [
+      "aff_graspable",
+      "aff_read_from",
+      "color_multicolor",
+      "geom_flat",
+      "loc_tabletop",
+      "mat_paper",
+      "phys_rigid",
+      "room_study",
+      "size_small",
+      "tex_rough"
+    ],
+    "functions": [
+      "read"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "test_ceramic_mug_2",
+    "features": [
+      "aff_drink_from",
+      "aff_graspable",
+      "aff_heat_in",
+      "aff_store_in",
+      "color_white",
+      "geom_cavity",
+      "geom_wide",
+      "loc_tabletop",
+      "mat_ceramic",
+      "part_handle",
+      "phys_heat_resistant",
+      "phys_rigid",
+      "room_kitchen",
+      "size_small",
+      "tex_smooth"
+    ],
+    "functions": [
+      "contain",
+      "drink",
+      "heat"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "test_chef_knife_2",
+    "features": [
+      "aff_cut_with",
+      "aff_eat_with",
+      "aff_graspable",
+      "color_brown",
+      "color_silver",
+      "geom_flat",
+      "geom_long",
+      "loc_tabletop",
+      "mat_metal",
+      "mat_wood",
+      "phys_rigid",
+      "phys_sharp",
+      "room_kitchen",
+      "size_small",
+      "tex_rough",
+      "tex_smooth"
+    ],
+    "functions": [
+      "cut",
+      "eat"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "test_coffee_table_1",
+    "features": [
+      "aff_support_on",
+      "color_brown",
+      "geom_flat",
+      "loc_floor",
+      "mat_wood",
+      "part_legs",
+      "phys_rigid",
+      "room_living",
+      "size_medium",
+      "tex_rough"
+    ],
+    "functions": [
+      "support"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "test_cutting_board_2",
+    "features": [
+      "aff_cut_on",
+      "aff_eat_on",
+      "aff_support_on",
+      "color_brown",
+      "geom_flat",
+      "loc_tabletop",
+      "mat_wood",
+      "phys_rigid",
+      "room_kitchen",
+      "size_medium",
+      "tex_rough"
+    ],
+    "functions": [
+      "cut",
+      "eat",
+      "support"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "test_deep_plate_1",
+    "features": [
+      "aff_eat_from",
+      "aff_graspable",
+      "aff_store_in",
+      "color_white",
+      "geom_cavity",
+      "geom_wide",
+      "loc_tabletop",
+      "mat_ceramic",
+      "phys_heat_resistant",
+      "phys_rigid",
+      "room_kitchen",
+      "size_medium",
+      "tex_smooth"
+    ],
+    "functions": [
+      "contain",
+      "eat"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "test_dining_table_2",
+    "features": [
+      "aff_eat_on",
+      "aff_support_on",
+      "aff_work_on",
+      "color_brown",
+      "geom_flat",
+      "loc_floor",
+      "mat_wood",
+      "part_legs",
+      "phys_rigid",
+      "room_dining",
+      "size_large",
+      "tex_rough"
+    ],
+    "functions": [
+      "eat",
+      "support",
+      "work"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "test_flat_plate_2",
+    "features": [
+      "aff_eat_from",
+      "aff_graspable",
+      "color_white",
+      "geom_flat",
+      "loc_tabletop",
+      "mat_ceramic",
+      "phys_heat_resistant",
+      "phys_rigid",
+      "room_kitchen",
+      "size_medium",
+      "tex_smooth"
+    ],
+    "functions": [
+      "eat"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "test_fridge_2",
+    "features": [
+      "aff_cool_in",
+      "aff_store_in",
+      "color_white",
+      "geom_box",
+      "loc_floor",
+      "mat_metal",
+      "phys_rigid",
+      "room_kitchen",
+      "size_large",
+      "tex_smooth"
+    ],
+    "functions": [
+      "contain",
+      "cool",
+      "store"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "test_frying_pan_1",
+    "features": [
+      "aff_cook_with",
+      "aff_eat_from",
+      "aff_graspable",
+      "aff_heat_in",
+      "aff_store_in",
+      "color_silver",
+      "geom_cavity",
+      "geom_flat",
+      "loc_tabletop",
+      "mat_metal",
+      "part_handle",
+      "phys_heat_resistant",
+      "phys_rigid",
+      "room_kitchen",
+      "size_medium",
+      "tex_smooth"
+    ],
+    "functions": [
+      "contain",
+      "cook",
+      "eat",
+      "heat"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "test_glass_mug_2",
+    "features": [
+      "aff_drink_from",
+      "aff_graspable",
+      "aff_heat_in",
+      "aff_store_in",
+      "color_transparent",
+      "geom_cavity",
+      "geom_wide",
+      "loc_tabletop",
+      "mat_glass",
+      "part_handle",
+      "phys_heat_resistant",
+      "phys_rigid",
+      "room_kitchen",
+      "size_small",
+      "tex_smooth"
+    ],
+    "functions": [
+      "contain",
+      "drink",
+      "heat"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "test_glass_tumbler_1",
+    "features": [
+      "aff_drink_from",
+      "aff_graspable",
+      "aff_store_in",
+      "color_transparent",
+      "geom_cavity",
+      "loc_tabletop",
+      "mat_glass",
+      "phys_rigid",
+      "room_kitchen",
+      "size_small",
+      "tex_smooth"
+    ],
+    "functions": [
+      "contain",
+      "drink"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "test_laptop_2",
+    "features": [
+      "aff_graspable",
+      "aff_read_from",
+      "aff_type_on",
+      "aff_watch_on",
+      "appearance_digital",
+      "color_silver",
+      "geom_flat",
+      "loc_tabletop",
+      "mat_metal",
+      "part_screen",
+      "phys_rigid",
+      "room_study",
+      "size_small",
+      "tex_smooth"
+    ],
+    "functions": [
+      "read",
+      "watch",
+      "write"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "test_metal_pot_1",
+    "features": [
+      "aff_cook_with",
+      "aff_eat_from",
+      "aff_graspable",
+      "aff_heat_in",
+      "aff_store_in",
+      "color_silver",
+      "geom_cavity",
+      "geom_wide",
+      "loc_tabletop",
+      "mat_metal",
+      "part_handle",
+      "phys_heat_resistant",
+      "phys_rigid",
+      "room_kitchen",
+      "size_medium",
+      "tex_smooth"
+    ],
+    "functions": [
+      "contain",
+      "cook",
+      "eat",
+      "heat"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "test_office_chair_2",
+    "features": [
+      "aff_sit_on",
+      "color_colored",
+      "geom_flat",
+      "loc_floor",
+      "mat_fabric",
+      "mat_metal",
+      "part_backrest",
+      "part_legs",
+      "phys_cushioned",
+      "phys_soft",
+      "room_study",
+      "size_medium",
+      "tex_soft"
+    ],
+    "functions": [
+      "sit"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "test_paper_cup_2",
+    "features": [
+      "aff_drink_from",
+      "aff_graspable",
+      "aff_store_in",
+      "color_white",
+      "geom_cavity",
+      "loc_tabletop",
+      "mat_paper",
+      "phys_rigid",
+      "room_kitchen",
+      "size_small",
+      "tex_smooth"
+    ],
+    "functions": [
+      "contain",
+      "drink"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "test_plastic_tumbler_1",
+    "features": [
+      "aff_drink_from",
+      "aff_graspable",
+      "aff_store_in",
+      "color_colored",
+      "geom_cavity",
+      "loc_tabletop",
+      "mat_plastic",
+      "phys_rigid",
+      "room_kitchen",
+      "size_small",
+      "tex_smooth"
+    ],
+    "functions": [
+      "contain",
+      "drink"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "test_saucepan_1",
+    "features": [
+      "aff_cook_with",
+      "aff_drink_from",
+      "aff_graspable",
+      "aff_heat_in",
+      "aff_store_in",
+      "color_silver",
+      "geom_cavity",
+      "geom_wide",
+      "loc_tabletop",
+      "mat_metal",
+      "part_handle",
+      "part_spout",
+      "phys_heat_resistant",
+      "phys_rigid",
+      "room_kitchen",
+      "size_medium",
+      "tex_smooth"
+    ],
+    "functions": [
+      "contain",
+      "cook",
+      "eat",
+      "heat",
+      "pour"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "test_sofa_2",
+    "features": [
+      "aff_lie_on",
+      "aff_sit_on",
+      "color_colored",
+      "geom_flat",
+      "geom_wide",
+      "loc_floor",
+      "mat_fabric",
+      "phys_cushioned",
+      "phys_soft",
+      "room_living",
+      "size_large",
+      "tex_soft"
+    ],
+    "functions": [
+      "lie",
+      "sit"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "test_soup_bowl_2",
+    "features": [
+      "aff_eat_from",
+      "aff_graspable",
+      "aff_store_in",
+      "color_white",
+      "geom_cavity",
+      "geom_wide",
+      "loc_tabletop",
+      "mat_ceramic",
+      "phys_heat_resistant",
+      "phys_rigid",
+      "room_kitchen",
+      "size_medium",
+      "tex_smooth"
+    ],
+    "functions": [
+      "contain",
+      "eat"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "test_storage_cabinet_1",
+    "features": [
+      "aff_store_in",
+      "color_brown",
+      "geom_box",
+      "loc_floor",
+      "mat_wood",
+      "phys_rigid",
+      "room_bedroom",
+      "size_large",
+      "tex_rough"
+    ],
+    "functions": [
+      "contain",
+      "store"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "test_tshirt_2",
+    "features": [
+      "aff_graspable",
+      "aff_wear_on_body",
+      "color_colored",
+      "loc_body",
+      "mat_fabric",
+      "phys_soft",
+      "room_bedroom",
+      "size_medium",
+      "tex_soft"
+    ],
+    "functions": [
+      "wear"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "to_go_cup_1",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_0",
+      "prop_flatness_1",
+      "prop_hollowness_1",
+      "prop_movability_0",
+      "prop_rigidity_2",
+      "prop_roughness_2",
+      "prop_size_3",
+      "prop_support_1",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "to_go_cup_10",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_0",
+      "prop_flatness_1",
+      "prop_hollowness_1",
+      "prop_movability_0",
+      "prop_rigidity_2",
+      "prop_roughness_0",
+      "prop_size_1",
+      "prop_support_1",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "to_go_cup_2",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_0",
+      "prop_flatness_1",
+      "prop_hollowness_1",
+      "prop_movability_0",
+      "prop_rigidity_2",
+      "prop_roughness_2",
+      "prop_size_1",
+      "prop_support_1",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "to_go_cup_3",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_0",
+      "prop_flatness_1",
+      "prop_hollowness_2",
+      "prop_movability_0",
+      "prop_rigidity_2",
+      "prop_roughness_2",
+      "prop_size_1",
+      "prop_support_1",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "to_go_cup_4",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_2",
+      "prop_flatness_1",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_2",
+      "prop_roughness_0",
+      "prop_size_3",
+      "prop_support_1",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "to_go_cup_5",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_0",
+      "prop_flatness_1",
+      "prop_hollowness_2",
+      "prop_movability_0",
+      "prop_rigidity_2",
+      "prop_roughness_2",
+      "prop_size_1",
+      "prop_support_1",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "to_go_cup_6",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_0",
+      "prop_flatness_1",
+      "prop_hollowness_1",
+      "prop_movability_0",
+      "prop_rigidity_2",
+      "prop_roughness_0",
+      "prop_size_1",
+      "prop_support_1",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "to_go_cup_7",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_0",
+      "prop_flatness_1",
+      "prop_hollowness_2",
+      "prop_movability_0",
+      "prop_rigidity_2",
+      "prop_roughness_0",
+      "prop_size_1",
+      "prop_support_1",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "to_go_cup_8",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_0",
+      "prop_flatness_1",
+      "prop_hollowness_2",
+      "prop_movability_0",
+      "prop_rigidity_2",
+      "prop_roughness_2",
+      "prop_size_3",
+      "prop_support_1",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "to_go_cup_9",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_0",
+      "prop_flatness_1",
+      "prop_hollowness_2",
+      "prop_movability_0",
+      "prop_rigidity_2",
+      "prop_roughness_2",
+      "prop_size_3",
+      "prop_support_1",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "tray_1",
+    "features": [
+      "prop_blockage_2",
+      "prop_containment_1",
+      "prop_flatness_2",
+      "prop_hollowness_0",
+      "prop_movability_1",
+      "prop_rigidity_0",
+      "prop_roughness_2",
+      "prop_size_0",
+      "prop_support_3",
+      "prop_weight_1"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "tray_10",
+    "features": [
+      "prop_blockage_3",
+      "prop_containment_1",
+      "prop_flatness_2",
+      "prop_hollowness_0",
+      "prop_movability_2",
+      "prop_rigidity_1",
+      "prop_roughness_2",
+      "prop_size_2",
+      "prop_support_3",
+      "prop_weight_2"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "tray_2",
+    "features": [
+      "prop_blockage_2",
+      "prop_containment_1",
+      "prop_flatness_2",
+      "prop_hollowness_0",
+      "prop_movability_1",
+      "prop_rigidity_0",
+      "prop_roughness_2",
+      "prop_size_0",
+      "prop_support_3",
+      "prop_weight_1"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "tray_3",
+    "features": [
+      "prop_blockage_2",
+      "prop_containment_1",
+      "prop_flatness_2",
+      "prop_hollowness_0",
+      "prop_movability_1",
+      "prop_rigidity_1",
+      "prop_roughness_2",
+      "prop_size_0",
+      "prop_support_3",
+      "prop_weight_1"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "tray_4",
+    "features": [
+      "prop_blockage_3",
+      "prop_containment_1",
+      "prop_flatness_2",
+      "prop_hollowness_0",
+      "prop_movability_2",
+      "prop_rigidity_0",
+      "prop_roughness_0",
+      "prop_size_2",
+      "prop_support_3",
+      "prop_weight_2"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "tray_5",
+    "features": [
+      "prop_blockage_3",
+      "prop_containment_1",
+      "prop_flatness_2",
+      "prop_hollowness_0",
+      "prop_movability_2",
+      "prop_rigidity_0",
+      "prop_roughness_0",
+      "prop_size_2",
+      "prop_support_3",
+      "prop_weight_2"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "tray_6",
+    "features": [
+      "prop_blockage_3",
+      "prop_containment_1",
+      "prop_flatness_2",
+      "prop_hollowness_0",
+      "prop_movability_2",
+      "prop_rigidity_0",
+      "prop_roughness_1",
+      "prop_size_2",
+      "prop_support_3",
+      "prop_weight_2"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "tray_7",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_1",
+      "prop_flatness_2",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_0",
+      "prop_roughness_0",
+      "prop_size_2",
+      "prop_support_3",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "tray_8",
+    "features": [
+      "prop_blockage_1",
+      "prop_containment_1",
+      "prop_flatness_2",
+      "prop_hollowness_0",
+      "prop_movability_0",
+      "prop_rigidity_0",
+      "prop_roughness_1",
+      "prop_size_0",
+      "prop_support_3",
+      "prop_weight_0"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "tray_9",
+    "features": [
+      "prop_blockage_3",
+      "prop_containment_1",
+      "prop_flatness_2",
+      "prop_hollowness_0",
+      "prop_movability_2",
+      "prop_rigidity_0",
+      "prop_roughness_0",
+      "prop_size_2",
+      "prop_support_3",
+      "prop_weight_2"
+    ],
+    "functions": [],
+    "sources": [
+      "rocs"
+    ]
+  },
+  {
+    "object_id": "tray_metal_1",
+    "features": [
+      "aff_eat_from",
+      "aff_graspable",
+      "aff_support_on",
+      "color_silver",
+      "geom_flat",
+      "geom_wide",
+      "loc_tabletop",
+      "mat_metal",
+      "phys_rigid",
+      "room_kitchen",
+      "size_large",
+      "tex_smooth"
+    ],
+    "functions": [
+      "eat",
+      "support"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "tshirt_1",
+    "features": [
+      "aff_graspable",
+      "aff_wear_on_body",
+      "color_colored",
+      "loc_body",
+      "mat_fabric",
+      "phys_soft",
+      "room_bedroom",
+      "size_medium",
+      "tex_soft"
+    ],
+    "functions": [
+      "wear"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "wardrobe_wood_1",
+    "features": [
+      "aff_store_in",
+      "color_brown",
+      "geom_box",
+      "loc_floor",
+      "mat_wood",
+      "phys_rigid",
+      "room_bedroom",
+      "size_large",
+      "tex_rough"
+    ],
+    "functions": [
+      "store"
+    ],
+    "sources": [
+      "home"
+    ]
+  },
+  {
+    "object_id": "wine_glass_1",
+    "features": [
+      "aff_drink_from",
+      "aff_graspable",
+      "aff_store_in",
+      "color_transparent",
+      "geom_cavity",
+      "geom_long",
+      "loc_tabletop",
+      "mat_glass",
+      "part_handle",
+      "phys_rigid",
+      "room_kitchen",
+      "size_small",
+      "tex_smooth"
+    ],
+    "functions": [
+      "contain",
+      "drink"
+    ],
+    "sources": [
+      "home"
+    ]
+  }
+]

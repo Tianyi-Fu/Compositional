@@ -1,0 +1,7315 @@
+{
+  "L1_compounds": {
+    "affordance": [
+      {
+        "id": "A1",
+        "features": [
+          "aff_close",
+          "aff_cut"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5406362981060749,
+        "support": 59,
+        "components": []
+      },
+      {
+        "id": "A2",
+        "features": [
+          "aff_close",
+          "aff_drink"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6673099603851659,
+        "support": 12,
+        "components": []
+      },
+      {
+        "id": "A3",
+        "features": [
+          "aff_close",
+          "aff_open"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6178616175108707,
+        "support": 63,
+        "components": []
+      },
+      {
+        "id": "A4",
+        "features": [
+          "aff_cook",
+          "aff_cut"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.74378265669525,
+        "support": 58,
+        "components": []
+      },
+      {
+        "id": "A5",
+        "features": [
+          "aff_cook",
+          "aff_drink"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8875507520414141,
+        "support": 12,
+        "components": []
+      },
+      {
+        "id": "A6",
+        "features": [
+          "aff_cook",
+          "aff_eat"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.109961373533914,
+        "support": 44,
+        "components": []
+      },
+      {
+        "id": "A7",
+        "features": [
+          "aff_cook",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5985528270009466,
+        "support": 49,
+        "components": []
+      },
+      {
+        "id": "A8",
+        "features": [
+          "aff_cook",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5452161177169623,
+        "support": 58,
+        "components": []
+      },
+      {
+        "id": "A9",
+        "features": [
+          "aff_cook",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.290087607946247,
+        "support": 11,
+        "components": []
+      },
+      {
+        "id": "A10",
+        "features": [
+          "aff_cut",
+          "aff_drink"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7023347938877645,
+        "support": 25,
+        "components": []
+      },
+      {
+        "id": "A11",
+        "features": [
+          "aff_cut",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6078289922511905,
+        "support": 124,
+        "components": []
+      },
+      {
+        "id": "A12",
+        "features": [
+          "aff_cut",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5379565887228812,
+        "support": 13,
+        "components": []
+      },
+      {
+        "id": "A13",
+        "features": [
+          "aff_drink",
+          "aff_eat"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7649484180443209,
+        "support": 14,
+        "components": []
+      },
+      {
+        "id": "A14",
+        "features": [
+          "aff_drink",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7257276734624701,
+        "support": 25,
+        "components": []
+      },
+      {
+        "id": "A15",
+        "features": [
+          "aff_drink",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.484071180245611,
+        "support": 6,
+        "components": []
+      },
+      {
+        "id": "A16",
+        "features": [
+          "aff_eat",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.2544966433630267,
+        "support": 14,
+        "components": []
+      },
+      {
+        "id": "A17",
+        "features": [
+          "aff_move",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5260813192037191,
+        "support": 15,
+        "components": []
+      },
+      {
+        "id": "A18",
+        "features": [
+          "aff_pick",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.558794186123795,
+        "support": 144,
+        "components": []
+      },
+      {
+        "id": "A19",
+        "features": [
+          "aff_pick",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5613494682975867,
+        "support": 13,
+        "components": []
+      },
+      {
+        "id": "A20",
+        "features": [
+          "aff_pull",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5207026727919896,
+        "support": 146,
+        "components": []
+      },
+      {
+        "id": "A21",
+        "features": [
+          "aff_carry",
+          "aff_clean",
+          "aff_cut"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5309850476107415,
+        "support": 128,
+        "components": []
+      },
+      {
+        "id": "A22",
+        "features": [
+          "aff_carry",
+          "aff_clean",
+          "aff_lift"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5411916179504874,
+        "support": 222,
+        "components": []
+      },
+      {
+        "id": "A23",
+        "features": [
+          "aff_carry",
+          "aff_clean",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5698821136012198,
+        "support": 130,
+        "components": []
+      },
+      {
+        "id": "A24",
+        "features": [
+          "aff_carry",
+          "aff_clean",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5631177131733112,
+        "support": 136,
+        "components": []
+      },
+      {
+        "id": "A25",
+        "features": [
+          "aff_carry",
+          "aff_clean",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.580254670822096,
+        "support": 164,
+        "components": []
+      },
+      {
+        "id": "A26",
+        "features": [
+          "aff_carry",
+          "aff_clean",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5268647922537901,
+        "support": 14,
+        "components": []
+      },
+      {
+        "id": "A27",
+        "features": [
+          "aff_carry",
+          "aff_close",
+          "aff_cut"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5879264394541934,
+        "support": 43,
+        "components": []
+      },
+      {
+        "id": "A28",
+        "features": [
+          "aff_carry",
+          "aff_close",
+          "aff_open"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6669957567281616,
+        "support": 46,
+        "components": []
+      },
+      {
+        "id": "A29",
+        "features": [
+          "aff_carry",
+          "aff_close",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6567816920720644,
+        "support": 45,
+        "components": []
+      },
+      {
+        "id": "A30",
+        "features": [
+          "aff_carry",
+          "aff_close",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6694353764517351,
+        "support": 48,
+        "components": []
+      },
+      {
+        "id": "A31",
+        "features": [
+          "aff_carry",
+          "aff_close",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5599854138586983,
+        "support": 51,
+        "components": []
+      },
+      {
+        "id": "A32",
+        "features": [
+          "aff_carry",
+          "aff_cook",
+          "aff_cut"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.0900183775394754,
+        "support": 57,
+        "components": []
+      },
+      {
+        "id": "A33",
+        "features": [
+          "aff_carry",
+          "aff_cook",
+          "aff_drink"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.1641668458811556,
+        "support": 11,
+        "components": []
+      },
+      {
+        "id": "A34",
+        "features": [
+          "aff_carry",
+          "aff_cook",
+          "aff_eat"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.473588836787528,
+        "support": 44,
+        "components": []
+      },
+      {
+        "id": "A35",
+        "features": [
+          "aff_carry",
+          "aff_cook",
+          "aff_hold"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5195740497366699,
+        "support": 65,
+        "components": []
+      },
+      {
+        "id": "A36",
+        "features": [
+          "aff_carry",
+          "aff_cook",
+          "aff_lie"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6298713103732128,
+        "support": 47,
+        "components": []
+      },
+      {
+        "id": "A37",
+        "features": [
+          "aff_carry",
+          "aff_cook",
+          "aff_lift"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6008711267449125,
+        "support": 60,
+        "components": []
+      },
+      {
+        "id": "A38",
+        "features": [
+          "aff_carry",
+          "aff_cook",
+          "aff_move"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8040140146857857,
+        "support": 50,
+        "components": []
+      },
+      {
+        "id": "A39",
+        "features": [
+          "aff_carry",
+          "aff_cook",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.9205075947224253,
+        "support": 47,
+        "components": []
+      },
+      {
+        "id": "A40",
+        "features": [
+          "aff_carry",
+          "aff_cook",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8026647930122932,
+        "support": 44,
+        "components": []
+      },
+      {
+        "id": "A41",
+        "features": [
+          "aff_carry",
+          "aff_cook",
+          "aff_push"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5402685135804314,
+        "support": 54,
+        "components": []
+      },
+      {
+        "id": "A42",
+        "features": [
+          "aff_carry",
+          "aff_cook",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8914518385611877,
+        "support": 57,
+        "components": []
+      },
+      {
+        "id": "A43",
+        "features": [
+          "aff_carry",
+          "aff_cook",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.6537150711998616,
+        "support": 11,
+        "components": []
+      },
+      {
+        "id": "A44",
+        "features": [
+          "aff_carry",
+          "aff_cut",
+          "aff_drink"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7374582057248975,
+        "support": 18,
+        "components": []
+      },
+      {
+        "id": "A45",
+        "features": [
+          "aff_carry",
+          "aff_cut",
+          "aff_eat"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8306571180292736,
+        "support": 58,
+        "components": []
+      },
+      {
+        "id": "A46",
+        "features": [
+          "aff_carry",
+          "aff_cut",
+          "aff_lift"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5640752072727517,
+        "support": 145,
+        "components": []
+      },
+      {
+        "id": "A47",
+        "features": [
+          "aff_carry",
+          "aff_cut",
+          "aff_move"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6362450029031499,
+        "support": 106,
+        "components": []
+      },
+      {
+        "id": "A48",
+        "features": [
+          "aff_carry",
+          "aff_cut",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8873733390016768,
+        "support": 114,
+        "components": []
+      },
+      {
+        "id": "A49",
+        "features": [
+          "aff_carry",
+          "aff_cut",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7340190444046135,
+        "support": 103,
+        "components": []
+      },
+      {
+        "id": "A50",
+        "features": [
+          "aff_carry",
+          "aff_cut",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8120173934443872,
+        "support": 132,
+        "components": []
+      },
+      {
+        "id": "A51",
+        "features": [
+          "aff_carry",
+          "aff_cut",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.9015840519764954,
+        "support": 13,
+        "components": []
+      },
+      {
+        "id": "A52",
+        "features": [
+          "aff_carry",
+          "aff_drink",
+          "aff_eat"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.0544679146387181,
+        "support": 13,
+        "components": []
+      },
+      {
+        "id": "A53",
+        "features": [
+          "aff_carry",
+          "aff_drink",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6430680565876635,
+        "support": 16,
+        "components": []
+      },
+      {
+        "id": "A54",
+        "features": [
+          "aff_carry",
+          "aff_drink",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.8476986434992253,
+        "support": 6,
+        "components": []
+      },
+      {
+        "id": "A55",
+        "features": [
+          "aff_carry",
+          "aff_eat",
+          "aff_lift"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.586482385446659,
+        "support": 78,
+        "components": []
+      },
+      {
+        "id": "A56",
+        "features": [
+          "aff_carry",
+          "aff_eat",
+          "aff_open"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5430422671859702,
+        "support": 43,
+        "components": []
+      },
+      {
+        "id": "A57",
+        "features": [
+          "aff_carry",
+          "aff_eat",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7254326221483492,
+        "support": 51,
+        "components": []
+      },
+      {
+        "id": "A58",
+        "features": [
+          "aff_carry",
+          "aff_eat",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.712014066867215,
+        "support": 53,
+        "components": []
+      },
+      {
+        "id": "A59",
+        "features": [
+          "aff_carry",
+          "aff_eat",
+          "aff_push"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6689806135961655,
+        "support": 81,
+        "components": []
+      },
+      {
+        "id": "A60",
+        "features": [
+          "aff_carry",
+          "aff_eat",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5789807546774765,
+        "support": 55,
+        "components": []
+      },
+      {
+        "id": "A61",
+        "features": [
+          "aff_carry",
+          "aff_eat",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7231107196183445,
+        "support": 56,
+        "components": []
+      },
+      {
+        "id": "A62",
+        "features": [
+          "aff_carry",
+          "aff_eat",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.618124106616641,
+        "support": 14,
+        "components": []
+      },
+      {
+        "id": "A63",
+        "features": [
+          "aff_carry",
+          "aff_hold",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5252261033389551,
+        "support": 18,
+        "components": []
+      },
+      {
+        "id": "A64",
+        "features": [
+          "aff_carry",
+          "aff_lie",
+          "aff_move"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5497495889152204,
+        "support": 127,
+        "components": []
+      },
+      {
+        "id": "A65",
+        "features": [
+          "aff_carry",
+          "aff_lie",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5660627134442237,
+        "support": 108,
+        "components": []
+      },
+      {
+        "id": "A66",
+        "features": [
+          "aff_carry",
+          "aff_lie",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5217844706213617,
+        "support": 129,
+        "components": []
+      },
+      {
+        "id": "A67",
+        "features": [
+          "aff_carry",
+          "aff_lift",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6011669311117883,
+        "support": 147,
+        "components": []
+      },
+      {
+        "id": "A68",
+        "features": [
+          "aff_carry",
+          "aff_lift",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5492820957427766,
+        "support": 147,
+        "components": []
+      },
+      {
+        "id": "A69",
+        "features": [
+          "aff_carry",
+          "aff_lift",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5927816115486388,
+        "support": 182,
+        "components": []
+      },
+      {
+        "id": "A70",
+        "features": [
+          "aff_carry",
+          "aff_lift",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.571132190457938,
+        "support": 157,
+        "components": []
+      },
+      {
+        "id": "A71",
+        "features": [
+          "aff_carry",
+          "aff_lift",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6294074761667078,
+        "support": 17,
+        "components": []
+      },
+      {
+        "id": "A72",
+        "features": [
+          "aff_carry",
+          "aff_move",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.723586606493724,
+        "support": 113,
+        "components": []
+      },
+      {
+        "id": "A73",
+        "features": [
+          "aff_carry",
+          "aff_move",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5692867666510066,
+        "support": 102,
+        "components": []
+      },
+      {
+        "id": "A74",
+        "features": [
+          "aff_carry",
+          "aff_move",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7646719539602901,
+        "support": 147,
+        "components": []
+      },
+      {
+        "id": "A75",
+        "features": [
+          "aff_carry",
+          "aff_move",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8897087824573334,
+        "support": 15,
+        "components": []
+      },
+      {
+        "id": "A76",
+        "features": [
+          "aff_carry",
+          "aff_open",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6102497539485446,
+        "support": 94,
+        "components": []
+      },
+      {
+        "id": "A77",
+        "features": [
+          "aff_carry",
+          "aff_open",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5454873440343279,
+        "support": 9,
+        "components": []
+      },
+      {
+        "id": "A78",
+        "features": [
+          "aff_carry",
+          "aff_pick",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.737803452783195,
+        "support": 101,
+        "components": []
+      },
+      {
+        "id": "A79",
+        "features": [
+          "aff_carry",
+          "aff_pick",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8798620352605456,
+        "support": 138,
+        "components": []
+      },
+      {
+        "id": "A80",
+        "features": [
+          "aff_carry",
+          "aff_pick",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.924976931551201,
+        "support": 13,
+        "components": []
+      },
+      {
+        "id": "A81",
+        "features": [
+          "aff_carry",
+          "aff_pull",
+          "aff_push"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5523673002731797,
+        "support": 141,
+        "components": []
+      },
+      {
+        "id": "A82",
+        "features": [
+          "aff_carry",
+          "aff_pull",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7985633149015503,
+        "support": 134,
+        "components": []
+      },
+      {
+        "id": "A83",
+        "features": [
+          "aff_carry",
+          "aff_pull",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7930493949189085,
+        "support": 12,
+        "components": []
+      },
+      {
+        "id": "A84",
+        "features": [
+          "aff_carry",
+          "aff_push",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5432509079393482,
+        "support": 146,
+        "components": []
+      },
+      {
+        "id": "A85",
+        "features": [
+          "aff_carry",
+          "aff_push",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6741653768082014,
+        "support": 17,
+        "components": []
+      },
+      {
+        "id": "A86",
+        "features": [
+          "aff_carry",
+          "aff_put",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8461183463824717,
+        "support": 15,
+        "components": []
+      },
+      {
+        "id": "A87",
+        "features": [
+          "aff_clean",
+          "aff_close",
+          "aff_cut"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7818653673606463,
+        "support": 47,
+        "components": []
+      },
+      {
+        "id": "A88",
+        "features": [
+          "aff_clean",
+          "aff_close",
+          "aff_lift"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5021510806358253,
+        "support": 61,
+        "components": []
+      },
+      {
+        "id": "A89",
+        "features": [
+          "aff_clean",
+          "aff_close",
+          "aff_move"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6053830596987915,
+        "support": 46,
+        "components": []
+      },
+      {
+        "id": "A90",
+        "features": [
+          "aff_clean",
+          "aff_close",
+          "aff_open"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.9506789857834002,
+        "support": 55,
+        "components": []
+      },
+      {
+        "id": "A91",
+        "features": [
+          "aff_clean",
+          "aff_close",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.668682715043249,
+        "support": 41,
+        "components": []
+      },
+      {
+        "id": "A92",
+        "features": [
+          "aff_clean",
+          "aff_close",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.9462770739580956,
+        "support": 57,
+        "components": []
+      },
+      {
+        "id": "A93",
+        "features": [
+          "aff_clean",
+          "aff_close",
+          "aff_push"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5303796795993322,
+        "support": 60,
+        "components": []
+      },
+      {
+        "id": "A94",
+        "features": [
+          "aff_clean",
+          "aff_close",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6043522371369285,
+        "support": 48,
+        "components": []
+      },
+      {
+        "id": "A95",
+        "features": [
+          "aff_clean",
+          "aff_close",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6434523218041035,
+        "support": 44,
+        "components": []
+      },
+      {
+        "id": "A96",
+        "features": [
+          "aff_clean",
+          "aff_cook",
+          "aff_cut"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.9586210480227824,
+        "support": 45,
+        "components": []
+      },
+      {
+        "id": "A97",
+        "features": [
+          "aff_clean",
+          "aff_cook",
+          "aff_drink"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.0684876144901974,
+        "support": 9,
+        "components": []
+      },
+      {
+        "id": "A98",
+        "features": [
+          "aff_clean",
+          "aff_cook",
+          "aff_eat"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.2283778607543798,
+        "support": 31,
+        "components": []
+      },
+      {
+        "id": "A99",
+        "features": [
+          "aff_clean",
+          "aff_cook",
+          "aff_lie"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5482768030264052,
+        "support": 39,
+        "components": []
+      },
+      {
+        "id": "A100",
+        "features": [
+          "aff_clean",
+          "aff_cook",
+          "aff_move"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7346520752197065,
+        "support": 42,
+        "components": []
+      },
+      {
+        "id": "A101",
+        "features": [
+          "aff_clean",
+          "aff_cook",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8389130873756176,
+        "support": 39,
+        "components": []
+      },
+      {
+        "id": "A102",
+        "features": [
+          "aff_clean",
+          "aff_cook",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7343845199071855,
+        "support": 37,
+        "components": []
+      },
+      {
+        "id": "A103",
+        "features": [
+          "aff_clean",
+          "aff_cook",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.803539620038607,
+        "support": 47,
+        "components": []
+      },
+      {
+        "id": "A104",
+        "features": [
+          "aff_clean",
+          "aff_cook",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.440252818041407,
+        "support": 8,
+        "components": []
+      },
+      {
+        "id": "A105",
+        "features": [
+          "aff_clean",
+          "aff_cut",
+          "aff_drink"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7246666208821329,
+        "support": 16,
+        "components": []
+      },
+      {
+        "id": "A106",
+        "features": [
+          "aff_clean",
+          "aff_cut",
+          "aff_eat"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6364056730600259,
+        "support": 43,
+        "components": []
+      },
+      {
+        "id": "A107",
+        "features": [
+          "aff_clean",
+          "aff_cut",
+          "aff_lift"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5901727092383983,
+        "support": 134,
+        "components": []
+      },
+      {
+        "id": "A108",
+        "features": [
+          "aff_clean",
+          "aff_cut",
+          "aff_move"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.712526341164669,
+        "support": 103,
+        "components": []
+      },
+      {
+        "id": "A109",
+        "features": [
+          "aff_clean",
+          "aff_cut",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8811391487926191,
+        "support": 102,
+        "components": []
+      },
+      {
+        "id": "A110",
+        "features": [
+          "aff_clean",
+          "aff_cut",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8486723990921721,
+        "support": 104,
+        "components": []
+      },
+      {
+        "id": "A111",
+        "features": [
+          "aff_clean",
+          "aff_cut",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8133304086663241,
+        "support": 119,
+        "components": []
+      },
+      {
+        "id": "A112",
+        "features": [
+          "aff_clean",
+          "aff_cut",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8395214251685168,
+        "support": 11,
+        "components": []
+      },
+      {
+        "id": "A113",
+        "features": [
+          "aff_clean",
+          "aff_drink",
+          "aff_eat"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7917346125706067,
+        "support": 9,
+        "components": []
+      },
+      {
+        "id": "A114",
+        "features": [
+          "aff_clean",
+          "aff_drink",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6835209834859336,
+        "support": 15,
+        "components": []
+      },
+      {
+        "id": "A115",
+        "features": [
+          "aff_clean",
+          "aff_drink",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.7703685639077724,
+        "support": 5,
+        "components": []
+      },
+      {
+        "id": "A116",
+        "features": [
+          "aff_clean",
+          "aff_eat",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.682788070330889,
+        "support": 44,
+        "components": []
+      },
+      {
+        "id": "A117",
+        "features": [
+          "aff_clean",
+          "aff_eat",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6533760903088853,
+        "support": 45,
+        "components": []
+      },
+      {
+        "id": "A118",
+        "features": [
+          "aff_clean",
+          "aff_eat",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5639505938446034,
+        "support": 43,
+        "components": []
+      },
+      {
+        "id": "A119",
+        "features": [
+          "aff_clean",
+          "aff_eat",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.386643342436029,
+        "support": 10,
+        "components": []
+      },
+      {
+        "id": "A120",
+        "features": [
+          "aff_clean",
+          "aff_hold",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5650962019868473,
+        "support": 158,
+        "components": []
+      },
+      {
+        "id": "A121",
+        "features": [
+          "aff_clean",
+          "aff_lie",
+          "aff_move"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5980456895671675,
+        "support": 120,
+        "components": []
+      },
+      {
+        "id": "A122",
+        "features": [
+          "aff_clean",
+          "aff_lie",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.510711508848525,
+        "support": 92,
+        "components": []
+      },
+      {
+        "id": "A123",
+        "features": [
+          "aff_clean",
+          "aff_lie",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5205537021039807,
+        "support": 116,
+        "components": []
+      },
+      {
+        "id": "A124",
+        "features": [
+          "aff_clean",
+          "aff_lie",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5470353218211245,
+        "support": 105,
+        "components": []
+      },
+      {
+        "id": "A125",
+        "features": [
+          "aff_clean",
+          "aff_lift",
+          "aff_move"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.541303111578243,
+        "support": 149,
+        "components": []
+      },
+      {
+        "id": "A126",
+        "features": [
+          "aff_clean",
+          "aff_lift",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5832602395473958,
+        "support": 130,
+        "components": []
+      },
+      {
+        "id": "A127",
+        "features": [
+          "aff_clean",
+          "aff_lift",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.681120789467935,
+        "support": 151,
+        "components": []
+      },
+      {
+        "id": "A128",
+        "features": [
+          "aff_clean",
+          "aff_lift",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6057541572271523,
+        "support": 166,
+        "components": []
+      },
+      {
+        "id": "A129",
+        "features": [
+          "aff_clean",
+          "aff_lift",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5757048872528922,
+        "support": 142,
+        "components": []
+      },
+      {
+        "id": "A130",
+        "features": [
+          "aff_clean",
+          "aff_lift",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5402429181999662,
+        "support": 14,
+        "components": []
+      },
+      {
+        "id": "A131",
+        "features": [
+          "aff_clean",
+          "aff_move",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6759012116136617,
+        "support": 97,
+        "components": []
+      },
+      {
+        "id": "A132",
+        "features": [
+          "aff_clean",
+          "aff_move",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7766932149938872,
+        "support": 113,
+        "components": []
+      },
+      {
+        "id": "A133",
+        "features": [
+          "aff_clean",
+          "aff_move",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7695799399885584,
+        "support": 133,
+        "components": []
+      },
+      {
+        "id": "A134",
+        "features": [
+          "aff_clean",
+          "aff_move",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7715566916789638,
+        "support": 12,
+        "components": []
+      },
+      {
+        "id": "A135",
+        "features": [
+          "aff_clean",
+          "aff_open",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5979361755044154,
+        "support": 80,
+        "components": []
+      },
+      {
+        "id": "A136",
+        "features": [
+          "aff_clean",
+          "aff_open",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6605827858775127,
+        "support": 89,
+        "components": []
+      },
+      {
+        "id": "A137",
+        "features": [
+          "aff_clean",
+          "aff_pick",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7815512720369768,
+        "support": 95,
+        "components": []
+      },
+      {
+        "id": "A138",
+        "features": [
+          "aff_clean",
+          "aff_pick",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.853390340587343,
+        "support": 121,
+        "components": []
+      },
+      {
+        "id": "A139",
+        "features": [
+          "aff_clean",
+          "aff_pick",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.949925674157095,
+        "support": 12,
+        "components": []
+      },
+      {
+        "id": "A140",
+        "features": [
+          "aff_clean",
+          "aff_pull",
+          "aff_push"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7125451593288562,
+        "support": 149,
+        "components": []
+      },
+      {
+        "id": "A141",
+        "features": [
+          "aff_clean",
+          "aff_pull",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8885168815192556,
+        "support": 132,
+        "components": []
+      },
+      {
+        "id": "A142",
+        "features": [
+          "aff_clean",
+          "aff_pull",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6857033132468492,
+        "support": 95,
+        "components": []
+      },
+      {
+        "id": "A143",
+        "features": [
+          "aff_clean",
+          "aff_pull",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8110294693742106,
+        "support": 11,
+        "components": []
+      },
+      {
+        "id": "A144",
+        "features": [
+          "aff_clean",
+          "aff_push",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5918894156544531,
+        "support": 138,
+        "components": []
+      },
+      {
+        "id": "A145",
+        "features": [
+          "aff_clean",
+          "aff_push",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5850008188414598,
+        "support": 14,
+        "components": []
+      },
+      {
+        "id": "A146",
+        "features": [
+          "aff_clean",
+          "aff_put",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7279662556041021,
+        "support": 12,
+        "components": []
+      },
+      {
+        "id": "A147",
+        "features": [
+          "aff_close",
+          "aff_cook",
+          "aff_cut"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8646794950410442,
+        "support": 13,
+        "components": []
+      },
+      {
+        "id": "A148",
+        "features": [
+          "aff_close",
+          "aff_cook",
+          "aff_drink"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.810794086563774,
+        "support": 6,
+        "components": []
+      },
+      {
+        "id": "A149",
+        "features": [
+          "aff_close",
+          "aff_cook",
+          "aff_eat"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8880724405498085,
+        "support": 7,
+        "components": []
+      },
+      {
+        "id": "A150",
+        "features": [
+          "aff_close",
+          "aff_cook",
+          "aff_lie"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5173933890032568,
+        "support": 12,
+        "components": []
+      },
+      {
+        "id": "A151",
+        "features": [
+          "aff_close",
+          "aff_cook",
+          "aff_move"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7097033921376183,
+        "support": 13,
+        "components": []
+      },
+      {
+        "id": "A152",
+        "features": [
+          "aff_close",
+          "aff_cook",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.9621803412749665,
+        "support": 14,
+        "components": []
+      },
+      {
+        "id": "A153",
+        "features": [
+          "aff_close",
+          "aff_cook",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6691334685695847,
+        "support": 11,
+        "components": []
+      },
+      {
+        "id": "A154",
+        "features": [
+          "aff_close",
+          "aff_cook",
+          "aff_push"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5120976847618809,
+        "support": 15,
+        "components": []
+      },
+      {
+        "id": "A155",
+        "features": [
+          "aff_close",
+          "aff_cook",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6661129560627567,
+        "support": 13,
+        "components": []
+      },
+      {
+        "id": "A156",
+        "features": [
+          "aff_close",
+          "aff_cook",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.2017303565475925,
+        "support": 2,
+        "components": []
+      },
+      {
+        "id": "A157",
+        "features": [
+          "aff_close",
+          "aff_cut",
+          "aff_drink"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.497744724476004,
+        "support": 11,
+        "components": []
+      },
+      {
+        "id": "A158",
+        "features": [
+          "aff_close",
+          "aff_cut",
+          "aff_hold"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7041163516435579,
+        "support": 56,
+        "components": []
+      },
+      {
+        "id": "A159",
+        "features": [
+          "aff_close",
+          "aff_cut",
+          "aff_lie"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7508877520235823,
+        "support": 38,
+        "components": []
+      },
+      {
+        "id": "A160",
+        "features": [
+          "aff_close",
+          "aff_cut",
+          "aff_lift"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8103963588710396,
+        "support": 53,
+        "components": []
+      },
+      {
+        "id": "A161",
+        "features": [
+          "aff_close",
+          "aff_cut",
+          "aff_move"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.0542102860807137,
+        "support": 46,
+        "components": []
+      },
+      {
+        "id": "A162",
+        "features": [
+          "aff_close",
+          "aff_cut",
+          "aff_open"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.1533731477004092,
+        "support": 43,
+        "components": []
+      },
+      {
+        "id": "A163",
+        "features": [
+          "aff_close",
+          "aff_cut",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.1416074924235116,
+        "support": 42,
+        "components": []
+      },
+      {
+        "id": "A164",
+        "features": [
+          "aff_close",
+          "aff_cut",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.202200637948262,
+        "support": 47,
+        "components": []
+      },
+      {
+        "id": "A165",
+        "features": [
+          "aff_close",
+          "aff_cut",
+          "aff_push"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.9279136124708965,
+        "support": 57,
+        "components": []
+      },
+      {
+        "id": "A166",
+        "features": [
+          "aff_close",
+          "aff_cut",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.9196480738705184,
+        "support": 42,
+        "components": []
+      },
+      {
+        "id": "A167",
+        "features": [
+          "aff_close",
+          "aff_cut",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.9716515633111635,
+        "support": 39,
+        "components": []
+      },
+      {
+        "id": "A168",
+        "features": [
+          "aff_close",
+          "aff_drink",
+          "aff_hold"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5952937215112226,
+        "support": 9,
+        "components": []
+      },
+      {
+        "id": "A169",
+        "features": [
+          "aff_close",
+          "aff_drink",
+          "aff_lie"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.1351911489880806,
+        "support": 10,
+        "components": []
+      },
+      {
+        "id": "A170",
+        "features": [
+          "aff_close",
+          "aff_drink",
+          "aff_lift"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6388504831434542,
+        "support": 8,
+        "components": []
+      },
+      {
+        "id": "A171",
+        "features": [
+          "aff_close",
+          "aff_drink",
+          "aff_move"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.024314924544949,
+        "support": 8,
+        "components": []
+      },
+      {
+        "id": "A172",
+        "features": [
+          "aff_close",
+          "aff_drink",
+          "aff_open"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7209155111977464,
+        "support": 5,
+        "components": []
+      },
+      {
+        "id": "A173",
+        "features": [
+          "aff_close",
+          "aff_drink",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.6081489734645822,
+        "support": 12,
+        "components": []
+      },
+      {
+        "id": "A174",
+        "features": [
+          "aff_close",
+          "aff_drink",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6807955174083211,
+        "support": 5,
+        "components": []
+      },
+      {
+        "id": "A175",
+        "features": [
+          "aff_close",
+          "aff_drink",
+          "aff_push"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.0890734502264496,
+        "support": 12,
+        "components": []
+      },
+      {
+        "id": "A176",
+        "features": [
+          "aff_close",
+          "aff_drink",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6930424576849669,
+        "support": 6,
+        "components": []
+      },
+      {
+        "id": "A177",
+        "features": [
+          "aff_close",
+          "aff_drink",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.1068359482329526,
+        "support": 8,
+        "components": []
+      },
+      {
+        "id": "A178",
+        "features": [
+          "aff_close",
+          "aff_eat",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5312766714328785,
+        "support": 12,
+        "components": []
+      },
+      {
+        "id": "A179",
+        "features": [
+          "aff_close",
+          "aff_hold",
+          "aff_move"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5668398255262498,
+        "support": 57,
+        "components": []
+      },
+      {
+        "id": "A180",
+        "features": [
+          "aff_close",
+          "aff_hold",
+          "aff_open"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8175270822205087,
+        "support": 62,
+        "components": []
+      },
+      {
+        "id": "A181",
+        "features": [
+          "aff_close",
+          "aff_hold",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6534012604381677,
+        "support": 52,
+        "components": []
+      },
+      {
+        "id": "A182",
+        "features": [
+          "aff_close",
+          "aff_hold",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.710715715044758,
+        "support": 58,
+        "components": []
+      },
+      {
+        "id": "A183",
+        "features": [
+          "aff_close",
+          "aff_lie",
+          "aff_move"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8084730860646356,
+        "support": 47,
+        "components": []
+      },
+      {
+        "id": "A184",
+        "features": [
+          "aff_close",
+          "aff_lie",
+          "aff_open"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.9091192606220599,
+        "support": 44,
+        "components": []
+      },
+      {
+        "id": "A185",
+        "features": [
+          "aff_close",
+          "aff_lie",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8002561173267845,
+        "support": 39,
+        "components": []
+      },
+      {
+        "id": "A186",
+        "features": [
+          "aff_close",
+          "aff_lie",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.695727549858352,
+        "support": 37,
+        "components": []
+      },
+      {
+        "id": "A187",
+        "features": [
+          "aff_close",
+          "aff_lie",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5256529666743707,
+        "support": 37,
+        "components": []
+      },
+      {
+        "id": "A188",
+        "features": [
+          "aff_close",
+          "aff_lie",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7297259658799208,
+        "support": 40,
+        "components": []
+      },
+      {
+        "id": "A189",
+        "features": [
+          "aff_close",
+          "aff_lift",
+          "aff_move"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5971513489757136,
+        "support": 50,
+        "components": []
+      },
+      {
+        "id": "A190",
+        "features": [
+          "aff_close",
+          "aff_lift",
+          "aff_open"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8407165295289053,
+        "support": 54,
+        "components": []
+      },
+      {
+        "id": "A191",
+        "features": [
+          "aff_close",
+          "aff_lift",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7346983377669228,
+        "support": 48,
+        "components": []
+      },
+      {
+        "id": "A192",
+        "features": [
+          "aff_close",
+          "aff_lift",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8369641792489791,
+        "support": 56,
+        "components": []
+      },
+      {
+        "id": "A193",
+        "features": [
+          "aff_close",
+          "aff_lift",
+          "aff_push"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5033048817722379,
+        "support": 64,
+        "components": []
+      },
+      {
+        "id": "A194",
+        "features": [
+          "aff_close",
+          "aff_lift",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5733635398048744,
+        "support": 51,
+        "components": []
+      },
+      {
+        "id": "A195",
+        "features": [
+          "aff_close",
+          "aff_lift",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5743118592281128,
+        "support": 45,
+        "components": []
+      },
+      {
+        "id": "A196",
+        "features": [
+          "aff_close",
+          "aff_move",
+          "aff_open"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.1083979375888315,
+        "support": 48,
+        "components": []
+      },
+      {
+        "id": "A197",
+        "features": [
+          "aff_close",
+          "aff_move",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8865479334693688,
+        "support": 38,
+        "components": []
+      },
+      {
+        "id": "A198",
+        "features": [
+          "aff_close",
+          "aff_move",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.9812665687037158,
+        "support": 44,
+        "components": []
+      },
+      {
+        "id": "A199",
+        "features": [
+          "aff_close",
+          "aff_move",
+          "aff_push"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6811299620012575,
+        "support": 52,
+        "components": []
+      },
+      {
+        "id": "A200",
+        "features": [
+          "aff_close",
+          "aff_move",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7882024678235767,
+        "support": 43,
+        "components": []
+      },
+      {
+        "id": "A201",
+        "features": [
+          "aff_close",
+          "aff_move",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8907834307299578,
+        "support": 42,
+        "components": []
+      },
+      {
+        "id": "A202",
+        "features": [
+          "aff_close",
+          "aff_open",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.0791275600964103,
+        "support": 39,
+        "components": []
+      },
+      {
+        "id": "A203",
+        "features": [
+          "aff_close",
+          "aff_open",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.2555013714755165,
+        "support": 49,
+        "components": []
+      },
+      {
+        "id": "A204",
+        "features": [
+          "aff_close",
+          "aff_open",
+          "aff_push"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.885474430170399,
+        "support": 54,
+        "components": []
+      },
+      {
+        "id": "A205",
+        "features": [
+          "aff_close",
+          "aff_open",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.9777961264182793,
+        "support": 44,
+        "components": []
+      },
+      {
+        "id": "A206",
+        "features": [
+          "aff_close",
+          "aff_open",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.9832796013062826,
+        "support": 39,
+        "components": []
+      },
+      {
+        "id": "A207",
+        "features": [
+          "aff_close",
+          "aff_pick",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.013032080578488,
+        "support": 38,
+        "components": []
+      },
+      {
+        "id": "A208",
+        "features": [
+          "aff_close",
+          "aff_pick",
+          "aff_push"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8400808589993611,
+        "support": 51,
+        "components": []
+      },
+      {
+        "id": "A209",
+        "features": [
+          "aff_close",
+          "aff_pick",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.9895609679978655,
+        "support": 44,
+        "components": []
+      },
+      {
+        "id": "A210",
+        "features": [
+          "aff_close",
+          "aff_pick",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7972187051649232,
+        "support": 32,
+        "components": []
+      },
+      {
+        "id": "A211",
+        "features": [
+          "aff_close",
+          "aff_pull",
+          "aff_push"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8817220798904728,
+        "support": 56,
+        "components": []
+      },
+      {
+        "id": "A212",
+        "features": [
+          "aff_close",
+          "aff_pull",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.0036340989699744,
+        "support": 47,
+        "components": []
+      },
+      {
+        "id": "A213",
+        "features": [
+          "aff_close",
+          "aff_pull",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.9931700268407371,
+        "support": 41,
+        "components": []
+      },
+      {
+        "id": "A214",
+        "features": [
+          "aff_close",
+          "aff_push",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5983188135423454,
+        "support": 50,
+        "components": []
+      },
+      {
+        "id": "A215",
+        "features": [
+          "aff_close",
+          "aff_push",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7244302733052105,
+        "support": 50,
+        "components": []
+      },
+      {
+        "id": "A216",
+        "features": [
+          "aff_close",
+          "aff_put",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6060309443317142,
+        "support": 33,
+        "components": []
+      },
+      {
+        "id": "A217",
+        "features": [
+          "aff_cook",
+          "aff_cut",
+          "aff_drink"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.6226753454188356,
+        "support": 10,
+        "components": []
+      },
+      {
+        "id": "A218",
+        "features": [
+          "aff_cook",
+          "aff_cut",
+          "aff_eat"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.9320973295070272,
+        "support": 40,
+        "components": []
+      },
+      {
+        "id": "A219",
+        "features": [
+          "aff_cook",
+          "aff_cut",
+          "aff_hold"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.9594484624953128,
+        "support": 58,
+        "components": []
+      },
+      {
+        "id": "A220",
+        "features": [
+          "aff_cook",
+          "aff_cut",
+          "aff_lie"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.1177320142831892,
+        "support": 44,
+        "components": []
+      },
+      {
+        "id": "A221",
+        "features": [
+          "aff_cook",
+          "aff_cut",
+          "aff_lift"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.0493292831900345,
+        "support": 54,
+        "components": []
+      },
+      {
+        "id": "A222",
+        "features": [
+          "aff_cook",
+          "aff_cut",
+          "aff_move"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.274451077736962,
+        "support": 46,
+        "components": []
+      },
+      {
+        "id": "A223",
+        "features": [
+          "aff_cook",
+          "aff_cut",
+          "aff_open"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.703456299220142,
+        "support": 22,
+        "components": []
+      },
+      {
+        "id": "A224",
+        "features": [
+          "aff_cook",
+          "aff_cut",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.4308411539794097,
+        "support": 45,
+        "components": []
+      },
+      {
+        "id": "A225",
+        "features": [
+          "aff_cook",
+          "aff_cut",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.2611732857317923,
+        "support": 40,
+        "components": []
+      },
+      {
+        "id": "A226",
+        "features": [
+          "aff_cook",
+          "aff_cut",
+          "aff_push"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.9763041504899594,
+        "support": 48,
+        "components": []
+      },
+      {
+        "id": "A227",
+        "features": [
+          "aff_cook",
+          "aff_cut",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.3534629612460711,
+        "support": 52,
+        "components": []
+      },
+      {
+        "id": "A228",
+        "features": [
+          "aff_cook",
+          "aff_cut",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8241675862381055,
+        "support": 27,
+        "components": []
+      },
+      {
+        "id": "A229",
+        "features": [
+          "aff_cook",
+          "aff_cut",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.8890800444233289,
+        "support": 8,
+        "components": []
+      },
+      {
+        "id": "A230",
+        "features": [
+          "aff_cook",
+          "aff_drink",
+          "aff_eat"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.7542818763004315,
+        "support": 6,
+        "components": []
+      },
+      {
+        "id": "A231",
+        "features": [
+          "aff_cook",
+          "aff_drink",
+          "aff_hold"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.103216557841477,
+        "support": 12,
+        "components": []
+      },
+      {
+        "id": "A232",
+        "features": [
+          "aff_cook",
+          "aff_drink",
+          "aff_lie"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.4507421113577452,
+        "support": 11,
+        "components": []
+      },
+      {
+        "id": "A233",
+        "features": [
+          "aff_cook",
+          "aff_drink",
+          "aff_lift"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.1775449718273314,
+        "support": 11,
+        "components": []
+      },
+      {
+        "id": "A234",
+        "features": [
+          "aff_cook",
+          "aff_drink",
+          "aff_move"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.4676992425154098,
+        "support": 10,
+        "components": []
+      },
+      {
+        "id": "A235",
+        "features": [
+          "aff_cook",
+          "aff_drink",
+          "aff_open"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.9411563028539947,
+        "support": 5,
+        "components": []
+      },
+      {
+        "id": "A236",
+        "features": [
+          "aff_cook",
+          "aff_drink",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.7413783957069577,
+        "support": 11,
+        "components": []
+      },
+      {
+        "id": "A237",
+        "features": [
+          "aff_cook",
+          "aff_drink",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.4888228850778131,
+        "support": 9,
+        "components": []
+      },
+      {
+        "id": "A238",
+        "features": [
+          "aff_cook",
+          "aff_drink",
+          "aff_push"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.2223028724688252,
+        "support": 11,
+        "components": []
+      },
+      {
+        "id": "A239",
+        "features": [
+          "aff_cook",
+          "aff_drink",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.519418977153965,
+        "support": 11,
+        "components": []
+      },
+      {
+        "id": "A240",
+        "features": [
+          "aff_cook",
+          "aff_drink",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.1935453651218186,
+        "support": 7,
+        "components": []
+      },
+      {
+        "id": "A241",
+        "features": [
+          "aff_cook",
+          "aff_drink",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 2.627555389757521,
+        "support": 3,
+        "components": []
+      },
+      {
+        "id": "A242",
+        "features": [
+          "aff_cook",
+          "aff_eat",
+          "aff_hold"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.3256271793339767,
+        "support": 44,
+        "components": []
+      },
+      {
+        "id": "A243",
+        "features": [
+          "aff_cook",
+          "aff_eat",
+          "aff_lie"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.3432703100878165,
+        "support": 29,
+        "components": []
+      },
+      {
+        "id": "A244",
+        "features": [
+          "aff_cook",
+          "aff_eat",
+          "aff_lift"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.3663389778588424,
+        "support": 39,
+        "components": []
+      },
+      {
+        "id": "A245",
+        "features": [
+          "aff_cook",
+          "aff_eat",
+          "aff_move"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.4894391624851535,
+        "support": 30,
+        "components": []
+      },
+      {
+        "id": "A246",
+        "features": [
+          "aff_cook",
+          "aff_eat",
+          "aff_open"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.1992849201862286,
+        "support": 19,
+        "components": []
+      },
+      {
+        "id": "A247",
+        "features": [
+          "aff_cook",
+          "aff_eat",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.8219588200286387,
+        "support": 35,
+        "components": []
+      },
+      {
+        "id": "A248",
+        "features": [
+          "aff_cook",
+          "aff_eat",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.7410864486267108,
+        "support": 34,
+        "components": []
+      },
+      {
+        "id": "A249",
+        "features": [
+          "aff_cook",
+          "aff_eat",
+          "aff_push"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.4611072978242157,
+        "support": 41,
+        "components": []
+      },
+      {
+        "id": "A250",
+        "features": [
+          "aff_cook",
+          "aff_eat",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.6555692510860547,
+        "support": 37,
+        "components": []
+      },
+      {
+        "id": "A251",
+        "features": [
+          "aff_cook",
+          "aff_eat",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.3488166431922803,
+        "support": 24,
+        "components": []
+      },
+      {
+        "id": "A252",
+        "features": [
+          "aff_cook",
+          "aff_eat",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 2.649295154171754,
+        "support": 9,
+        "components": []
+      },
+      {
+        "id": "A253",
+        "features": [
+          "aff_cook",
+          "aff_hold",
+          "aff_lie"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5029630616742313,
+        "support": 48,
+        "components": []
+      },
+      {
+        "id": "A254",
+        "features": [
+          "aff_cook",
+          "aff_hold",
+          "aff_move"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6758549841362572,
+        "support": 51,
+        "components": []
+      },
+      {
+        "id": "A255",
+        "features": [
+          "aff_cook",
+          "aff_hold",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8142186328010094,
+        "support": 49,
+        "components": []
+      },
+      {
+        "id": "A256",
+        "features": [
+          "aff_cook",
+          "aff_hold",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6547031355587417,
+        "support": 44,
+        "components": []
+      },
+      {
+        "id": "A257",
+        "features": [
+          "aff_cook",
+          "aff_hold",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7608819235170253,
+        "support": 58,
+        "components": []
+      },
+      {
+        "id": "A258",
+        "features": [
+          "aff_cook",
+          "aff_hold",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.5057534137463102,
+        "support": 11,
+        "components": []
+      },
+      {
+        "id": "A259",
+        "features": [
+          "aff_cook",
+          "aff_lie",
+          "aff_lift"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6432494363193889,
+        "support": 47,
+        "components": []
+      },
+      {
+        "id": "A260",
+        "features": [
+          "aff_cook",
+          "aff_lie",
+          "aff_move"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.9162358968271214,
+        "support": 42,
+        "components": []
+      },
+      {
+        "id": "A261",
+        "features": [
+          "aff_cook",
+          "aff_lie",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.9404542034462483,
+        "support": 36,
+        "components": []
+      },
+      {
+        "id": "A262",
+        "features": [
+          "aff_cook",
+          "aff_lie",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7707863358930752,
+        "support": 32,
+        "components": []
+      },
+      {
+        "id": "A263",
+        "features": [
+          "aff_cook",
+          "aff_lie",
+          "aff_push"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5267391930881643,
+        "support": 40,
+        "components": []
+      },
+      {
+        "id": "A264",
+        "features": [
+          "aff_cook",
+          "aff_lie",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8961759576087438,
+        "support": 43,
+        "components": []
+      },
+      {
+        "id": "A265",
+        "features": [
+          "aff_cook",
+          "aff_lie",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5569241814635986,
+        "support": 27,
+        "components": []
+      },
+      {
+        "id": "A266",
+        "features": [
+          "aff_cook",
+          "aff_lie",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.4883052648814399,
+        "support": 7,
+        "components": []
+      },
+      {
+        "id": "A267",
+        "features": [
+          "aff_cook",
+          "aff_lift",
+          "aff_move"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7971894337226054,
+        "support": 49,
+        "components": []
+      },
+      {
+        "id": "A268",
+        "features": [
+          "aff_cook",
+          "aff_lift",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8679277543274808,
+        "support": 44,
+        "components": []
+      },
+      {
+        "id": "A269",
+        "features": [
+          "aff_cook",
+          "aff_lift",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7695229044058274,
+        "support": 42,
+        "components": []
+      },
+      {
+        "id": "A270",
+        "features": [
+          "aff_cook",
+          "aff_lift",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8507627442117468,
+        "support": 54,
+        "components": []
+      },
+      {
+        "id": "A271",
+        "features": [
+          "aff_cook",
+          "aff_lift",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.571783026432621,
+        "support": 10,
+        "components": []
+      },
+      {
+        "id": "A272",
+        "features": [
+          "aff_cook",
+          "aff_move",
+          "aff_open"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5019601828463255,
+        "support": 21,
+        "components": []
+      },
+      {
+        "id": "A273",
+        "features": [
+          "aff_cook",
+          "aff_move",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.1827746301779936,
+        "support": 41,
+        "components": []
+      },
+      {
+        "id": "A274",
+        "features": [
+          "aff_cook",
+          "aff_move",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.000836669948318,
+        "support": 36,
+        "components": []
+      },
+      {
+        "id": "A275",
+        "features": [
+          "aff_cook",
+          "aff_move",
+          "aff_push"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6636991069398611,
+        "support": 41,
+        "components": []
+      },
+      {
+        "id": "A276",
+        "features": [
+          "aff_cook",
+          "aff_move",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.1390634390492387,
+        "support": 49,
+        "components": []
+      },
+      {
+        "id": "A277",
+        "features": [
+          "aff_cook",
+          "aff_move",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5922304451615142,
+        "support": 25,
+        "components": []
+      },
+      {
+        "id": "A278",
+        "features": [
+          "aff_cook",
+          "aff_move",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.8518869632873993,
+        "support": 9,
+        "components": []
+      },
+      {
+        "id": "A279",
+        "features": [
+          "aff_cook",
+          "aff_open",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6803291653244566,
+        "support": 21,
+        "components": []
+      },
+      {
+        "id": "A280",
+        "features": [
+          "aff_cook",
+          "aff_open",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5048897602418544,
+        "support": 22,
+        "components": []
+      },
+      {
+        "id": "A281",
+        "features": [
+          "aff_cook",
+          "aff_open",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.4307045281727007,
+        "support": 5,
+        "components": []
+      },
+      {
+        "id": "A282",
+        "features": [
+          "aff_cook",
+          "aff_pick",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.2332728722347366,
+        "support": 38,
+        "components": []
+      },
+      {
+        "id": "A283",
+        "features": [
+          "aff_cook",
+          "aff_pick",
+          "aff_push"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.9126856549689745,
+        "support": 44,
+        "components": []
+      },
+      {
+        "id": "A284",
+        "features": [
+          "aff_cook",
+          "aff_pick",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.2757597259952345,
+        "support": 47,
+        "components": []
+      },
+      {
+        "id": "A285",
+        "features": [
+          "aff_cook",
+          "aff_pick",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6872178221788553,
+        "support": 23,
+        "components": []
+      },
+      {
+        "id": "A286",
+        "features": [
+          "aff_cook",
+          "aff_pick",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 2.0302559457655307,
+        "support": 9,
+        "components": []
+      },
+      {
+        "id": "A287",
+        "features": [
+          "aff_cook",
+          "aff_pull",
+          "aff_push"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8378113019038052,
+        "support": 43,
+        "components": []
+      },
+      {
+        "id": "A288",
+        "features": [
+          "aff_cook",
+          "aff_pull",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.1113969097324605,
+        "support": 42,
+        "components": []
+      },
+      {
+        "id": "A289",
+        "features": [
+          "aff_cook",
+          "aff_pull",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5908812262152944,
+        "support": 22,
+        "components": []
+      },
+      {
+        "id": "A290",
+        "features": [
+          "aff_cook",
+          "aff_pull",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.860588088629023,
+        "support": 8,
+        "components": []
+      },
+      {
+        "id": "A291",
+        "features": [
+          "aff_cook",
+          "aff_push",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7351779979986728,
+        "support": 46,
+        "components": []
+      },
+      {
+        "id": "A292",
+        "features": [
+          "aff_cook",
+          "aff_push",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.6165409270741145,
+        "support": 10,
+        "components": []
+      },
+      {
+        "id": "A293",
+        "features": [
+          "aff_cook",
+          "aff_put",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5878607207014724,
+        "support": 26,
+        "components": []
+      },
+      {
+        "id": "A294",
+        "features": [
+          "aff_cook",
+          "aff_put",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.913657031759254,
+        "support": 10,
+        "components": []
+      },
+      {
+        "id": "A295",
+        "features": [
+          "aff_cook",
+          "aff_sit",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.5289429344227863,
+        "support": 6,
+        "components": []
+      },
+      {
+        "id": "A296",
+        "features": [
+          "aff_cut",
+          "aff_drink",
+          "aff_eat"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.345922343499245,
+        "support": 10,
+        "components": []
+      },
+      {
+        "id": "A297",
+        "features": [
+          "aff_cut",
+          "aff_drink",
+          "aff_hold"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6948570583736172,
+        "support": 20,
+        "components": []
+      },
+      {
+        "id": "A298",
+        "features": [
+          "aff_cut",
+          "aff_drink",
+          "aff_lie"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.0240334712014874,
+        "support": 18,
+        "components": []
+      },
+      {
+        "id": "A299",
+        "features": [
+          "aff_cut",
+          "aff_drink",
+          "aff_lift"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8561968417733448,
+        "support": 20,
+        "components": []
+      },
+      {
+        "id": "A300",
+        "features": [
+          "aff_cut",
+          "aff_drink",
+          "aff_move"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.0791423625005938,
+        "support": 17,
+        "components": []
+      },
+      {
+        "id": "A301",
+        "features": [
+          "aff_cut",
+          "aff_drink",
+          "aff_open"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8974398336407248,
+        "support": 12,
+        "components": []
+      },
+      {
+        "id": "A302",
+        "features": [
+          "aff_cut",
+          "aff_drink",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.5597922015063905,
+        "support": 23,
+        "components": []
+      },
+      {
+        "id": "A303",
+        "features": [
+          "aff_cut",
+          "aff_drink",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.0114705077737969,
+        "support": 14,
+        "components": []
+      },
+      {
+        "id": "A304",
+        "features": [
+          "aff_cut",
+          "aff_drink",
+          "aff_push"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.1240982837290485,
+        "support": 25,
+        "components": []
+      },
+      {
+        "id": "A305",
+        "features": [
+          "aff_cut",
+          "aff_drink",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.9103887913148627,
+        "support": 15,
+        "components": []
+      },
+      {
+        "id": "A306",
+        "features": [
+          "aff_cut",
+          "aff_drink",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.036500251077728,
+        "support": 15,
+        "components": []
+      },
+      {
+        "id": "A307",
+        "features": [
+          "aff_cut",
+          "aff_drink",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 2.2191957902896946,
+        "support": 5,
+        "components": []
+      },
+      {
+        "id": "A308",
+        "features": [
+          "aff_cut",
+          "aff_eat",
+          "aff_hold"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6653037181663333,
+        "support": 57,
+        "components": []
+      },
+      {
+        "id": "A309",
+        "features": [
+          "aff_cut",
+          "aff_eat",
+          "aff_lie"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6943755417602399,
+        "support": 38,
+        "components": []
+      },
+      {
+        "id": "A310",
+        "features": [
+          "aff_cut",
+          "aff_eat",
+          "aff_lift"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7909254196019402,
+        "support": 55,
+        "components": []
+      },
+      {
+        "id": "A311",
+        "features": [
+          "aff_cut",
+          "aff_eat",
+          "aff_move"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.9067262996820378,
+        "support": 42,
+        "components": []
+      },
+      {
+        "id": "A312",
+        "features": [
+          "aff_cut",
+          "aff_eat",
+          "aff_open"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5937573749707108,
+        "support": 26,
+        "components": []
+      },
+      {
+        "id": "A313",
+        "features": [
+          "aff_cut",
+          "aff_eat",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.2186266718085013,
+        "support": 48,
+        "components": []
+      },
+      {
+        "id": "A314",
+        "features": [
+          "aff_cut",
+          "aff_eat",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.0567409436476416,
+        "support": 43,
+        "components": []
+      },
+      {
+        "id": "A315",
+        "features": [
+          "aff_cut",
+          "aff_eat",
+          "aff_push"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8356833202434337,
+        "support": 55,
+        "components": []
+      },
+      {
+        "id": "A316",
+        "features": [
+          "aff_cut",
+          "aff_eat",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.0172865400330737,
+        "support": 49,
+        "components": []
+      },
+      {
+        "id": "A317",
+        "features": [
+          "aff_cut",
+          "aff_eat",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8069257713379913,
+        "support": 35,
+        "components": []
+      },
+      {
+        "id": "A318",
+        "features": [
+          "aff_cut",
+          "aff_eat",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.9307807395313674,
+        "support": 11,
+        "components": []
+      },
+      {
+        "id": "A319",
+        "features": [
+          "aff_cut",
+          "aff_hold",
+          "aff_move"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6123359930189483,
+        "support": 120,
+        "components": []
+      },
+      {
+        "id": "A320",
+        "features": [
+          "aff_cut",
+          "aff_hold",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7823367258965909,
+        "support": 119,
+        "components": []
+      },
+      {
+        "id": "A321",
+        "features": [
+          "aff_cut",
+          "aff_hold",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6787162165745866,
+        "support": 113,
+        "components": []
+      },
+      {
+        "id": "A322",
+        "features": [
+          "aff_cut",
+          "aff_hold",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6865285916745439,
+        "support": 135,
+        "components": []
+      },
+      {
+        "id": "A323",
+        "features": [
+          "aff_cut",
+          "aff_hold",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7536223945229438,
+        "support": 13,
+        "components": []
+      },
+      {
+        "id": "A324",
+        "features": [
+          "aff_cut",
+          "aff_lie",
+          "aff_lift"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5183076321889727,
+        "support": 104,
+        "components": []
+      },
+      {
+        "id": "A325",
+        "features": [
+          "aff_cut",
+          "aff_lie",
+          "aff_move"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.802675957742012,
+        "support": 94,
+        "components": []
+      },
+      {
+        "id": "A326",
+        "features": [
+          "aff_cut",
+          "aff_lie",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8565907671566322,
+        "support": 83,
+        "components": []
+      },
+      {
+        "id": "A327",
+        "features": [
+          "aff_cut",
+          "aff_lie",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5755200691207704,
+        "support": 66,
+        "components": []
+      },
+      {
+        "id": "A328",
+        "features": [
+          "aff_cut",
+          "aff_lie",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6584419970138706,
+        "support": 85,
+        "components": []
+      },
+      {
+        "id": "A329",
+        "features": [
+          "aff_cut",
+          "aff_lie",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7026515497483026,
+        "support": 8,
+        "components": []
+      },
+      {
+        "id": "A330",
+        "features": [
+          "aff_cut",
+          "aff_lift",
+          "aff_move"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7311161623621986,
+        "support": 115,
+        "components": []
+      },
+      {
+        "id": "A331",
+        "features": [
+          "aff_cut",
+          "aff_lift",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8919408353433258,
+        "support": 113,
+        "components": []
+      },
+      {
+        "id": "A332",
+        "features": [
+          "aff_cut",
+          "aff_lift",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8311670526360819,
+        "support": 112,
+        "components": []
+      },
+      {
+        "id": "A333",
+        "features": [
+          "aff_cut",
+          "aff_lift",
+          "aff_push"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5206748153780344,
+        "support": 131,
+        "components": []
+      },
+      {
+        "id": "A334",
+        "features": [
+          "aff_cut",
+          "aff_lift",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8177909200631738,
+        "support": 131,
+        "components": []
+      },
+      {
+        "id": "A335",
+        "features": [
+          "aff_cut",
+          "aff_lift",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.9149621779226715,
+        "support": 13,
+        "components": []
+      },
+      {
+        "id": "A336",
+        "features": [
+          "aff_cut",
+          "aff_move",
+          "aff_open"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.615790068458208,
+        "support": 59,
+        "components": []
+      },
+      {
+        "id": "A337",
+        "features": [
+          "aff_cut",
+          "aff_move",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.049827130624299,
+        "support": 90,
+        "components": []
+      },
+      {
+        "id": "A338",
+        "features": [
+          "aff_cut",
+          "aff_move",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8925817808320288,
+        "support": 81,
+        "components": []
+      },
+      {
+        "id": "A339",
+        "features": [
+          "aff_cut",
+          "aff_move",
+          "aff_push"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5742367188530918,
+        "support": 94,
+        "components": []
+      },
+      {
+        "id": "A340",
+        "features": [
+          "aff_cut",
+          "aff_move",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.9724489393866869,
+        "support": 104,
+        "components": []
+      },
+      {
+        "id": "A341",
+        "features": [
+          "aff_cut",
+          "aff_move",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6285567756730471,
+        "support": 65,
+        "components": []
+      },
+      {
+        "id": "A342",
+        "features": [
+          "aff_cut",
+          "aff_move",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.2203839180608858,
+        "support": 12,
+        "components": []
+      },
+      {
+        "id": "A343",
+        "features": [
+          "aff_cut",
+          "aff_open",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7419732986737594,
+        "support": 56,
+        "components": []
+      },
+      {
+        "id": "A344",
+        "features": [
+          "aff_cut",
+          "aff_open",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7756106352792096,
+        "support": 61,
+        "components": []
+      },
+      {
+        "id": "A345",
+        "features": [
+          "aff_cut",
+          "aff_open",
+          "aff_push"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5542549063534395,
+        "support": 78,
+        "components": []
+      },
+      {
+        "id": "A346",
+        "features": [
+          "aff_cut",
+          "aff_open",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6217965727025982,
+        "support": 62,
+        "components": []
+      },
+      {
+        "id": "A347",
+        "features": [
+          "aff_cut",
+          "aff_open",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6812166590791381,
+        "support": 58,
+        "components": []
+      },
+      {
+        "id": "A348",
+        "features": [
+          "aff_cut",
+          "aff_open",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6938409617328083,
+        "support": 6,
+        "components": []
+      },
+      {
+        "id": "A349",
+        "features": [
+          "aff_cut",
+          "aff_pick",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.1191528645470643,
+        "support": 85,
+        "components": []
+      },
+      {
+        "id": "A350",
+        "features": [
+          "aff_cut",
+          "aff_pick",
+          "aff_push"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8144811044110128,
+        "support": 100,
+        "components": []
+      },
+      {
+        "id": "A351",
+        "features": [
+          "aff_cut",
+          "aff_pick",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.206907387991386,
+        "support": 110,
+        "components": []
+      },
+      {
+        "id": "A352",
+        "features": [
+          "aff_cut",
+          "aff_pick",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.639871676285215,
+        "support": 55,
+        "components": []
+      },
+      {
+        "id": "A353",
+        "features": [
+          "aff_cut",
+          "aff_pick",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.3117415311251444,
+        "support": 11,
+        "components": []
+      },
+      {
+        "id": "A354",
+        "features": [
+          "aff_cut",
+          "aff_pull",
+          "aff_push"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8579064479372348,
+        "support": 110,
+        "components": []
+      },
+      {
+        "id": "A355",
+        "features": [
+          "aff_cut",
+          "aff_pull",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.0989330864958065,
+        "support": 104,
+        "components": []
+      },
+      {
+        "id": "A356",
+        "features": [
+          "aff_cut",
+          "aff_pull",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7395367364865861,
+        "support": 64,
+        "components": []
+      },
+      {
+        "id": "A357",
+        "features": [
+          "aff_cut",
+          "aff_pull",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.9414029987285033,
+        "support": 8,
+        "components": []
+      },
+      {
+        "id": "A358",
+        "features": [
+          "aff_cut",
+          "aff_push",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6694827262534072,
+        "support": 108,
+        "components": []
+      },
+      {
+        "id": "A359",
+        "features": [
+          "aff_cut",
+          "aff_push",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5561142178878159,
+        "support": 85,
+        "components": []
+      },
+      {
+        "id": "A360",
+        "features": [
+          "aff_cut",
+          "aff_push",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.9597200785641651,
+        "support": 13,
+        "components": []
+      },
+      {
+        "id": "A361",
+        "features": [
+          "aff_cut",
+          "aff_put",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5377134554920567,
+        "support": 62,
+        "components": []
+      },
+      {
+        "id": "A362",
+        "features": [
+          "aff_cut",
+          "aff_put",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.089782112572151,
+        "support": 11,
+        "components": []
+      },
+      {
+        "id": "A363",
+        "features": [
+          "aff_cut",
+          "aff_sit",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7639085005400051,
+        "support": 7,
+        "components": []
+      },
+      {
+        "id": "A364",
+        "features": [
+          "aff_drink",
+          "aff_eat",
+          "aff_hold"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7394521865080134,
+        "support": 11,
+        "components": []
+      },
+      {
+        "id": "A365",
+        "features": [
+          "aff_drink",
+          "aff_eat",
+          "aff_lie"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.9733184341780216,
+        "support": 9,
+        "components": []
+      },
+      {
+        "id": "A366",
+        "features": [
+          "aff_drink",
+          "aff_eat",
+          "aff_lift"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.0678460405848944,
+        "support": 13,
+        "components": []
+      },
+      {
+        "id": "A367",
+        "features": [
+          "aff_drink",
+          "aff_eat",
+          "aff_move"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.3732677807231086,
+        "support": 12,
+        "components": []
+      },
+      {
+        "id": "A368",
+        "features": [
+          "aff_drink",
+          "aff_eat",
+          "aff_open"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8467248243950313,
+        "support": 6,
+        "components": []
+      },
+      {
+        "id": "A369",
+        "features": [
+          "aff_drink",
+          "aff_eat",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.263954718527234,
+        "support": 9,
+        "components": []
+      },
+      {
+        "id": "A370",
+        "features": [
+          "aff_drink",
+          "aff_eat",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.0942868613907264,
+        "support": 8,
+        "components": []
+      },
+      {
+        "id": "A371",
+        "features": [
+          "aff_drink",
+          "aff_eat",
+          "aff_push"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.9455498705492346,
+        "support": 11,
+        "components": []
+      },
+      {
+        "id": "A372",
+        "features": [
+          "aff_drink",
+          "aff_eat",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.041995299974241,
+        "support": 9,
+        "components": []
+      },
+      {
+        "id": "A373",
+        "features": [
+          "aff_drink",
+          "aff_eat",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.05032373796961,
+        "support": 8,
+        "components": []
+      },
+      {
+        "id": "A374",
+        "features": [
+          "aff_drink",
+          "aff_eat",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 2.8616278782706233,
+        "support": 5,
+        "components": []
+      },
+      {
+        "id": "A375",
+        "features": [
+          "aff_drink",
+          "aff_hold",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7182499379483226,
+        "support": 20,
+        "components": []
+      },
+      {
+        "id": "A376",
+        "features": [
+          "aff_drink",
+          "aff_hold",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.6997369860456737,
+        "support": 6,
+        "components": []
+      },
+      {
+        "id": "A377",
+        "features": [
+          "aff_drink",
+          "aff_lie",
+          "aff_move"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7512743395861222,
+        "support": 16,
+        "components": []
+      },
+      {
+        "id": "A378",
+        "features": [
+          "aff_drink",
+          "aff_lie",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.0474263507761927,
+        "support": 18,
+        "components": []
+      },
+      {
+        "id": "A379",
+        "features": [
+          "aff_drink",
+          "aff_lie",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5900764350767925,
+        "support": 12,
+        "components": []
+      },
+      {
+        "id": "A380",
+        "features": [
+          "aff_drink",
+          "aff_lie",
+          "aff_push"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6337113376403314,
+        "support": 20,
+        "components": []
+      },
+      {
+        "id": "A381",
+        "features": [
+          "aff_drink",
+          "aff_lie",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5000445531560916,
+        "support": 13,
+        "components": []
+      },
+      {
+        "id": "A382",
+        "features": [
+          "aff_drink",
+          "aff_lie",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7002639795781737,
+        "support": 14,
+        "components": []
+      },
+      {
+        "id": "A383",
+        "features": [
+          "aff_drink",
+          "aff_lie",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.4411268950824945,
+        "support": 3,
+        "components": []
+      },
+      {
+        "id": "A384",
+        "features": [
+          "aff_drink",
+          "aff_lift",
+          "aff_move"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5958602287676478,
+        "support": 18,
+        "components": []
+      },
+      {
+        "id": "A385",
+        "features": [
+          "aff_drink",
+          "aff_lift",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8282964295920784,
+        "support": 19,
+        "components": []
+      },
+      {
+        "id": "A386",
+        "features": [
+          "aff_drink",
+          "aff_lift",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.8610767694454011,
+        "support": 6,
+        "components": []
+      },
+      {
+        "id": "A387",
+        "features": [
+          "aff_drink",
+          "aff_move",
+          "aff_open"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6554523613234262,
+        "support": 11,
+        "components": []
+      },
+      {
+        "id": "A388",
+        "features": [
+          "aff_drink",
+          "aff_move",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.1596936526472739,
+        "support": 18,
+        "components": []
+      },
+      {
+        "id": "A389",
+        "features": [
+          "aff_drink",
+          "aff_move",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6153323675340008,
+        "support": 11,
+        "components": []
+      },
+      {
+        "id": "A390",
+        "features": [
+          "aff_drink",
+          "aff_move",
+          "aff_push"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6946853477554409,
+        "support": 19,
+        "components": []
+      },
+      {
+        "id": "A391",
+        "features": [
+          "aff_drink",
+          "aff_move",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5322691537638923,
+        "support": 12,
+        "components": []
+      },
+      {
+        "id": "A392",
+        "features": [
+          "aff_drink",
+          "aff_move",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8125312814492549,
+        "support": 14,
+        "components": []
+      },
+      {
+        "id": "A393",
+        "features": [
+          "aff_drink",
+          "aff_move",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 2.246541210846896,
+        "support": 6,
+        "components": []
+      },
+      {
+        "id": "A394",
+        "features": [
+          "aff_drink",
+          "aff_open",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8338213438015574,
+        "support": 11,
+        "components": []
+      },
+      {
+        "id": "A395",
+        "features": [
+          "aff_drink",
+          "aff_open",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5373027097512966,
+        "support": 9,
+        "components": []
+      },
+      {
+        "id": "A396",
+        "features": [
+          "aff_drink",
+          "aff_open",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.3145333964105537,
+        "support": 2,
+        "components": []
+      },
+      {
+        "id": "A397",
+        "features": [
+          "aff_drink",
+          "aff_pick",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.9607554206892854,
+        "support": 13,
+        "components": []
+      },
+      {
+        "id": "A398",
+        "features": [
+          "aff_drink",
+          "aff_pick",
+          "aff_push"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.1474911633037537,
+        "support": 25,
+        "components": []
+      },
+      {
+        "id": "A399",
+        "features": [
+          "aff_drink",
+          "aff_pick",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.933781670889568,
+        "support": 15,
+        "components": []
+      },
+      {
+        "id": "A400",
+        "features": [
+          "aff_drink",
+          "aff_pick",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.9909002639273861,
+        "support": 14,
+        "components": []
+      },
+      {
+        "id": "A401",
+        "features": [
+          "aff_drink",
+          "aff_pick",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 2.2425886698644,
+        "support": 5,
+        "components": []
+      },
+      {
+        "id": "A402",
+        "features": [
+          "aff_drink",
+          "aff_pull",
+          "aff_push"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5157878641103696,
+        "support": 14,
+        "components": []
+      },
+      {
+        "id": "A403",
+        "features": [
+          "aff_drink",
+          "aff_pull",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8129039687955092,
+        "support": 14,
+        "components": []
+      },
+      {
+        "id": "A404",
+        "features": [
+          "aff_drink",
+          "aff_pull",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.6798783440626954,
+        "support": 3,
+        "components": []
+      },
+      {
+        "id": "A405",
+        "features": [
+          "aff_drink",
+          "aff_push",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6053561243852056,
+        "support": 16,
+        "components": []
+      },
+      {
+        "id": "A406",
+        "features": [
+          "aff_drink",
+          "aff_push",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.7235131466262674,
+        "support": 5,
+        "components": []
+      },
+      {
+        "id": "A407",
+        "features": [
+          "aff_drink",
+          "aff_put",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5277788080380229,
+        "support": 11,
+        "components": []
+      },
+      {
+        "id": "A408",
+        "features": [
+          "aff_drink",
+          "aff_put",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.797485749997186,
+        "support": 4,
+        "components": []
+      },
+      {
+        "id": "A409",
+        "features": [
+          "aff_drink",
+          "aff_sit",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.6359152206415792,
+        "support": 3,
+        "components": []
+      },
+      {
+        "id": "A410",
+        "features": [
+          "aff_eat",
+          "aff_hold",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5774709646947978,
+        "support": 51,
+        "components": []
+      },
+      {
+        "id": "A411",
+        "features": [
+          "aff_eat",
+          "aff_hold",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5827445420764101,
+        "support": 54,
+        "components": []
+      },
+      {
+        "id": "A412",
+        "features": [
+          "aff_eat",
+          "aff_hold",
+          "aff_push"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5085964362983778,
+        "support": 80,
+        "components": []
+      },
+      {
+        "id": "A413",
+        "features": [
+          "aff_eat",
+          "aff_hold",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5387814186552939,
+        "support": 54,
+        "components": []
+      },
+      {
+        "id": "A414",
+        "features": [
+          "aff_eat",
+          "aff_hold",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.4701624491630896,
+        "support": 14,
+        "components": []
+      },
+      {
+        "id": "A415",
+        "features": [
+          "aff_eat",
+          "aff_lie",
+          "aff_move"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.51273119248589,
+        "support": 37,
+        "components": []
+      },
+      {
+        "id": "A416",
+        "features": [
+          "aff_eat",
+          "aff_lie",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6355303253536122,
+        "support": 35,
+        "components": []
+      },
+      {
+        "id": "A417",
+        "features": [
+          "aff_eat",
+          "aff_lie",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5546579539516843,
+        "support": 34,
+        "components": []
+      },
+      {
+        "id": "A418",
+        "features": [
+          "aff_eat",
+          "aff_lie",
+          "aff_push"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5123504498668342,
+        "support": 52,
+        "components": []
+      },
+      {
+        "id": "A419",
+        "features": [
+          "aff_eat",
+          "aff_lie",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7455344154520185,
+        "support": 43,
+        "components": []
+      },
+      {
+        "id": "A420",
+        "features": [
+          "aff_eat",
+          "aff_lie",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.3450836377292315,
+        "support": 8,
+        "components": []
+      },
+      {
+        "id": "A421",
+        "features": [
+          "aff_eat",
+          "aff_lift",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6781861275035805,
+        "support": 48,
+        "components": []
+      },
+      {
+        "id": "A422",
+        "features": [
+          "aff_eat",
+          "aff_lift",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6869259127255136,
+        "support": 51,
+        "components": []
+      },
+      {
+        "id": "A423",
+        "features": [
+          "aff_eat",
+          "aff_lift",
+          "aff_push"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6053976993938676,
+        "support": 75,
+        "components": []
+      },
+      {
+        "id": "A424",
+        "features": [
+          "aff_eat",
+          "aff_lift",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5553176096294097,
+        "support": 53,
+        "components": []
+      },
+      {
+        "id": "A425",
+        "features": [
+          "aff_eat",
+          "aff_lift",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7541884223506383,
+        "support": 57,
+        "components": []
+      },
+      {
+        "id": "A426",
+        "features": [
+          "aff_eat",
+          "aff_lift",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.5573942659036002,
+        "support": 13,
+        "components": []
+      },
+      {
+        "id": "A427",
+        "features": [
+          "aff_eat",
+          "aff_move",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.9301191792567433,
+        "support": 42,
+        "components": []
+      },
+      {
+        "id": "A428",
+        "features": [
+          "aff_eat",
+          "aff_move",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7514826414660908,
+        "support": 37,
+        "components": []
+      },
+      {
+        "id": "A429",
+        "features": [
+          "aff_eat",
+          "aff_move",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7316902575602344,
+        "support": 43,
+        "components": []
+      },
+      {
+        "id": "A430",
+        "features": [
+          "aff_eat",
+          "aff_move",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.530588815116934,
+        "support": 31,
+        "components": []
+      },
+      {
+        "id": "A431",
+        "features": [
+          "aff_eat",
+          "aff_move",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.7758046366279416,
+        "support": 11,
+        "components": []
+      },
+      {
+        "id": "A432",
+        "features": [
+          "aff_eat",
+          "aff_open",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5652654191764047,
+        "support": 26,
+        "components": []
+      },
+      {
+        "id": "A433",
+        "features": [
+          "aff_eat",
+          "aff_open",
+          "aff_push"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6011782937736398,
+        "support": 43,
+        "components": []
+      },
+      {
+        "id": "A434",
+        "features": [
+          "aff_eat",
+          "aff_open",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7895662733001942,
+        "support": 34,
+        "components": []
+      },
+      {
+        "id": "A435",
+        "features": [
+          "aff_eat",
+          "aff_open",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.6239550804988574,
+        "support": 8,
+        "components": []
+      },
+      {
+        "id": "A436",
+        "features": [
+          "aff_eat",
+          "aff_pick",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.0566033263658627,
+        "support": 42,
+        "components": []
+      },
+      {
+        "id": "A437",
+        "features": [
+          "aff_eat",
+          "aff_pick",
+          "aff_push"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7229440281450742,
+        "support": 48,
+        "components": []
+      },
+      {
+        "id": "A438",
+        "features": [
+          "aff_eat",
+          "aff_pick",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.0200601328302137,
+        "support": 48,
+        "components": []
+      },
+      {
+        "id": "A439",
+        "features": [
+          "aff_eat",
+          "aff_pick",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6422664253210871,
+        "support": 29,
+        "components": []
+      },
+      {
+        "id": "A440",
+        "features": [
+          "aff_eat",
+          "aff_pick",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.8588634483926565,
+        "support": 10,
+        "components": []
+      },
+      {
+        "id": "A441",
+        "features": [
+          "aff_eat",
+          "aff_pull",
+          "aff_push"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7888422261176312,
+        "support": 54,
+        "components": []
+      },
+      {
+        "id": "A442",
+        "features": [
+          "aff_eat",
+          "aff_pull",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.968175297461202,
+        "support": 48,
+        "components": []
+      },
+      {
+        "id": "A443",
+        "features": [
+          "aff_eat",
+          "aff_pull",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7784338155436853,
+        "support": 35,
+        "components": []
+      },
+      {
+        "id": "A444",
+        "features": [
+          "aff_eat",
+          "aff_pull",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.5838350867094322,
+        "support": 8,
+        "components": []
+      },
+      {
+        "id": "A445",
+        "features": [
+          "aff_eat",
+          "aff_push",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5810273156630533,
+        "support": 52,
+        "components": []
+      },
+      {
+        "id": "A446",
+        "features": [
+          "aff_eat",
+          "aff_push",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7632282410280115,
+        "support": 55,
+        "components": []
+      },
+      {
+        "id": "A447",
+        "features": [
+          "aff_eat",
+          "aff_push",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.602152166545094,
+        "support": 13,
+        "components": []
+      },
+      {
+        "id": "A448",
+        "features": [
+          "aff_eat",
+          "aff_put",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6083592323597038,
+        "support": 35,
+        "components": []
+      },
+      {
+        "id": "A449",
+        "features": [
+          "aff_eat",
+          "aff_put",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.7322142005530798,
+        "support": 11,
+        "components": []
+      },
+      {
+        "id": "A450",
+        "features": [
+          "aff_eat",
+          "aff_sit",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.5398719632883158,
+        "support": 8,
+        "components": []
+      },
+      {
+        "id": "A451",
+        "features": [
+          "aff_hold",
+          "aff_lie",
+          "aff_move"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5412074656867135,
+        "support": 146,
+        "components": []
+      },
+      {
+        "id": "A452",
+        "features": [
+          "aff_hold",
+          "aff_lift",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5107542786295274,
+        "support": 164,
+        "components": []
+      },
+      {
+        "id": "A453",
+        "features": [
+          "aff_hold",
+          "aff_move",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6440276753394784,
+        "support": 121,
+        "components": []
+      },
+      {
+        "id": "A454",
+        "features": [
+          "aff_hold",
+          "aff_move",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6085366496117616,
+        "support": 123,
+        "components": []
+      },
+      {
+        "id": "A455",
+        "features": [
+          "aff_hold",
+          "aff_move",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.688872742281362,
+        "support": 158,
+        "components": []
+      },
+      {
+        "id": "A456",
+        "features": [
+          "aff_hold",
+          "aff_move",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.741747125003782,
+        "support": 15,
+        "components": []
+      },
+      {
+        "id": "A457",
+        "features": [
+          "aff_hold",
+          "aff_open",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5824324071327209,
+        "support": 106,
+        "components": []
+      },
+      {
+        "id": "A458",
+        "features": [
+          "aff_hold",
+          "aff_pick",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6094502665257677,
+        "support": 103,
+        "components": []
+      },
+      {
+        "id": "A459",
+        "features": [
+          "aff_hold",
+          "aff_pick",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7674913226563269,
+        "support": 143,
+        "components": []
+      },
+      {
+        "id": "A460",
+        "features": [
+          "aff_hold",
+          "aff_pick",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7770152740976494,
+        "support": 13,
+        "components": []
+      },
+      {
+        "id": "A461",
+        "features": [
+          "aff_hold",
+          "aff_pull",
+          "aff_push"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.567633539729901,
+        "support": 166,
+        "components": []
+      },
+      {
+        "id": "A462",
+        "features": [
+          "aff_hold",
+          "aff_pull",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.722575156554846,
+        "support": 144,
+        "components": []
+      },
+      {
+        "id": "A463",
+        "features": [
+          "aff_hold",
+          "aff_pull",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6450877374653572,
+        "support": 12,
+        "components": []
+      },
+      {
+        "id": "A464",
+        "features": [
+          "aff_hold",
+          "aff_push",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5236704163087849,
+        "support": 166,
+        "components": []
+      },
+      {
+        "id": "A465",
+        "features": [
+          "aff_hold",
+          "aff_push",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5833621299266247,
+        "support": 18,
+        "components": []
+      },
+      {
+        "id": "A466",
+        "features": [
+          "aff_hold",
+          "aff_put",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6981566889289202,
+        "support": 15,
+        "components": []
+      },
+      {
+        "id": "A467",
+        "features": [
+          "aff_lie",
+          "aff_lift",
+          "aff_move"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6461943129323712,
+        "support": 138,
+        "components": []
+      },
+      {
+        "id": "A468",
+        "features": [
+          "aff_lie",
+          "aff_lift",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6068398133282641,
+        "support": 111,
+        "components": []
+      },
+      {
+        "id": "A469",
+        "features": [
+          "aff_lie",
+          "aff_lift",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5273804561860449,
+        "support": 128,
+        "components": []
+      },
+      {
+        "id": "A470",
+        "features": [
+          "aff_lie",
+          "aff_lift",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6136460077192919,
+        "support": 123,
+        "components": []
+      },
+      {
+        "id": "A471",
+        "features": [
+          "aff_lie",
+          "aff_move",
+          "aff_open"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5195044591639023,
+        "support": 70,
+        "components": []
+      },
+      {
+        "id": "A472",
+        "features": [
+          "aff_lie",
+          "aff_move",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.9077468674966083,
+        "support": 102,
+        "components": []
+      },
+      {
+        "id": "A473",
+        "features": [
+          "aff_lie",
+          "aff_move",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7195255900074989,
+        "support": 89,
+        "components": []
+      },
+      {
+        "id": "A474",
+        "features": [
+          "aff_lie",
+          "aff_move",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8810961995249754,
+        "support": 124,
+        "components": []
+      },
+      {
+        "id": "A475",
+        "features": [
+          "aff_lie",
+          "aff_move",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5563739507435372,
+        "support": 79,
+        "components": []
+      },
+      {
+        "id": "A476",
+        "features": [
+          "aff_lie",
+          "aff_move",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6654584686123729,
+        "support": 9,
+        "components": []
+      },
+      {
+        "id": "A477",
+        "features": [
+          "aff_lie",
+          "aff_open",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7355568736907143,
+        "support": 80,
+        "components": []
+      },
+      {
+        "id": "A478",
+        "features": [
+          "aff_lie",
+          "aff_pick",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.568141290502207,
+        "support": 64,
+        "components": []
+      },
+      {
+        "id": "A479",
+        "features": [
+          "aff_lie",
+          "aff_pick",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8543041350758034,
+        "support": 101,
+        "components": []
+      },
+      {
+        "id": "A480",
+        "features": [
+          "aff_lie",
+          "aff_pick",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8438274510905043,
+        "support": 9,
+        "components": []
+      },
+      {
+        "id": "A481",
+        "features": [
+          "aff_lie",
+          "aff_pull",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6181155837126177,
+        "support": 84,
+        "components": []
+      },
+      {
+        "id": "A482",
+        "features": [
+          "aff_lie",
+          "aff_pull",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.57609012385323,
+        "support": 71,
+        "components": []
+      },
+      {
+        "id": "A483",
+        "features": [
+          "aff_lie",
+          "aff_pull",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6741595939539964,
+        "support": 8,
+        "components": []
+      },
+      {
+        "id": "A484",
+        "features": [
+          "aff_lie",
+          "aff_push",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6502405977882644,
+        "support": 122,
+        "components": []
+      },
+      {
+        "id": "A485",
+        "features": [
+          "aff_lie",
+          "aff_put",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7272285370842275,
+        "support": 10,
+        "components": []
+      },
+      {
+        "id": "A486",
+        "features": [
+          "aff_lift",
+          "aff_move",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7717508482227665,
+        "support": 117,
+        "components": []
+      },
+      {
+        "id": "A487",
+        "features": [
+          "aff_lift",
+          "aff_move",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7198660128537547,
+        "support": 117,
+        "components": []
+      },
+      {
+        "id": "A488",
+        "features": [
+          "aff_lift",
+          "aff_move",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8310426096958683,
+        "support": 155,
+        "components": []
+      },
+      {
+        "id": "A489",
+        "features": [
+          "aff_lift",
+          "aff_move",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.9030869084035094,
+        "support": 15,
+        "components": []
+      },
+      {
+        "id": "A490",
+        "features": [
+          "aff_lift",
+          "aff_open",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5431368302523258,
+        "support": 83,
+        "components": []
+      },
+      {
+        "id": "A491",
+        "features": [
+          "aff_lift",
+          "aff_open",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7150620849247926,
+        "support": 103,
+        "components": []
+      },
+      {
+        "id": "A492",
+        "features": [
+          "aff_lift",
+          "aff_pick",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7610338750753143,
+        "support": 102,
+        "components": []
+      },
+      {
+        "id": "A493",
+        "features": [
+          "aff_lift",
+          "aff_pick",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8786413618921333,
+        "support": 136,
+        "components": []
+      },
+      {
+        "id": "A494",
+        "features": [
+          "aff_lift",
+          "aff_pick",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.938355057497377,
+        "support": 13,
+        "components": []
+      },
+      {
+        "id": "A495",
+        "features": [
+          "aff_lift",
+          "aff_pull",
+          "aff_push"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6668415424087825,
+        "support": 156,
+        "components": []
+      },
+      {
+        "id": "A496",
+        "features": [
+          "aff_lift",
+          "aff_pull",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8769462706870426,
+        "support": 143,
+        "components": []
+      },
+      {
+        "id": "A497",
+        "features": [
+          "aff_lift",
+          "aff_pull",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.614924082009655,
+        "support": 97,
+        "components": []
+      },
+      {
+        "id": "A498",
+        "features": [
+          "aff_lift",
+          "aff_pull",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7194161514512116,
+        "support": 11,
+        "components": []
+      },
+      {
+        "id": "A499",
+        "features": [
+          "aff_lift",
+          "aff_push",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5031567572827423,
+        "support": 157,
+        "components": []
+      },
+      {
+        "id": "A500",
+        "features": [
+          "aff_lift",
+          "aff_push",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6667726122696045,
+        "support": 163,
+        "components": []
+      },
+      {
+        "id": "A501",
+        "features": [
+          "aff_lift",
+          "aff_push",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6269188846144131,
+        "support": 16,
+        "components": []
+      },
+      {
+        "id": "A502",
+        "features": [
+          "aff_lift",
+          "aff_put",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8594964723286476,
+        "support": 15,
+        "components": []
+      },
+      {
+        "id": "A503",
+        "features": [
+          "aff_move",
+          "aff_open",
+          "aff_pick"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6046967725564513,
+        "support": 57,
+        "components": []
+      },
+      {
+        "id": "A504",
+        "features": [
+          "aff_move",
+          "aff_open",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5702036795968284,
+        "support": 58,
+        "components": []
+      },
+      {
+        "id": "A505",
+        "features": [
+          "aff_move",
+          "aff_open",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5443787029413878,
+        "support": 67,
+        "components": []
+      },
+      {
+        "id": "A506",
+        "features": [
+          "aff_move",
+          "aff_open",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5601421072766812,
+        "support": 60,
+        "components": []
+      },
+      {
+        "id": "A507",
+        "features": [
+          "aff_move",
+          "aff_open",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6930155148471207,
+        "support": 7,
+        "components": []
+      },
+      {
+        "id": "A508",
+        "features": [
+          "aff_move",
+          "aff_pick",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7981916262935607,
+        "support": 72,
+        "components": []
+      },
+      {
+        "id": "A509",
+        "features": [
+          "aff_move",
+          "aff_pick",
+          "aff_push"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5541444869608718,
+        "support": 90,
+        "components": []
+      },
+      {
+        "id": "A510",
+        "features": [
+          "aff_move",
+          "aff_pick",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.0427988016080907,
+        "support": 109,
+        "components": []
+      },
+      {
+        "id": "A511",
+        "features": [
+          "aff_move",
+          "aff_pick",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.555099830822372,
+        "support": 59,
+        "components": []
+      },
+      {
+        "id": "A512",
+        "features": [
+          "aff_move",
+          "aff_pick",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.2437767976355913,
+        "support": 12,
+        "components": []
+      },
+      {
+        "id": "A513",
+        "features": [
+          "aff_move",
+          "aff_pull",
+          "aff_push"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7646239134952486,
+        "support": 117,
+        "components": []
+      },
+      {
+        "id": "A514",
+        "features": [
+          "aff_move",
+          "aff_pull",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.9723949186433238,
+        "support": 107,
+        "components": []
+      },
+      {
+        "id": "A515",
+        "features": [
+          "aff_move",
+          "aff_pull",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8201267016166063,
+        "support": 81,
+        "components": []
+      },
+      {
+        "id": "A516",
+        "features": [
+          "aff_move",
+          "aff_pull",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.9042099175925736,
+        "support": 9,
+        "components": []
+      },
+      {
+        "id": "A517",
+        "features": [
+          "aff_move",
+          "aff_push",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6363964398964801,
+        "support": 122,
+        "components": []
+      },
+      {
+        "id": "A518",
+        "features": [
+          "aff_move",
+          "aff_push",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5636570427174593,
+        "support": 100,
+        "components": []
+      },
+      {
+        "id": "A519",
+        "features": [
+          "aff_move",
+          "aff_push",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8788519423199561,
+        "support": 14,
+        "components": []
+      },
+      {
+        "id": "A520",
+        "features": [
+          "aff_move",
+          "aff_put",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6744435712592978,
+        "support": 83,
+        "components": []
+      },
+      {
+        "id": "A521",
+        "features": [
+          "aff_move",
+          "aff_put",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.1018600803458787,
+        "support": 13,
+        "components": []
+      },
+      {
+        "id": "A522",
+        "features": [
+          "aff_move",
+          "aff_sit",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7424637724039613,
+        "support": 8,
+        "components": []
+      },
+      {
+        "id": "A523",
+        "features": [
+          "aff_open",
+          "aff_pick",
+          "aff_pull"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6584215667072076,
+        "support": 53,
+        "components": []
+      },
+      {
+        "id": "A524",
+        "features": [
+          "aff_open",
+          "aff_pick",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7521615701931927,
+        "support": 69,
+        "components": []
+      },
+      {
+        "id": "A525",
+        "features": [
+          "aff_open",
+          "aff_pick",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7172338413075137,
+        "support": 6,
+        "components": []
+      },
+      {
+        "id": "A526",
+        "features": [
+          "aff_open",
+          "aff_pull",
+          "aff_push"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6234014189304434,
+        "support": 86,
+        "components": []
+      },
+      {
+        "id": "A527",
+        "features": [
+          "aff_open",
+          "aff_pull",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6856779356161571,
+        "support": 68,
+        "components": []
+      },
+      {
+        "id": "A528",
+        "features": [
+          "aff_open",
+          "aff_pull",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7511647744817052,
+        "support": 64,
+        "components": []
+      },
+      {
+        "id": "A529",
+        "features": [
+          "aff_open",
+          "aff_push",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7500638107161054,
+        "support": 102,
+        "components": []
+      },
+      {
+        "id": "A530",
+        "features": [
+          "aff_open",
+          "aff_push",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6036233706219978,
+        "support": 9,
+        "components": []
+      },
+      {
+        "id": "A531",
+        "features": [
+          "aff_pick",
+          "aff_pull",
+          "aff_push"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7555299414412763,
+        "support": 97,
+        "components": []
+      },
+      {
+        "id": "A532",
+        "features": [
+          "aff_pick",
+          "aff_pull",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.083105253301846,
+        "support": 100,
+        "components": []
+      },
+      {
+        "id": "A533",
+        "features": [
+          "aff_pick",
+          "aff_pull",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5743384494966661,
+        "support": 53,
+        "components": []
+      },
+      {
+        "id": "A534",
+        "features": [
+          "aff_pick",
+          "aff_pull",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.082578900070705,
+        "support": 9,
+        "components": []
+      },
+      {
+        "id": "A535",
+        "features": [
+          "aff_pick",
+          "aff_push",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7381321970065317,
+        "support": 113,
+        "components": []
+      },
+      {
+        "id": "A536",
+        "features": [
+          "aff_pick",
+          "aff_push",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.9831129581388706,
+        "support": 13,
+        "components": []
+      },
+      {
+        "id": "A537",
+        "features": [
+          "aff_pick",
+          "aff_put",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.577106676157187,
+        "support": 63,
+        "components": []
+      },
+      {
+        "id": "A538",
+        "features": [
+          "aff_pick",
+          "aff_put",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.1131749921468566,
+        "support": 11,
+        "components": []
+      },
+      {
+        "id": "A539",
+        "features": [
+          "aff_pick",
+          "aff_sit",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6331507240969724,
+        "support": 6,
+        "components": []
+      },
+      {
+        "id": "A540",
+        "features": [
+          "aff_pull",
+          "aff_push",
+          "aff_put"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8933334744005583,
+        "support": 139,
+        "components": []
+      },
+      {
+        "id": "A541",
+        "features": [
+          "aff_pull",
+          "aff_push",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.6800908540740872,
+        "support": 99,
+        "components": []
+      },
+      {
+        "id": "A542",
+        "features": [
+          "aff_pull",
+          "aff_push",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.851185421506578,
+        "support": 12,
+        "components": []
+      },
+      {
+        "id": "A543",
+        "features": [
+          "aff_pull",
+          "aff_put",
+          "aff_sit"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.7515349636488761,
+        "support": 79,
+        "components": []
+      },
+      {
+        "id": "A544",
+        "features": [
+          "aff_pull",
+          "aff_put",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 1.0612901567778448,
+        "support": 11,
+        "components": []
+      },
+      {
+        "id": "A545",
+        "features": [
+          "aff_push",
+          "aff_put",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.835261506245094,
+        "support": 14,
+        "components": []
+      },
+      {
+        "id": "A546",
+        "features": [
+          "aff_push",
+          "aff_sit",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.5195402534114564,
+        "support": 9,
+        "components": []
+      },
+      {
+        "id": "A547",
+        "features": [
+          "aff_put",
+          "aff_sit",
+          "aff_stir"
+        ],
+        "layer": 1,
+        "space": "affordance",
+        "pmi": 0.8166563580965959,
+        "support": 9,
+        "components": []
+      }
+    ],
+    "material": [
+      {
+        "id": "M1",
+        "features": [
+          "mat_ceramic",
+          "mat_glass"
+        ],
+        "layer": 1,
+        "space": "material",
+        "pmi": 3.180366970105825,
+        "support": 1,
+        "components": []
+      },
+      {
+        "id": "M2",
+        "features": [
+          "mat_ceramic",
+          "mat_metal"
+        ],
+        "layer": 1,
+        "space": "material",
+        "pmi": 1.4457659147177186,
+        "support": 1,
+        "components": []
+      },
+      {
+        "id": "M3",
+        "features": [
+          "mat_foam",
+          "mat_wood"
+        ],
+        "layer": 1,
+        "space": "material",
+        "pmi": 4.278979258773934,
+        "support": 1,
+        "components": []
+      },
+      {
+        "id": "M4",
+        "features": [
+          "mat_glass",
+          "mat_metal"
+        ],
+        "layer": 1,
+        "space": "material",
+        "pmi": 2.8320597758379846,
+        "support": 2,
+        "components": []
+      }
+    ],
+    "physical": [
+      {
+        "id": "P1",
+        "features": [
+          "phys_shape_bowl",
+          "phys_shape_round"
+        ],
+        "layer": 1,
+        "space": "physical",
+        "pmi": 3.87351415066577,
+        "support": 1,
+        "components": []
+      },
+      {
+        "id": "P2",
+        "features": [
+          "phys_shape_boxy",
+          "phys_shape_long"
+        ],
+        "layer": 1,
+        "space": "physical",
+        "pmi": 2.48721978954588,
+        "support": 1,
+        "components": []
+      },
+      {
+        "id": "P3",
+        "features": [
+          "phys_shape_cylindrical",
+          "phys_shape_long"
+        ],
+        "layer": 1,
+        "space": "physical",
+        "pmi": 1.2344568210505118,
+        "support": 1,
+        "components": []
+      },
+      {
+        "id": "P4",
+        "features": [
+          "phys_shape_flat",
+          "phys_shape_round"
+        ],
+        "layer": 1,
+        "space": "physical",
+        "pmi": 3.87351415066577,
+        "support": 1,
+        "components": []
+      }
+    ],
+    "structure": [
+      {
+        "id": "S1",
+        "features": [
+          "geom_cavity",
+          "part_handle"
+        ],
+        "layer": 1,
+        "space": "structure",
+        "pmi": 3.180366220106294,
+        "support": 4,
+        "components": []
+      },
+      {
+        "id": "S2",
+        "features": [
+          "geom_cavity",
+          "size_medium"
+        ],
+        "layer": 1,
+        "space": "structure",
+        "pmi": 2.0276865435012694,
+        "support": 12,
+        "components": []
+      },
+      {
+        "id": "S3",
+        "features": [
+          "part_clamp",
+          "size_large"
+        ],
+        "layer": 1,
+        "space": "structure",
+        "pmi": 4.27897875877431,
+        "support": 2,
+        "components": []
+      },
+      {
+        "id": "S4",
+        "features": [
+          "part_clamp",
+          "size_medium"
+        ],
+        "layer": 1,
+        "space": "structure",
+        "pmi": 0.6413930990475488,
+        "support": 1,
+        "components": []
+      },
+      {
+        "id": "S5",
+        "features": [
+          "part_clamp",
+          "size_small"
+        ],
+        "layer": 1,
+        "space": "structure",
+        "pmi": 1.851231022825883,
+        "support": 1,
+        "components": []
+      },
+      {
+        "id": "S6",
+        "features": [
+          "part_handle",
+          "size_medium"
+        ],
+        "layer": 1,
+        "space": "structure",
+        "pmi": 2.0276866268345923,
+        "support": 6,
+        "components": []
+      },
+      {
+        "id": "S7",
+        "features": [
+          "size_medium",
+          "size_small"
+        ],
+        "layer": 1,
+        "space": "structure",
+        "pmi": 1.5923684798191808,
+        "support": 11,
+        "components": []
+      },
+      {
+        "id": "S8",
+        "features": [
+          "geom_cavity",
+          "part_handle",
+          "size_medium"
+        ],
+        "layer": 1,
+        "space": "structure",
+        "pmi": 5.208052680274234,
+        "support": 4,
+        "components": []
+      }
+    ]
+  },
+  "L2_compounds": [
+    {
+      "id": "X1",
+      "features": [
+        "geom_cavity",
+        "mat_glass",
+        "mat_metal",
+        "size_medium"
+      ],
+      "layer": 2,
+      "space": "cross",
+      "pmi": 3.5858315782143646,
+      "support": 2,
+      "components": [
+        "M4",
+        "S2"
+      ]
+    }
+  ]
+}
